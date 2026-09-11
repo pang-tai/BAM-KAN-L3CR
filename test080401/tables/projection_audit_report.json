@@ -1,0 +1,9 @@
+{
+  "cases_requested": 19,
+  "cases_completed": 19,
+  "cases_failed": 0,
+  "hole_band_cases": 2,
+  "all_required_fields_available": true,
+  "method": "For each Excel Concrete nodal field, normalize coordinates per case, linearly interpolate to a 64x64x4 grid, nearest-fill outside the convex hull, then linearly interpolate back to the original nodes.",
+  "caveat": "This is a discretization/projection audit, not a model prediction error and not a substitute for mesh-convergence analysis."
+}

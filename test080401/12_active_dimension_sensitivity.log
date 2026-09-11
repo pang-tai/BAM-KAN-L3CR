@@ -1,0 +1,11 @@
+ active_dimension                  model  n_seeds  global_score_mean  global_score_std  hole_score_mean  hole_score_std  balanced_score_mean  balanced_score_std  accepted_steps_mean  refinement_seconds_mean
+               12          BAM-KAN-AdamW        5           0.804169          0.056156         0.470633        0.056548             0.637401            0.047820                  NaN                      NaN
+               12 BAM-KAN-AdamW-L3CR-PGD        5           0.804108          0.056299         0.469497        0.054759             0.636803            0.047079                  3.0                58.743835
+               16          BAM-KAN-AdamW        5           0.804169          0.056156         0.470633        0.056548             0.637401            0.047820                  NaN                      NaN
+               16 BAM-KAN-AdamW-L3CR-PGD        5           0.804065          0.056237         0.469444        0.054252             0.636754            0.046789                  3.0                76.505191
+               32          BAM-KAN-AdamW        5           0.804169          0.056156         0.470633        0.056548             0.637401            0.047820                  NaN                      NaN
+               32 BAM-KAN-AdamW-L3CR-PGD        5           0.804057          0.056261         0.469007        0.053428             0.636532            0.046339                  3.0               144.259141
+               64          BAM-KAN-AdamW        5           0.804169          0.056156         0.470633        0.056548             0.637401            0.047820                  NaN                      NaN
+               64 BAM-KAN-AdamW-L3CR-PGD        5           0.804089          0.056321         0.468439        0.053035             0.636264            0.046349                  3.0               268.802777
+              128          BAM-KAN-AdamW        1           0.725519               NaN         0.462377             NaN             0.593948                 NaN                  NaN                      NaN
+              128 BAM-KAN-AdamW-L3CR-PGD        1           0.725369               NaN         0.461837             NaN             0.593603                 NaN                  1.0               183.455153

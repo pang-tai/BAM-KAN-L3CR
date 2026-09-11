@@ -1,0 +1,6 @@
+solver,seed,method,outer_iterations,accepted_steps,hvp_evaluations,total_solver_iterations,validation_evaluations,wall_seconds,max_outer_backtracks,max_inner_backtracks,active_dimension,outer_backtrack_trials,closure_samples,data_protocol
+PGD,11,BAM-KAN-AdamW-L3CR-PGD,3,3.0,36,40,3,116.18449879309628,1,0,12,2,8,leakage_free_v1 formal BAM-KAN checkpoints
+PGD,23,BAM-KAN-AdamW-L3CR-PGD,3,3.0,36,18,3,114.76875862502493,1,0,12,1,8,leakage_free_v1 formal BAM-KAN checkpoints
+PGD,37,BAM-KAN-AdamW-L3CR-PGD,3,3.0,36,19,3,113.0908092079917,0,0,12,0,8,leakage_free_v1 formal BAM-KAN checkpoints
+PGD,51,BAM-KAN-AdamW-L3CR-PGD,3,3.0,36,16,3,115.21064233384095,0,0,12,0,8,leakage_free_v1 formal BAM-KAN checkpoints
+PGD,73,BAM-KAN-AdamW-L3CR-PGD,3,3.0,36,23,3,127.02361358504277,2,0,12,6,8,leakage_free_v1 formal BAM-KAN checkpoints

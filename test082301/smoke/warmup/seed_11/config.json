@@ -1,0 +1,40 @@
+{
+  "seeds": [
+    11
+  ],
+  "closure_indices": [
+    7,
+    21,
+    29,
+    63,
+    84,
+    89,
+    95,
+    158
+  ],
+  "budgets_seconds": [
+    5,
+    10
+  ],
+  "epochs": 2,
+  "batch_size": 8,
+  "patience": 2,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "eta_min_ratio": 0.05,
+  "grad_clip": 5.0,
+  "adamw_lr_multiplier": 0.3,
+  "validation_slack": 0.005,
+  "validation_cadence_seconds": 15.0,
+  "lbfgs_history_size": 20,
+  "sigma_initial": 1000000.0,
+  "sigma_minimum": 1e-08,
+  "sigma_maximum": 1000000000000.0,
+  "eta_accept": 0.1,
+  "eta_very_successful": 0.75,
+  "backtracking_trials": 8,
+  "inner_tolerance": 1e-07,
+  "inner_iterations": 40,
+  "max_accepted_outer_steps": 1,
+  "bootstrap_repetitions": 1000
+}

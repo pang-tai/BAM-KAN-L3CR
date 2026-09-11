@@ -1,0 +1,25 @@
+experiment,condition,method,threshold,reached_count,reached_within_500_count,total_count,median_time_reached,median_equivalents_reached,median_equivalents_within_500
+bam_head,full_137_training_cases,AdamW,0.0001,5,5,5,0.0190971251577138,117.0,117.0
+bam_head,full_137_training_cases,AdamW,1e-06,5,4,5,0.0330208749510347,205.0,201.5
+bam_head,full_137_training_cases,AdamW,1e-08,4,0,5,0.276531187351793,1772.0,-1.0
+bam_head,full_137_training_cases,AdamW,1e-10,0,0,5,-1.0,-1.0,-1.0
+bam_head,full_137_training_cases,AdamW-0,0.0001,5,5,5,0.0179462078958749,117.0,117.0
+bam_head,full_137_training_cases,AdamW-0,1e-06,5,4,5,0.0310711245983839,205.0,201.5
+bam_head,full_137_training_cases,AdamW-0,1e-08,5,4,5,0.0448505827225744,293.0,292.5
+bam_head,full_137_training_cases,AdamW-0,1e-10,5,3,5,0.0580229158513248,383.0,382.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,0.0001,5,5,5,0.0833374578505754,45.0,45.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,1e-06,5,5,5,0.0833374578505754,45.0,45.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,1e-08,5,5,5,0.1267307908274233,67.0,67.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,1e-10,5,5,5,0.1267307908274233,67.0,67.0
+bam_head,full_137_training_cases,L-BFGS,0.0001,5,5,5,0.0114549580030143,50.0,50.0
+bam_head,full_137_training_cases,L-BFGS,1e-06,5,5,5,0.0416346252895891,174.0,174.0
+bam_head,full_137_training_cases,L-BFGS,1e-08,1,0,5,0.1487255413085222,682.0,-1.0
+bam_head,full_137_training_cases,L-BFGS,1e-10,0,0,5,-1.0,-1.0,-1.0
+bam_head,full_137_training_cases,Original fixed L3CR,0.0001,5,5,5,0.0626272079534828,45.0,45.0
+bam_head,full_137_training_cases,Original fixed L3CR,1e-06,5,5,5,0.0652485000900924,45.0,45.0
+bam_head,full_137_training_cases,Original fixed L3CR,1e-08,5,5,5,0.0937864161096513,67.0,67.0
+bam_head,full_137_training_cases,Original fixed L3CR,1e-10,5,5,5,0.0969903748482465,67.0,67.0
+bam_head,full_137_training_cases,User optimized L3CR,0.0001,5,5,5,0.0602795830927789,45.0,45.0
+bam_head,full_137_training_cases,User optimized L3CR,1e-06,5,5,5,0.0602795830927789,45.0,45.0
+bam_head,full_137_training_cases,User optimized L3CR,1e-08,5,5,5,0.0923347081989049,67.0,67.0
+bam_head,full_137_training_cases,User optimized L3CR,1e-10,5,5,5,0.0923347081989049,67.0,67.0

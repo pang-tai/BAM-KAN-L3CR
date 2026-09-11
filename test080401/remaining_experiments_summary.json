@@ -1,0 +1,14 @@
+{
+  "isolation_models": [
+    "BAM-KAN",
+    "BAM-MLP",
+    "BAM-Conv"
+  ],
+  "ablation_models": [
+    "BAM-KAN-full",
+    "BAM-KAN-no-local",
+    "BAM-KAN-no-fine",
+    "BAM-KAN-no-coarse"
+  ],
+  "refinement_rows": 10
+}

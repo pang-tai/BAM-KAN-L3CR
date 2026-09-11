@@ -1,0 +1,5 @@
+{
+  "method": "lbfgs",
+  "seed": 23,
+  "source_checkpoint_sha256": "633c7e49061a80b137f06a237036f5f6a6e5fef0a1f8825c1a55f8a51e174cc7"
+}

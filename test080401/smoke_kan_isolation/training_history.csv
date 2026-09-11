@@ -1,0 +1,3 @@
+model,seed,epoch,train_loss,validation_loss,learning_rate
+BAM-MLP,11,0,0.9526262735798411,0.9725206613540649,5e-05
+BAM-Conv,11,0,0.9526262631381515,0.9725206375122071,5e-05

@@ -1,0 +1,73 @@
+experiment,condition,method,threshold,reached_count,reached_within_500_count,total_count,median_time_reached,median_equivalents_reached,median_equivalents_within_500
+bam_head,full_137_training_cases,AdamW,0.0001,5,5,5,0.0190971251577138,117.0,117.0
+bam_head,full_137_training_cases,AdamW,1e-06,5,4,5,0.0330208749510347,205.0,201.5
+bam_head,full_137_training_cases,AdamW,1e-08,4,0,5,0.27653118735179305,1772.0,-1.0
+bam_head,full_137_training_cases,AdamW,1e-10,0,0,5,-1.0,-1.0,-1.0
+bam_head,full_137_training_cases,AdamW-0,0.0001,5,5,5,0.0179462078958749,117.0,117.0
+bam_head,full_137_training_cases,AdamW-0,1e-06,5,4,5,0.0310711245983839,205.0,201.5
+bam_head,full_137_training_cases,AdamW-0,1e-08,5,4,5,0.0448505827225744,293.0,292.5
+bam_head,full_137_training_cases,AdamW-0,1e-10,5,3,5,0.0580229158513248,383.0,382.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,0.0001,5,5,5,0.0833374578505754,45.0,45.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,1e-06,5,5,5,0.0833374578505754,45.0,45.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,1e-08,5,5,5,0.1267307908274233,67.0,67.0
+bam_head,full_137_training_cases,Certified adaptive L3CR,1e-10,5,5,5,0.1267307908274233,67.0,67.0
+bam_head,full_137_training_cases,L-BFGS,0.0001,5,5,5,0.0114549580030143,50.0,50.0
+bam_head,full_137_training_cases,L-BFGS,1e-06,5,5,5,0.0416346252895891,174.0,174.0
+bam_head,full_137_training_cases,L-BFGS,1e-08,1,0,5,0.1487255413085222,682.0,-1.0
+bam_head,full_137_training_cases,L-BFGS,1e-10,0,0,5,-1.0,-1.0,-1.0
+bam_head,full_137_training_cases,Original fixed L3CR,0.0001,5,5,5,0.0626272079534828,45.0,45.0
+bam_head,full_137_training_cases,Original fixed L3CR,1e-06,5,5,5,0.0652485000900924,45.0,45.0
+bam_head,full_137_training_cases,Original fixed L3CR,1e-08,5,5,5,0.0937864161096513,67.0,67.0
+bam_head,full_137_training_cases,Original fixed L3CR,1e-10,5,5,5,0.0969903748482465,67.0,67.0
+bam_head,full_137_training_cases,User optimized L3CR,0.0001,5,5,5,0.0602795830927789,45.0,45.0
+bam_head,full_137_training_cases,User optimized L3CR,1e-06,5,5,5,0.0602795830927789,45.0,45.0
+bam_head,full_137_training_cases,User optimized L3CR,1e-08,5,5,5,0.0923347081989049,67.0,67.0
+bam_head,full_137_training_cases,User optimized L3CR,1e-10,5,5,5,0.0923347081989049,67.0,67.0
+synthetic,far_negative_control,AdamW,0.0001,10,8,10,0.06290195812471205,210.5,169.5
+synthetic,far_negative_control,AdamW,1e-06,8,0,10,1.0703617921099067,3601.5,-1.0
+synthetic,far_negative_control,AdamW,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,AdamW,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,AdamW-0,0.0001,10,8,10,0.06062729144468901,210.5,169.5
+synthetic,far_negative_control,AdamW-0,1e-06,8,0,10,1.108736125053838,3773.5,-1.0
+synthetic,far_negative_control,AdamW-0,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,AdamW-0,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,Certified adaptive L3CR,0.0001,10,9,10,0.7454997703898698,314.5,305.0
+synthetic,far_negative_control,Certified adaptive L3CR,1e-06,1,1,10,1.452424957882613,457.0,457.0
+synthetic,far_negative_control,Certified adaptive L3CR,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,Certified adaptive L3CR,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,L-BFGS,0.0001,10,10,10,0.01490750000812105,45.0,45.0
+synthetic,far_negative_control,L-BFGS,1e-06,10,10,10,0.050927020609378745,146.5,146.5
+synthetic,far_negative_control,L-BFGS,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,L-BFGS,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,Original fixed L3CR,0.0001,10,7,10,0.6942285210825503,362.0,267.0
+synthetic,far_negative_control,Original fixed L3CR,1e-06,1,0,10,1.6150779169984162,837.0,-1.0
+synthetic,far_negative_control,Original fixed L3CR,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,Original fixed L3CR,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,User optimized L3CR,0.0001,9,7,10,0.4896268327720463,267.0,210.0
+synthetic,far_negative_control,User optimized L3CR,1e-06,1,0,10,1.985299582593143,1103.0,-1.0
+synthetic,far_negative_control,User optimized L3CR,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,far_negative_control,User optimized L3CR,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,AdamW,0.0001,10,10,10,0.0236657082568854,77.5,77.5
+synthetic,near_local_solution,AdamW,1e-06,10,10,10,0.0697952504269778,233.5,233.5
+synthetic,near_local_solution,AdamW,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,AdamW,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,AdamW-0,0.0001,10,10,10,0.022789083654060897,77.5,77.5
+synthetic,near_local_solution,AdamW-0,1e-06,10,10,10,0.0681911245919764,233.5,233.5
+synthetic,near_local_solution,AdamW-0,1e-08,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,AdamW-0,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,Certified adaptive L3CR,0.0001,10,10,10,0.3576441879849881,153.0,153.0
+synthetic,near_local_solution,Certified adaptive L3CR,1e-06,10,10,10,0.7011029794812202,248.0,248.0
+synthetic,near_local_solution,Certified adaptive L3CR,1e-08,3,0,10,1.906605666037649,704.0,-1.0
+synthetic,near_local_solution,Certified adaptive L3CR,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,L-BFGS,0.0001,10,10,10,0.0025624586269259,8.5,8.5
+synthetic,near_local_solution,L-BFGS,1e-06,10,10,10,0.0153009579516947,45.5,45.5
+synthetic,near_local_solution,L-BFGS,1e-08,2,0,10,1.289069103775546,4063.0,-1.0
+synthetic,near_local_solution,L-BFGS,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,Original fixed L3CR,0.0001,10,10,10,0.035000020638108253,20.0,20.0
+synthetic,near_local_solution,Original fixed L3CR,1e-06,10,9,10,0.4448595205321908,238.5,210.0
+synthetic,near_local_solution,Original fixed L3CR,1e-08,4,1,10,1.2602656460367143,685.0,286.0
+synthetic,near_local_solution,Original fixed L3CR,1e-10,0,0,10,-1.0,-1.0,-1.0
+synthetic,near_local_solution,User optimized L3CR,0.0001,10,10,10,0.033724729670211645,20.0,20.0
+synthetic,near_local_solution,User optimized L3CR,1e-06,10,8,10,0.2768073126208037,143.5,124.5
+synthetic,near_local_solution,User optimized L3CR,1e-08,3,1,10,0.923855791799724,533.0,305.0
+synthetic,near_local_solution,User optimized L3CR,1e-10,0,0,10,-1.0,-1.0,-1.0

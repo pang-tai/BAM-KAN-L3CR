@@ -1,0 +1,14 @@
+channel,role,decision,reason
+0,target,target,reported FEM output S1 or U
+1,target,target,reported FEM output S1 or U
+2,input,retain,geometry/material/control field according to channel map
+3,input,retain,geometry/material/control field according to channel map
+4,input,exclude,response-derived or provenance uncertain; exclusion is conservative
+5,input,retain,geometry/material/control field according to channel map
+6,input,retain,geometry/material/control field according to channel map
+7,input,retain,geometry/material/control field according to channel map
+8,input,retain,geometry/material/control field according to channel map
+9,input,retain,geometry/material/control field according to channel map
+10,input,exclude,response-derived or provenance uncertain; exclusion is conservative
+11,input,retain,geometry/material/control field according to channel map
+12,input,exclude,response-derived or provenance uncertain; exclusion is conservative

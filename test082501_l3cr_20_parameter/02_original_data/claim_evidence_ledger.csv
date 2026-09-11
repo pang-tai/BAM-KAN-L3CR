@@ -1,0 +1,7 @@
+claim,status,evidence,allowed_wording
+The adaptive forcing tolerance is numerically consistent and tightens to 1e-12.,supported,self_tests.csv,The adaptive rule passed monotonicity and high-accuracy certificate checks.
+The user-optimized implementation is a certified inexact L3CR method.,not supported,algorithm_audit.csv: 112 accepted steps did not meet the inner target,The implementation enforces actual decrease but not the forcing condition at every accepted step.
+L3CR is more reverse-mode efficient on the 20-parameter BAM quadratic head.,conditionally supported,threshold_reach_summary.csv: all 5 L3CR seeds versus 3/5 AdamW-0 seeds reached 1e-10 within 500 equivalents,L3CR required fewer reverse-mode equivalents on this deterministic 20-dimensional quadratic refinement.
+L3CR is faster in wall-clock time than AdamW-0.,refuted,threshold_reach_summary.csv,AdamW-0 reached 1e-10 faster in CPU wall-clock time.
+The new implementation improves general nonlinear neural-network gradient accuracy.,not supported,metrics_summary.csv and paired_comparisons.csv,No stable nonlinear gradient-accuracy advantage was observed.
+Higher training precision improves BAM test accuracy.,refuted,bam_snapshot_metrics.csv,Converged second-order routes had indistinguishable test metrics at displayed precision.

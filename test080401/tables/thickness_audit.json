@@ -1,0 +1,7 @@
+{
+  "source": "/Users/pangtai/Desktop/Experiment/plates with holes/test071407/run_bampikan_unet_cnn_comparison.py",
+  "conv3d_count": 18,
+  "z_mixing_conv3d_count": 7,
+  "anisotropic_xy_only_count": 11,
+  "interpretation": "The source contains anisotropic x-y kernels and full 3-D kernels; this is a mixed anisotropic/thickness-coupled design."
+}

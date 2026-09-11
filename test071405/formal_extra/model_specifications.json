@@ -1,0 +1,13 @@
+{
+  "U-Net": {
+    "width": 14,
+    "parameters": 87824
+  },
+  "PIKAN": {
+    "spatial_width": 19,
+    "kan_width": 14,
+    "grid_size": 5,
+    "kan_downsample": 4,
+    "parameters": 87723
+  }
+}

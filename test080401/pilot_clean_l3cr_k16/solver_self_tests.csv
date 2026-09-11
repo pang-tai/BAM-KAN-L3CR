@@ -1,0 +1,6 @@
+test,solver,model_value,stationarity_norm,finite,passed
+LMSSN_indefinite_model,LMSSN,-337.9540999994889,0.00024730246402069483,True,True
+PCD_indefinite_model,PCD,-338.4217251594214,0.08051232483325786,True,True
+PGD_indefinite_model,PGD,-310.277647197138,13.65095448890145,True,True
+scalar_global_minimizer,PCD,-2.146031205261074,5.362316196967057e-16,True,True
+pgd_closed_form_prox,PGD,,1.790180836524724e-15,True,True

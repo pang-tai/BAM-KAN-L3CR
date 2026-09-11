@@ -1,0 +1,8 @@
+check,passed
+exists:metrics_per_seed.csv,True
+exists:metrics_per_sample.csv,True
+exists:cost_and_stationarity.csv,True
+exists:paired_statistics.csv,True
+exists:experiment_report_zh.md,True
+metrics_no_inf,True
+five_seeds_present,True

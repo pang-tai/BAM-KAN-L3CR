@@ -1,0 +1,43 @@
+{
+  "stages": [
+    "P6",
+    "P5"
+  ],
+  "seeds": [
+    11,
+    23,
+    37,
+    51,
+    73
+  ],
+  "methods": [
+    "MF-L3CR",
+    "Resumed-AdamW",
+    "AdamW-0",
+    "L-BFGS"
+  ],
+  "formal_methods": [
+    "MF-L3CR",
+    "Resumed-AdamW",
+    "L-BFGS"
+  ],
+  "adamw0_status": "legacy snapshot retained but not rerun for the corrected table",
+  "accepted_steps_per_seed": 3,
+  "per_seed_safety_cap_seconds": 3600.0,
+  "audit_budget_seconds": 1800.0,
+  "sigma0": 0.01,
+  "rho_min": 0.1,
+  "inner_hvp_limit": 3,
+  "dtype": "float64",
+  "device": "cpu",
+  "microbatch": 4,
+  "torch": "2.5.1",
+  "python": "3.12.2",
+  "thread_environment": {
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  }
+}

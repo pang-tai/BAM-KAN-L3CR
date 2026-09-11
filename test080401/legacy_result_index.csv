@@ -1,0 +1,6 @@
+source_file,model,seed,protocol,paper_table,exists
+/Users/pangtai/Desktop/Experiment/plates with holes/test071407/formal/metrics_per_seed.csv,legacy CNN/U-Net/BAM comparison,multiple,legacy,pre-audit architecture comparison,True
+/Users/pangtai/Desktop/Experiment/plates with holes/test071601/formal_k32/metrics_per_seed.csv,BAM-AdamW-L3CR-PGD-k32,"11,23,37,51,73",legacy,active-dimension sensitivity,True
+/Users/pangtai/Desktop/Experiment/plates with holes/test071601/formal_k64/metrics_per_seed.csv,BAM-AdamW-L3CR-PGD-k64,"11,23,37,51,73",legacy,active-dimension sensitivity,True
+/Users/pangtai/Desktop/Experiment/plates with holes/test071704/analysis/hole_band_sensitivity_per_seed.csv,legacy hole-band sensitivity,multiple,legacy,pre-audit hole-band sensitivity,True
+/Users/pangtai/Desktop/Experiment/plates with holes/test071505/formal/metrics_per_seed.csv,BAM-Adam-L3CR three-solvers,"11,23,37,51,73",legacy,solver comparison,True

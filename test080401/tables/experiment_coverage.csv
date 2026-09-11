@@ -1,0 +1,5 @@
+experiment,formal_seed_count,model_or_route_count,data_protocol
+E6_main_architecture,5,3,leakage_free_v1
+E7_kan_isolation,5,3,leakage_free_v1
+E8_path_ablation,5,4,leakage_free_v1
+E10_clean_l3cr_pgd,5,2,leakage_free_v1

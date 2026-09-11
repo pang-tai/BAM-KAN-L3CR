@@ -1,0 +1,67 @@
+\begin{frame}{P5 与 P6 下的 $\ell_3$CR 实验}
+\scriptsize
+\begin{table}
+\centering
+\begin{tabular}{lccccc}
+\toprule
+Stage & parameters & FD rel. error & symmetry error & full grad (s) & full HVP (s) \\
+\midrule
+P5 & $44{,}149$ & $5.441\times10^{-9}$ & $7.122\times10^{-15}$ & 48.0 & 147.5 \\
+P6 & $86{,}653$ & $2.322\times10^{-9}$ & $1.461\times10^{-14}$ & 50.9 & 156.7 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{itemize}
+\item micro-batch objective spread: $\delta_{mb}=1.39\times10^{-16}$.
+\item 参数量增加 $96.3\%$；full HVP 时间增加 $6.2\%$。
+\item P6 使用全部 $86{,}653$ 个 BAM-KAN 参数参与 correction。
+\end{itemize}
+\end{frame}
+
+\begin{frame}{P6（full-parameter）下五个初始点的实验}
+\scriptsize
+\begin{table}
+\centering
+\begin{tabular}{cccccc}
+\toprule
+Seed & Accepted & $F_0$ & $F_{\mathrm{end}}$ & $\|g_0\|_2$ & $\|g_{\mathrm{end}}\|_2$ \\
+\midrule
+11 & 3 & 0.154129 & 0.147307 & 0.542833 & 0.114482 \\
+23 & 3 & 0.139322 & 0.135980 & 0.241511 & 0.131400 \\
+37 & 3 & 0.200403 & 0.181395 & 0.730453 & 0.164720 \\
+51 & 3 & 0.143884 & 0.140808 & 0.250169 & 0.120772 \\
+73 & 3 & 0.149621 & 0.146487 & 0.234538 & 0.230454 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{block}{共同现象}
+五个 P6 runs 均在三个接受步后降低 $F$；梯度变化按表中原始 $\ell_2$ 范数报告。
+\end{block}
+\end{frame}
+
+\begin{frame}{Optimizer comparison under matched L3CR-derived budgets}
+\scriptsize
+\begin{table}
+\centering
+\begin{tabular}{llcccc}
+\toprule
+Stage & Method & terminal $F$ & terminal $\|g\|_2$ & min. $\|g\|_2$ & time (s) \\
+\midrule
+P5 & Resumed AdamW & 0.153479 & 0.203010 & 0.203010 & 1532.4 \\
+P5 & L-BFGS & 0.129537 & 0.296593 & 0.172871 & 1478.9 \\
+P5 & MF-L3CR & 0.150359 & 0.156294 & 0.136602 & 1556.6 \\
+\midrule
+P6 & Resumed AdamW & 0.153516 & 0.210888 & 0.210888 & 1611.6 \\
+P6 & L-BFGS & 0.129003 & 0.335431 & 0.176366 & 1609.6 \\
+P6 & MF-L3CR & 0.150395 & 0.152365 & 0.137641 & 1690.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{block}{相对于 Resumed AdamW 的 MF-L3CR 改善}
+$\Delta F$: 2.03\% (P5), 2.03\% (P6); $\Delta\|g\|_2$: 23.01\% (P5), 27.75\% (P6).
+MF-L3CR 在 P5 与 P6 均给出三种方法中最低的平均终点梯度范数。
+\end{block}
+\begin{block}{计时口径}
+对照方法逐 seed 使用对应 MF-L3CR 三接受步的实际耗时作为预算；表中为实际完成操作后的五 seed 均值。
+\end{block}
+\end{frame}

@@ -1,0 +1,19 @@
+{
+  "stage": "P6",
+  "seed": 11,
+  "method": "MF-L3CR",
+  "status": "PASS",
+  "allocated_seconds": 3600.0,
+  "consumed_seconds": 1694.4892073334195,
+  "accepted_steps": 3,
+  "objective": 0.14730683643731798,
+  "gradient_norm": 0.11448164326646441,
+  "best_validation": 0.5175129681644399,
+  "initial_sha256": "d5665641076b26304b244667edb489d345758c2a3af2775061680940ea5227ad",
+  "counters": {
+    "objective": 7,
+    "gradient": 4,
+    "hvp": 9,
+    "validation": 3
+  }
+}

@@ -1,0 +1,9 @@
+test,value,passed,target
+hessian_symmetry,0.0,True,
+hvp_finite_difference,1.7151292866070369e-12,True,
+adaptive_tolerance_monotone,0.0,True,
+adaptive_tolerance_floor,1e-12,True,
+high_accuracy_inner_certificate,9.41842452610459e-13,True,1e-12
+user_hessian_symmetry,0.0,True,
+user_hvp_finite_difference,1.7151292866070369e-12,True,
+user_inner_optimality,9.329838441980748e-05,True,0.0001

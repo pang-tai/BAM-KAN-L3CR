@@ -1,0 +1,13 @@
+'data\\new data\\Mou Nan 2025.3.19-(Slab 11-Model-2-K11=K22=0l)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5℃)-(Ratio=0.226%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.7.1-(Slab 2-area1only-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0.204%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.7.1-(Slab 2-area1only-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0.204%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.7.8-(Slab 1-area1only-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0.226%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.7.8-(Slab 1-area1only-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0.226%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.8.19-(Slab 11-Model-1-K11=K22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.226%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.8.19-(Slab 11-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.226%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.8.21-(Slab 9-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.8.21-(Slab 9-Model-2-K11=K22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.9.18-(Slab 10-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.9.18-(Slab 10-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%) - new.xlsx',
+ 'data\\new data\\Mou Nan 2025.9.23-(Slab 8-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%)-new.xlsx',
+ 'data\\new data\\Mou Nan 2025.9.23-(Slab 8-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%)-new.xlsx'

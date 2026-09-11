@@ -1,0 +1,19 @@
+{
+  "stage": "P6",
+  "seed": 73,
+  "method": "L-BFGS",
+  "status": "INTERRUPTED_TIME_BUDGET",
+  "allocated_seconds": 1689.8039884166792,
+  "consumed_seconds": 1652.7684005000629,
+  "iterations": 10,
+  "objective": 0.12561172442656013,
+  "gradient_norm": 0.4069618450204961,
+  "best_validation": 0.4506558129443542,
+  "initial_sha256": "c023438b0a371464e62cf0605da8b43ca25c6394de93a8a90ece6f4ec8bb4482",
+  "counters": {
+    "objective": 32,
+    "gradient": 32,
+    "hvp": 0,
+    "validation": 10
+  }
+}

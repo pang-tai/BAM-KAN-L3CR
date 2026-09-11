@@ -1,0 +1,12 @@
+{
+  "PIKAN_seed11": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal/model_pikan_seed11.pt",
+  "U-Net_seed11": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal/model_unet_seed11.pt",
+  "PIKAN_seed23": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal/model_pikan_seed23.pt",
+  "U-Net_seed23": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal/model_unet_seed23.pt",
+  "PIKAN_seed37": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal/model_pikan_seed37.pt",
+  "U-Net_seed37": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal/model_unet_seed37.pt",
+  "PIKAN_seed51": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal_extra/model_pikan_seed51.pt",
+  "U-Net_seed51": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal_extra/model_unet_seed51.pt",
+  "PIKAN_seed73": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal_extra/model_pikan_seed73.pt",
+  "U-Net_seed73": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal_extra/model_unet_seed73.pt"
+}

@@ -1,0 +1,8 @@
+{
+  "device": "mps",
+  "torch_version": "2.13.0",
+  "python": "3.14.3 (main, Feb  3 2026, 15:32:20) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "platform": "macOS-15.5-arm64-arm-64bit-Mach-O",
+  "processor": "arm",
+  "note": "MPS does not expose a CUDA-equivalent peak allocator on all versions; unavailable fields remain null."
+}

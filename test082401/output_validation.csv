@@ -1,0 +1,13 @@
+test,value,passed
+runtime_within_20_minutes,116.37647358421236,True
+synthetic_ten_seeds,10.0,True
+bam_five_seeds,5.0,True
+same_start_per_problem_seed,1.0,True
+gram_matches_direct_loss,1.9984014443252818e-15,True
+bam_hessian_full_rank,20.0,True
+accepted_inner_residual,9.86249799295459e-13,True
+accepted_steps_converged,340.0,True
+accepted_steps_strict_descent,1.0,True
+hessian_symmetry,2.6892042873646636e-16,True
+finite_metric_values,1.0,True
+finite_diagnostic_values,1.0,True

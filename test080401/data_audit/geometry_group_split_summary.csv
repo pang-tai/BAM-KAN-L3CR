@@ -1,0 +1,4 @@
+protocol_split,cases,geometry_groups,opening_cases,no_rebar
+test,59,2,23,12
+train,80,15,0,9
+validation,47,3,6,14

@@ -1,0 +1,4 @@
+comparison,metric,mean_difference,ci95_low,ci95_high,l3cr_lower_count,seed_count
+L3CR versus AdamW-0,log10_gradient_norm_difference,-7.2465205141711095,-9.148581020209772,-5.5699451362730965,5,5
+L3CR versus AdamW,log10_gradient_norm_difference,-8.683577849025635,-9.61050678587801,-7.976493226997053,5,5
+L3CR versus L-BFGS,log10_gradient_norm_difference,-7.916447271481289,-8.3684958804619,-7.5114208687251205,5,5

@@ -1,0 +1,5 @@
+claim,evidence,status
+L3CR reaches raw gradient 1e-8 on the BAM output-head problem,threshold_reach_summary.csv,supported in 5/5 checkpoints
+L3CR is superior on general nonlinear neural regression,synthetic_metrics.csv,unsupported
+L3CR is superior for full 86653-parameter BAM-KAN refinement,experiment design,not tested
+higher training precision improves test error relative to L-BFGS,bam_head_metrics.csv,unsupported

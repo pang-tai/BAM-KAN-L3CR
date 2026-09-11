@@ -1,0 +1,22 @@
+{
+  "models": [
+    "CNN",
+    "U-Net",
+    "BAM-KAN"
+  ],
+  "seeds": [
+    11,
+    23,
+    37,
+    51,
+    73
+  ],
+  "radii": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "dataset": "leakage_free_v1",
+  "note": "Global score is invariant to radius; hole and Balanced are re-evaluated from saved predictions."
+}

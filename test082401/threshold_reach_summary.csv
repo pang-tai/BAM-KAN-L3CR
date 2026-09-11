@@ -1,0 +1,37 @@
+experiment,condition,method,threshold,reached_count,total_count,median_time_reached,median_equivalents_reached
+bam_head,full_137_training_cases,AdamW,1e-04,4,5,0.01914718747138975,116.0
+bam_head,full_137_training_cases,AdamW,1e-06,2,5,0.03256808361038565,197.0
+bam_head,full_137_training_cases,AdamW,1e-08,0,5,-1.0,-1.0
+bam_head,full_137_training_cases,AdamW-0,1e-04,4,5,0.018826853949576602,116.0
+bam_head,full_137_training_cases,AdamW-0,1e-06,2,5,0.03244570852257305,197.0
+bam_head,full_137_training_cases,AdamW-0,1e-08,0,5,-1.0,-1.0
+bam_head,full_137_training_cases,Full-space L3CR,1e-04,5,5,0.0685524577274918,45.0
+bam_head,full_137_training_cases,Full-space L3CR,1e-06,5,5,0.0702195833437144,45.0
+bam_head,full_137_training_cases,Full-space L3CR,1e-08,5,5,0.103015124797821,67.0
+bam_head,full_137_training_cases,L-BFGS,1e-04,5,5,0.0113894590176641,50.0
+bam_head,full_137_training_cases,L-BFGS,1e-06,5,5,0.0447782496921718,174.0
+bam_head,full_137_training_cases,L-BFGS,1e-08,0,5,-1.0,-1.0
+synthetic,far_negative_control,AdamW,1e-04,5,10,0.0410750829614698,129.0
+synthetic,far_negative_control,AdamW,1e-06,0,10,-1.0,-1.0
+synthetic,far_negative_control,AdamW,1e-08,0,10,-1.0,-1.0
+synthetic,far_negative_control,AdamW-0,1e-04,5,10,0.0388233750127255,129.0
+synthetic,far_negative_control,AdamW-0,1e-06,0,10,-1.0,-1.0
+synthetic,far_negative_control,AdamW-0,1e-08,0,10,-1.0,-1.0
+synthetic,far_negative_control,Full-space L3CR,1e-04,7,10,0.5401936671696603,267.0
+synthetic,far_negative_control,Full-space L3CR,1e-06,0,10,-1.0,-1.0
+synthetic,far_negative_control,Full-space L3CR,1e-08,0,10,-1.0,-1.0
+synthetic,far_negative_control,L-BFGS,1e-04,10,10,0.014925562543794499,45.0
+synthetic,far_negative_control,L-BFGS,1e-06,10,10,0.052163895452395054,146.5
+synthetic,far_negative_control,L-BFGS,1e-08,0,10,-1.0,-1.0
+synthetic,near_local_solution,AdamW,1e-04,10,10,0.0242543539498001,77.5
+synthetic,near_local_solution,AdamW,1e-06,3,10,0.0558900418691337,187.0
+synthetic,near_local_solution,AdamW,1e-08,0,10,-1.0,-1.0
+synthetic,near_local_solution,AdamW-0,1e-04,10,10,0.02360516693443055,77.5
+synthetic,near_local_solution,AdamW-0,1e-06,3,10,0.0570698748342692,187.0
+synthetic,near_local_solution,AdamW-0,1e-08,0,10,-1.0,-1.0
+synthetic,near_local_solution,Full-space L3CR,1e-04,10,10,0.035972207784652654,20.0
+synthetic,near_local_solution,Full-space L3CR,1e-06,9,10,0.4103049170225858,210.0
+synthetic,near_local_solution,Full-space L3CR,1e-08,1,10,0.5429066657088697,286.0
+synthetic,near_local_solution,L-BFGS,1e-04,10,10,0.00247170776128765,8.5
+synthetic,near_local_solution,L-BFGS,1e-06,10,10,0.01647339598275715,45.5
+synthetic,near_local_solution,L-BFGS,1e-08,0,10,-1.0,-1.0

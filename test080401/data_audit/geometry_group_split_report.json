@@ -1,0 +1,20 @@
+{
+  "total_cases": 186,
+  "geometry_group_count": 20,
+  "split_counts": {
+    "test": 59,
+    "validation": 47,
+    "train": 80
+  },
+  "group_overlap_pairs": {
+    "test_validation": 0,
+    "test_train": 0,
+    "train_validation": 0
+  },
+  "opening_cases_by_split": {
+    "test": 23,
+    "train": 0,
+    "validation": 6
+  },
+  "warning": "This manifest is a strict group assignment under the available geometry_group proxy; it is not used as the main formal retraining split because the source archive does not expose complete geometry genealogy."
+}

@@ -1,0 +1,21 @@
+{
+  "work_budget": 500,
+  "training_cases": 137,
+  "material_voxels": 2159924,
+  "head_parameters": 20,
+  "formal_seeds": [
+    11,
+    23,
+    37,
+    51,
+    73
+  ],
+  "l3cr_median_equivalents_1e10": 67.0,
+  "adamw0_median_equivalents_1e10": 383.0,
+  "equivalent_work_reduction_percent": 82.50652741514361,
+  "equivalent_speedup_ratio": 5.7164179104477615,
+  "l3cr_success_within_500": 5,
+  "adamw0_success_within_500": 3,
+  "l3cr_median_wall_time": 0.0969903748482465,
+  "adamw0_median_wall_time": 0.0580229158513248
+}

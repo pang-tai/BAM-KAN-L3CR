@@ -1,0 +1,2 @@
+elapsed_seconds,closure_objective,validation_objective,full_gradient_norm,relative_full_residual,relative_active_residual,updates,accepted_steps,objective_evaluations,gradient_evaluations,hvp_evaluations
+0.0,0.3192481028102889,0.8030592647044654,1.2161958458763975,1.0,0.3456151693455674,0.0,0.0,2.0,2.0,0.0

@@ -1,0 +1,7 @@
+comparison,metric,mean_difference,n,wilcoxon_statistic,wilcoxon_p_less
+BAM-PIKAN - U-Net,global_score,-0.022187751531600998,5,6.0,0.40625
+BAM-PIKAN - CNN,global_score,-0.03268877267837524,5,2.0,0.09375
+BAM-PIKAN - U-Net,hole_score,-0.09099685400724412,5,0.0,0.03125
+BAM-PIKAN - CNN,hole_score,-0.11893760710954666,5,0.0,0.03125
+BAM-PIKAN - U-Net,balanced_score,-0.05659230276942253,5,0.0,0.03125
+BAM-PIKAN - CNN,balanced_score,-0.07581318989396095,5,0.0,0.03125

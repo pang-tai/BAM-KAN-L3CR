@@ -1,0 +1,4 @@
+channel,decision,reason
+4,exclude,case-level displacement descriptor is response-derived or provenance uncertain
+10,exclude,contact shear stress is response-derived or provenance uncertain
+12,exclude,contact displacement is response-derived or provenance uncertain

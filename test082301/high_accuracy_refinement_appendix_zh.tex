@@ -1,0 +1,151 @@
+\documentclass[UTF8,11pt,fontset=none]{ctexart}
+\setCJKmainfont{Songti SC}
+\setCJKsansfont{Heiti SC}
+\setCJKmonofont{Songti SC}
+\usepackage[a4paper,margin=2.2cm]{geometry}
+\usepackage{amsmath,amssymb,booktabs,graphicx,float}
+\usepackage{siunitx}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue}
+\title{BAM--KAN 高精度二阶段优化补充实验}
+\author{}
+\date{}
+\begin{document}
+\maketitle
+
+\section{固定问题与目标函数}
+训练、验证和测试案例数分别为 $137$、$30$ 和 $19$。五个随机种子固定为
+\[
+\mathcal S=\{11,23,37,51,73\}.
+\]
+确定性闭包集合固定为
+\[
+\mathcal I_{\rm clo}=\{7,21,29,63,84,89,95,158\}.
+\]
+三种 refinement 方法使用同一目标
+\[
+F(\theta)=
+\frac{\sum_{q\in\mathcal I_{\rm clo}}
+\sum_{v\in\Omega_q}\frac12
+\lVert \widehat y_{qv}(\theta)-y_{qv}\rVert_2^2}
+{\sum_{q\in\mathcal I_{\rm clo}}|\Omega_q|}.
+\]
+
+\section{HVP L3CR--PGD}
+令 $P_j\in\mathbb R^{n\times r}$ 选取 $|\nabla F(\theta_j)|$ 最大的 $r$ 个坐标。受限模型为
+\[
+m_j(s)=g_j^\top s+\frac12s^\top B_js+
+\frac{\sigma_j}{6}\lVert s\rVert_3^3,
+\quad
+g_j=P_j^\top\nabla F(\theta_j),
+\quad
+B_j=P_j^\top\nabla^2F(\theta_j)P_j.
+\]
+$B_j$ 由 $r$ 次自动微分 HVP 构造并对称化，不形成完整网络 Hessian。内层迭代为
+\[
+y^t=s^t-\alpha_t(g_j+B_js^t),
+\]
+\[
+s_i^{t+1}=\operatorname{sign}(y_i^t)
+\frac{2|y_i^t|}
+{1+\sqrt{1+2\alpha_t\sigma_j|y_i^t|}}.
+\]
+停止量采用真实模型残差
+\[
+r_{m,j}(s)=
+\frac{\lVert g_j+B_js+\frac12\sigma_j|s|\odot s\rVert_{3/2}}
+{\max\{1,\lVert g_j\rVert_{3/2}\}}
+\le 10^{-7}.
+\]
+外层量分别为
+\[
+r_{\rm full}(\theta)=
+\frac{\lVert\nabla F(\theta)\rVert_2}
+{\max\{1,\lVert\nabla F(\theta^0)\rVert_2\}},
+\qquad
+r_{\rm act}(\theta)=
+\frac{\lVert P(\theta)^\top\nabla F(\theta)\rVert_2}
+{\max\{1,\lVert P_0^\top\nabla F(\theta^0)\rVert_2\}}.
+\]
+故 $r_{m,j}\le10^{-7}$ 不推出 $r_{\rm act}\le10^{-6}$，后者亦不推出 full-space stationarity。
+
+\section{数值结果}
+\begin{table}[H]
+\centering
+\caption{960 s 预算下的五种子测试误差。数值为均值 $\pm$ 标准差。}
+\begin{tabular}{lccc}
+\toprule
+方法 & Global & Opening & Balanced\\
+\midrule
+AdamW warm-up & 0.804166 $\pm$ 0.056156 & 0.470637 $\pm$ 0.056554 & 0.637401 $\pm$ 0.047822 \\
+Resumed AdamW & 0.823712 $\pm$ 0.044219 & 0.477703 $\pm$ 0.045478 & 0.650708 $\pm$ 0.040368 \\
+L-BFGS & 0.836968 $\pm$ 0.040465 & 0.480908 $\pm$ 0.049274 & 0.658938 $\pm$ 0.038113 \\
+HVP L3CR-PGD ($r=32$) & 0.809446 $\pm$ 0.052667 & 0.477027 $\pm$ 0.046555 & 0.643237 $\pm$ 0.043289 \\
+HVP L3CR-PGD ($r=64$) & 0.805711 $\pm$ 0.055203 & 0.470355 $\pm$ 0.053950 & 0.638033 $\pm$ 0.046619 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{$r=64$ 在 960 s 的配对差。负值有利于 L3CR。}
+\begin{tabular}{llccc}
+\toprule
+比较 & 指标 & 均值差 & bootstrap 95\% 区间 & 胜出 seed\\
+\midrule
+L3CR--resumed AdamW & Global & -0.018002 & [-0.030391, -0.010378] & 5/5 \\
+L3CR--resumed AdamW & Opening & -0.007348 & [-0.016329, -0.000218] & 4/5 \\
+L3CR--resumed AdamW & Balanced & -0.012675 & [-0.018976, -0.006746] & 5/5 \\
+L3CR--L-BFGS & Global & -0.031257 & [-0.050335, -0.011908] & 4/5 \\
+L3CR--L-BFGS & Opening & -0.010553 & [-0.030639, 0.006176] & 3/5 \\
+L3CR--L-BFGS & Balanced & -0.020905 & [-0.038978, -0.007790] & 5/5 \\
+L3CR--warm-up & Global & 0.001545 & [0.000709, 0.002683] & 0/5 \\
+L3CR--warm-up & Opening & -0.000282 & [-0.002532, 0.002020] & 3/5 \\
+L3CR--warm-up & Balanced & 0.000632 & [-0.000502, 0.001811] & 3/5 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{验证选择状态与运行终点的优化量。}
+\begin{tabular}{lccccc}
+\toprule
+方法 & $F_{\rm selected}$ & $r_{\rm full,selected}$ & $F_{\rm terminal}$ & $r_{\rm full,terminal}$ & HVP\\
+\midrule
+Resumed AdamW & 0.079700 & 5.146e-01 & 0.029316 & 5.480e-02 & 0.0 \\
+L-BFGS & 0.076275 & 4.549e-01 & 0.008216 & 1.825e-02 & 0.0 \\
+HVP L3CR-PGD ($r=32$) & 0.108404 & 8.151e-01 & 0.108404 & 8.151e-01 & 160.0 \\
+HVP L3CR-PGD ($r=64$) & 0.119417 & 8.959e-01 & 0.119417 & 8.959e-01 & 128.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.98\linewidth]{analysis/accuracy_vs_time.pdf}
+\caption{测试误差与额外墙钟时间。虚线为 AdamW warm-up 起点。}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.72\linewidth]{analysis/stationarity_vs_time.pdf}
+\caption{验证选择 checkpoint 的 full-gradient 相对残差。}
+\end{figure}
+
+\section{结论边界}
+在 $T=960$ s，$r=64$ 相对 resumed AdamW 的 Balanced 均值差为
+\[
+-0.012675,
+\]
+五个 seed 全部同方向；Opening 均值差为 $-0.007348$，四个 seed 同方向。
+然而，相对 warm-up 起点，Global、Opening 和 Balanced 均值差为
+\[
+(0.001545,\,-0.000282,\,0.000632).
+\]
+因此结果支持“L3CR 相对 resumed AdamW 更稳健”，不支持“L3CR 产生全面净精度增益”。
+Opening 的变化仅涉及三个有效测试案例。五个 seed 的精确双侧符号检验最小值为 $0.0625$，不作传统显著性声明。
+
+所有方法在 960 s 内均未达到外层 $10^{-4}$、$10^{-5}$ 或 $10^{-6}$ stationarity。
+L3CR 内层模型残差达到 $10^{-7}$，但该事实只验证子问题求解精度。
+\end{document}

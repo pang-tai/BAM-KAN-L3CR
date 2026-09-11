@@ -1,0 +1,2 @@
+seed,checkpoint_sha256,material_voxels,quadratic_initial,direct_initial,gram_direct_abs_error,hessian_rank,hessian_condition_positive,optimum_value
+11,0a972ca730b32fe8d13334f8beceb698522b9a040c703d88423b215a34422665,2159924,0.1541293269055266,0.15412932690552722,6.106226635438361e-16,20,148.00656400883165,0.150035330548263

@@ -1,0 +1,4 @@
+test,value,passed
+hessian_symmetry,0.0,True
+hvp_finite_difference,1.7151292866070369e-12,True
+inner_optimality,9.508344183197461e-13,True

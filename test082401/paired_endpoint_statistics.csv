@@ -1,0 +1,10 @@
+experiment,condition,comparison,metric,mean_difference,ci95_lower,ci95_upper,wins_l3cr,pairs
+bam_head,full_137_training_cases,Full-space L3CR - AdamW,log10_gradient_norm,-5.966642374391853,-8.911041811650914,-3.0222429371327904,5,5
+bam_head,full_137_training_cases,Full-space L3CR - AdamW-0,log10_gradient_norm,-5.965658805219171,-8.9128425687734,-3.018475041664941,5,5
+bam_head,full_137_training_cases,Full-space L3CR - L-BFGS,log10_gradient_norm,-3.829484335774597,-7.0490062664473445,-0.6120267834642086,5,5
+synthetic,far_negative_control,Full-space L3CR - AdamW,log10_gradient_norm,0.04341321007026862,-0.39921103204987823,0.4892240457114839,4,10
+synthetic,far_negative_control,Full-space L3CR - AdamW-0,log10_gradient_norm,0.04340280293752037,-0.37745047833398976,0.49025926846828344,4,10
+synthetic,far_negative_control,Full-space L3CR - L-BFGS,log10_gradient_norm,2.299355414547592,1.89519312147045,2.6780426391956937,0,10
+synthetic,near_local_solution,Full-space L3CR - AdamW,log10_gradient_norm,-0.7779115630806552,-1.3581255901555815,-0.17726643287793892,8,10
+synthetic,near_local_solution,Full-space L3CR - AdamW-0,log10_gradient_norm,-0.7771660227116836,-1.365553364458633,-0.1752416756922031,8,10
+synthetic,near_local_solution,Full-space L3CR - L-BFGS,log10_gradient_norm,-0.17703199884186321,-0.6975775425767917,0.37457650249463653,6,10

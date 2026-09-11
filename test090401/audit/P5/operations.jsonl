@@ -1,0 +1,11 @@
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "objective_mb1", "seconds": 18.022102375049144, "rss_gib": 2.0852317810058594, "timestamp": 1787755996.9890718}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "objective_mb2", "seconds": 17.851401790976524, "rss_gib": 2.4547576904296875, "timestamp": 1787756014.929932}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "objective_mb4", "seconds": 17.758506500162184, "rss_gib": 2.8789901733398438, "timestamp": 1787756032.726773}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "hvp", "seconds": 148.72067024977878, "rss_gib": 4.186084747314453, "timestamp": 1787756181.4525151}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "hvp", "seconds": 145.2475231247954, "rss_gib": 4.18719482421875, "timestamp": 1787756326.7007449}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "gradient", "seconds": 48.077414124738425, "rss_gib": 4.187435150146484, "timestamp": 1787756374.779382}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "gradient", "seconds": 47.77340270904824, "rss_gib": 4.187435150146484, "timestamp": 1787756422.553804}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "gradient", "seconds": 47.795245790854096, "rss_gib": 4.187435150146484, "timestamp": 1787756470.351084}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "gradient", "seconds": 47.81632904103026, "rss_gib": 4.187435150146484, "timestamp": 1787756518.16835}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "gradient", "seconds": 47.8187663750723, "rss_gib": 4.187435150146484, "timestamp": 1787756565.989154}
+{"record_type": "operation", "stage": "P5", "seed": 11, "method": "AUDIT", "operation": "gradient", "seconds": 48.0055034160614, "rss_gib": 4.18743896484375, "timestamp": 1787756613.9981172}

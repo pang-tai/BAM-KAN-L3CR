@@ -1,0 +1,17 @@
+{
+  "sample": 8,
+  "z_index": 2,
+  "opening_cases": [
+    8,
+    9,
+    10
+  ],
+  "selection": "median Balanced error among test cases with a geometry-defined hole band",
+  "checkpoint_adamw": "/Users/pangtai/Desktop/Experiment/plates with holes/test080401/formal_leakage_free/model_bam_kan_seed11.pt",
+  "checkpoint_l3cr_pgd": "/Users/pangtai/Desktop/Experiment/plates with holes/test080401/formal_clean_l3cr_pgd/model_bam_kan_l3cr_pgd_seed11.pt",
+  "units": {
+    "S1": "MPa",
+    "U": "mm"
+  },
+  "hole_mask": "geometry-derived; non-material voxels are NaN"
+}

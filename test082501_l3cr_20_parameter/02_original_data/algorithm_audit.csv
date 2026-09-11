@@ -1,0 +1,4 @@
+method,accepted_steps,accepted_without_inner_convergence,maximum_hessian_symmetry_error,maximum_accepted_inner_residual
+Original fixed L3CR,697,0,3.5354803522558563e-16,9.86249799295459e-13
+User optimized L3CR,882,112,3.662791590997533e-16,0.2945845991856044
+Certified adaptive L3CR,429,0,3.0467197466182117e-16,9.998306247586208e-05

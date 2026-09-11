@@ -1,0 +1,14 @@
+{
+  "data_dir": "/Users/pangtai/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_9ojii1vzx6cs12_4edd/msg/file/2026-06/data 28.06.2026",
+  "clean_dir": "/Users/pangtai/Desktop/Experiment/plates with holes/test080401/data_clean/leakage_free_v1",
+  "out_dir": "test080401/formal_leakage_free",
+  "epochs": 48,
+  "seeds": [
+    11,
+    23,
+    37,
+    51,
+    73
+  ],
+  "device": "mps"
+}

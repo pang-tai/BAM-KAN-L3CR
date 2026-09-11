@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Full-space refinement on the 20-parameter BAM output head under the 500 reverse-mode-equivalent budget.}
+\label{tab:bam-head-precision}
+\begin{tabular}{lcccc}
+\toprule
+Method & $\|\nabla F\|_2$ & Reached $10^{-10}$ & Median cost & Balanced \\
+\midrule
+AdamW & 1.961e-06 & 0/5 & -- & 0.626798 \\
+AdamW-0 & 1.946e-06 & 3/5 & 382 & 0.626798 \\
+L-BFGS & 4.013e-08 & 0/5 & -- & 0.626797 \\
+Original & 4.574e-16 & 5/5 & 67 & 0.626797 \\
+User-opt & 2.386e-15 & 5/5 & 67 & 0.626797 \\
+Certified & 2.386e-15 & 5/5 & 67 & 0.626797 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,17 @@
+{
+  "CNN": {
+    "width": 22,
+    "parameters": 87232
+  },
+  "U-Net": {
+    "width": 14,
+    "parameters": 87824
+  },
+  "BAM-PIKAN": {
+    "spatial_width": 19,
+    "fine_kan_width": 18,
+    "coarse_kan_width": 8,
+    "grid_size": 5,
+    "parameters": 87838
+  }
+}

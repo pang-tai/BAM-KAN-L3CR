@@ -1,0 +1,13 @@
+test,value,passed
+self_tests_pass,1.0,True
+synthetic_row_count,840.0,True
+bam_row_count,210.0,True
+same_start_hash,1.0,True
+gram_direct_error,1.9984014443252818e-15,True
+bam_hessian_rank,20.0,True
+certified_inner_certificate,1.0,True
+certified_strict_descent,1.0,True
+hessian_symmetry,3.662791590997533e-16,True
+finite_metrics,1.0,True
+finite_diagnostics,1.0,True
+runtime_under_20_minutes,394.1282832501456,True

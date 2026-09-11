@@ -1,0 +1,4 @@
+test,value,expected,passed
+zero_error_global,0.0,0.0,True
+zero_error_hole,0.0,0.0,True
+positive_masked_error,2.0,2.0,True

@@ -1,0 +1,5 @@
+claim,evidence,status
+L3CR has an equal-time prediction advantage over resumed AdamW,paired_statistics.csv,supported only if the preregistered joint criterion passes
+L3CR reaches full-space stationarity,cost_and_stationarity.csv,unsupported unless relative_full_residual reaches tolerance
+L3CR reaches active-space stationarity,cost_and_stationarity.csv,conditional active-coordinate statement only
+Opening improvement generalizes broadly,metrics_per_sample.csv,unsupported; opening subset is small

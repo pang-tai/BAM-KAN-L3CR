@@ -1,0 +1,8 @@
+{
+  "manifest_rows": 186,
+  "group_overlap_test_rows": 18,
+  "status_rows": 5,
+  "strict_proxy_group_overlap_pairs": 0,
+  "completed_experiments": ["E0-E14 (with E2 conditional proxy split)", "E15 projection audit", "E16-E19"],
+  "conditional_or_unavailable": ["strict genealogy-independent split", "strong-form PIKAN physics residuals"]
+}

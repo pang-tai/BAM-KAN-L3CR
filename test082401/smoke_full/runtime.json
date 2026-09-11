@@ -1,0 +1,30 @@
+{
+  "total_seconds": 21.066953209228814,
+  "hard_limit_seconds": 1200,
+  "within_limit": true,
+  "selected_adam_learning_rate": 0.01,
+  "selected_sigma_initial": 0.01,
+  "formal_seeds": [
+    101,
+    211,
+    307,
+    401,
+    503,
+    601,
+    709,
+    809,
+    907,
+    1009
+  ],
+  "bam_seeds": [
+    11,
+    23,
+    37,
+    51,
+    73
+  ],
+  "smoke": true,
+  "torch_version": "2.5.1",
+  "threads": 1,
+  "dtype": "float64"
+}

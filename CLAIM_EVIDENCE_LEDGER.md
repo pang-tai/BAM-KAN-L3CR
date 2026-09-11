@@ -1,0 +1,15 @@
+# Claim evidence ledger for ver7.3
+
+| Paper claim | Location | Support | Status | Required interpretation |
+|---|---|---|---|---|
+| The processed archive contains 186 tensor cases with a 137 30 19 split | Sections 2.6 and 2.7 | `data_28_06_2026/`; `test080401/05_split_manifest.csv`; `test080401/data_audit/` | Supported for the archived tensors | Does not establish complete Abaqus case genealogy |
+| CNN U-Net and BAM-KAN have 85450 86690 and 86653 parameters | Sections 3.1 and 5.1 | `test080401/07_main_architecture_results.csv`; saved model specifications | Supported | Counts apply to the archived implementation |
+| BAM-KAN has the lowest mean Opening-band and Balanced scores | Table 3 | `test080401/07_main_architecture_results.csv`; `test080401/formal_leakage_free/metrics_per_seed.csv` | Supported under the fixed five-seed protocol | CNN has the lower Global mean; local test set contains only three opening-band cases |
+| BAM-KAN retains the lowest Opening-band and Balanced means for radii 1 to 4 | Table 10 | `test080401/13_hole_radius_results.csv` | Supported for the saved checkpoints and masks | This is a sensitivity calculation on the same held-out cases, not an independent dataset |
+| The r=64 AS-L3CR state has means 0.8041 0.4684 and 0.6363 | Table 8 | `test080401/formal_clean_l3cr_k64/metrics_per_seed.csv`; `test080401/12_active_dimension_sensitivity.csv` | Supported | Improvement is small and does not establish statistical or universal superiority |
+| The 20-parameter L3CR run reaches gradient norm at most 1e-10 for all five checkpoints | Table 4 | `test082402/threshold_reach_summary.csv`; `test082402/metrics_summary.csv`; `test082402/bam_gram_audit.csv` | Supported | This is a frozen-backbone quadratic head audit on the training objective |
+| Matrix-free HVP checks pass at 44149 and 86653 trainable parameters | Table 5 | `test090401/hvp_audit_summary.csv`; `test090401/audit/P5/`; `test090401/audit/P6/` | Supported on the reported machine and data closure | Numerical agreement and runtime are implementation- and hardware-specific |
+| All P5 and P6 runs complete three accepted steps and all 30 accepted steps decrease the training objective | Table 6 and following text | `test090401/fixed_three_step_l3cr_per_seed.csv`; `test090401/l3cr_stepwise_descent.csv` | Supported | The three-HVP inner budget is an inexact practical solver; residual convergence is not implied |
+| MF-L3CR lowers mean terminal objective by 2.03 percent relative to resumed AdamW | Table 7 | `test090401/matched_budget_optimizer_summary.csv`; `test090401/paired_method_comparison.csv` | Supported for matched L3CR-derived budgets | The actual elapsed times are close but not identical |
+| MF-L3CR is better than L-BFGS | Discussion | Not supported as a general statement | Overclaim if stated without metric | L-BFGS has lower terminal objective; MF-L3CR has lower terminal gradient mean in this protocol |
+| The entire study can be regenerated from the Abaqus source models | Data availability and Discussion | Complete generator is absent | Unsupported | Original FE export conversion script complete metadata and full genealogy are required |

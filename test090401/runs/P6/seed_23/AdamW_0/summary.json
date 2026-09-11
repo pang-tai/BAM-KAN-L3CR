@@ -1,0 +1,19 @@
+{
+  "stage": "P6",
+  "seed": 23,
+  "method": "AdamW-0",
+  "status": "INTERRUPTED_TIME_BUDGET",
+  "allocated_seconds": 595.2454295419157,
+  "consumed_seconds": 504.8450903748162,
+  "iterations": 3,
+  "objective": 0.13783282176666373,
+  "gradient_norm": 0.16093899569834932,
+  "best_validation": 0.4901538728759479,
+  "initial_sha256": "1390547e8f4fb14acb16b019d426dfc0bb61b5e3a9ba4c95be0e3049b8139cfd",
+  "counters": {
+    "objective": 7,
+    "gradient": 7,
+    "hvp": 0,
+    "validation": 3
+  }
+}

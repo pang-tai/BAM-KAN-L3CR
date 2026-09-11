@@ -1,0 +1,10 @@
+test,value,passed
+split_sizes,137/30/19,True
+closure_in_training,"[7, 21, 29, 63, 84, 89, 95, 158]",True
+closure_disjoint_validation,[],True
+closure_opening_count,2,True
+test_opening_count,3,True
+pgd_model_nonincrease,-2.511455521602085,True
+pgd_true_residual_finite,9.068774637793529e-08,True
+proximal_optimality,1.790180836524724e-15,True
+hvp_finite_difference,2.6214598457699676e-10,True

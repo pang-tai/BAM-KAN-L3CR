@@ -1,0 +1,1411 @@
+91408b8ac72635d4b0e209528dd5c0fb93e5dc26129033dcdf8c9d668db107af  CLAIM_EVIDENCE_LEDGER.md
+ed95d81174fa4282aaf757911764cd4c51dc239682f38eef6ae134ab9f6fa683  EXPERIMENT_INDEX.csv
+bb5307e5b71fac70176b8dc87d0ef2039c8c2d248b90922098108f96bc7c6708  README.md
+63f85c47e86871d9bfea43d3036e4ed61f0d69b011825d6f415743e0a6586430  data_28_06_2026/files.txt
+01bb701bf0b708fde6b0513c21d9fd7e78cf0062e275c75f4c91c5657f107866  data_28_06_2026/new_data_2d_without_areas.npy
+ee6f52b2b1cf8dceee3d8fe1d5e81c11565bc773ea88f0f6324af5cd327c19a6  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0.226%)-new.xlsx
+8f972353e7f728798d2974981c0c643fe3b7ac0975f9d6a731bcc8a4f5766d15  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 2-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0.308%).xlsx
+153b00e9472247ddb395d72405248857d03cdf64f8de07092c384f193d027d24  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 3-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0%)-new.xlsx
+13cae6a7bc39dd5eae2f62ce69a54520a4e23b774d21db778987f119692a02c9  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 5-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1℃)-(Ratio=0.209%).xlsx
+0d767060c69bb99fbc7d219c531f19efd07e69b9908fe630d44712716792c0eb  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 5-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1℃)-(Ratio=0.209%).xlsx
+7eac8d4100154c58825bbdbc1defa0d4ffe429d8b8662357858119009c7a46b9  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 5-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1℃)-(Ratio=0%).xlsx
+e62bd3c5f2a9b2518e5149a32af991aaa61f48b5fede04cbdccf343d26215f6b  data_28_06_2026/test/(Ren 2025.3.19)-(Slab 8-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.452%)-new.xlsx
+5a903ce20ba5033a8a4b716f9b3d21e972d68bbaab3c2fcf0e0ff7e8ceca044a  data_28_06_2026/test/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -n17 r=0.785_).xlsx
+3cd8f7e40f8268ade901e67acf281784540d4d9bf0bcfd15db1014e968b4a394  data_28_06_2026/test/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-4 -n29 r=1.227_).xlsx
+9c328a30042c334cd27a9612ffc040bedea5273cdcdc964830a8e5d1e2e0f593  data_28_06_2026/test/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-5 -n25 r=0.76_).xlsx
+78b757797180ac9b2350e8d23ac152d38e147b34d9e76c3058e78f0f460a0280  data_28_06_2026/test/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -n17 r=0.503_).xlsx
+4ae32005d552e3fe2f33d72f424d29006d18a92dbc985c853c93323038ede63e  data_28_06_2026/test/2024.09.06 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -n28 r=1.227_).xlsx
+26c764353127d83d2f66597312c8c234dec0fcdac395ddf626eaf3d57fb85100  data_28_06_2026/test/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-16 -t29.5 r=0.97).xlsx
+4aab295ec0b134734aa40bb82e8a0b5093944bb89f3486829804b34f0613a205  data_28_06_2026/test/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-7 -t17 r=0.97).xlsx
+d2d5f29abb5d3782127ad88baf6f9c641786c2e85a9a8f8f8846e41f03261f9b  data_28_06_2026/test/2024.11.18 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-5 -n14 r=1.61).xlsx
+9566e7eb08b0c2b711bad4fbe6925a517efb95c5e07eec9d94d41dc1d2bfbfcc  data_28_06_2026/test/Huang Zien 2025.04.21-(Slab 08-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0%)-new.xlsx
+d83cc856d0081aa75096549ebaebb432ac81337ff590dc7be3337a1ed6465c1f  data_28_06_2026/test/Huang Zien-(Slab 06-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%)-new.xlsx
+d635d6616be49996c07b444f18d3b2d2f2542ed7da97abdeaafed16051ecf8f9  data_28_06_2026/test/Mou Nan 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0).xlsx
+fec4616295006428ce70ad60c3b56d670583d49fee1c93ed08cb48e1e93f9c84  data_28_06_2026/test/Mou Nan 2025.3.19-(Slab 7-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0%)-new.xlsx
+cffc4e7a1e311c4a783d667ee8e1d6115ee3690f65e1972c0eaded0284ed9895  data_28_06_2026/test/Mou Nan 2025.5.26-(Slab 5-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%)new.xlsx
+2811caa5ee44d4842a0004386fb897dc73f0fca6071810f9a28a8ee32fe49f57  data_28_06_2026/test/Mou Nan 2025.7.1-(Slab 2-area1only-Model-3-norebarl)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0%)-new.xlsx
+d648a113f89c3409ea632faf20a0756a79c5ea0f79fcaceabb5d0ad14535c8fa  data_28_06_2026/test/Mou Nan 2025.9.18-(Slab 10-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%)-new.xlsx
+8f9fa3800da53047a096a4c55d0f189685c46b32279b018cb08c7865b83bc62a  data_28_06_2026/test/Ren 2025.3.19-(Slab 4-1-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.23%)-new.xlsx
+4e77e5474f7168c10e6987fce10f5cc4c827f045136fee631622b1b957dfdb63  data_28_06_2026/test/Ren Yuhang 2025.3.19-(Slab 7-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%)-new.xlsx
+848afecac7976b9a99a74ee3611848d38f2156d207d2dfb800aeaf271c08680a  data_28_06_2026/test/Ren Yuhang 2025.3.19-(Slab 8-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n23.7)-(Ratio=0.452).xlsx
+e9c07895cf101be14bad2390b39dc41661838ea0ecae1a687c573cafd457cd8d  data_28_06_2026/test/Ren Yuhang-(Slab 9-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%).xlsx
+936de9ec04a839fee7db114eec9c1c4307833870906d30448269834793f53fe9  data_28_06_2026/test.npy
+2b3f3f2190e90618e4ae97ab7de1ce772d4e4f8d700e08d01acba13242a7659a  data_28_06_2026/test_2d.npy
+cb4af99827446c3cf7834f36609e533a084504f45978a21e5bce4bf1377e0788  data_28_06_2026/test_2d_without_areas.npy
+426bdaf58a509e72a4b6141f48abcb737e80cf470bf8a216e33e878f2447a04b  data_28_06_2026/test_dense.npy
+70316c95f5dd62b7800103a2b87fc96af4c5c5cdd6e1a00ed0c8241fbc881a69  data_28_06_2026/test_parameters.npy
+41a5222c8ef13baa1c7656b2f0289c0990661baa9a3824bb31c3207517d38995  data_28_06_2026/test_prompts.txt
+642c5a540aafdb82a42e407aea11b87f886662ba6a5f7944134ec5d4c15896fb  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0.226%).xlsx
+647ae6c5b4abe49b6226af1ff4c7fd4b650fc1c2a589e5794e8944517de54432  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0.226%).xlsx
+ae01efcaebd67eb45fefd66cfa60372b8ec81f5b2d0ec3575dfe8476e2b95f35  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0%).xlsx
+590bcde25e3365a73671ae24ddfa0eef1901992553083c32bb60fa306291d7af  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 11-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0%)-new.xlsx
+5daa4bdde850894617385e231c48bcf20b6ded2dc6bf87692b98d7c8f9c8c5f7  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 11-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0%).xlsx
+b6dcbbd25231bc6d6baf164c659ca77e23f39fee0a5b87c3d23283ea9069a500  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 12-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%)-new.xlsx
+84a288904d153cb5241550b05adedebf74bec22dc9d06a11fdcd0fca83606bbe  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 12-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%).xlsx
+7392209b924abe7300ffe8c8b10416d2861abaa6b4329be3cb38b4852d0834b7  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 12-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%)-new.xlsx
+0061de0e8fd084f0485cc85d0e413eab06d0800b8d755d82b9a633075bf4f607  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 12-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%).xlsx
+cd2a7aa4f7ad894d812c7fd4b0e4393b5aa94e4bce4b75acb895bb9d83a9a98c  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 12-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0%)-new.xlsx
+a33f4eef80cc70dfacd27a9b836478922d3f8604be7d2149fc6326631c90961d  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 12-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0%).xlsx
+8a1388b519f4f86688d2449e5106253e62d4a9e62e12091816a889e0847e235d  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 2-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0.308%)-new.xlsx
+b343e5fc524fdb4d8c11eb6242271441d3f46454b099831a7d0c999c04f0f09d  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 2-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0.308%).xlsx
+f1e5cd560b7a76ca251c829d48672b9f4de057400ba8643bdddbd8b98b1d6fa9  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 2-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0%).xlsx
+67d3da972d4051556fc602bd0e8de49cc96c8abf674a90d482cf30a095a83cde  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 3-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%)-new.xlsx
+595cf5208f80b72f57bf7e1fa9c0bb50be54ed89f238607003ece7599f77d077  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 3-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%).xlsx
+816c19e2337c9cf13936855a0a09a43c691e1610151915c6d299293ff54bf658  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 3-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%)-new.xlsx
+caec02893be1b9eaa2480a84fa88e19f1a50aef58bc2a7a3bae22973ffe747a3  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 3-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%).xlsx
+536353953e7508cac80a824c1b1dc357cac7178a98abe6eb42eea4f04a310b7f  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 3-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0%).xlsx
+dfb67e961e277000fc1217d7ea0e908767203124e5b26e894f051f597ce1fe47  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 4-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0.23%)-new.xlsx
+e8b080272c315d1fa21f78a93b87bfb0d593d216b393b0dd4fb26be131dae5f1  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 4-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0.23%).xlsx
+fe96df3480f1dc095a54f086a809f2580f5d43ffd0f6e72fe87894c84aea2312  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 4-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0%)-new.xlsx
+7dccfdf5b46112055ddaa9e6248cfbe0c655d4f6887b5fc8eebcf92d7607a0e3  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 4-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0%).xlsx
+03829776c50f89105298d92d1c0702eab9ff434024e508bfdbfd4111cbd83952  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 6-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%)-new.xlsx
+e5321be6608d80aa2c4c2fb8ee0a610bbc181c8f6a14ed6a0541648edfb5a59d  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 6-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%).xlsx
+49f193664cd7445cdce1014e18ed47c9f21625bd38a52e7f240888507d484df7  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 6-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%)-new.xlsx
+d43c5d3e974c37e20340d59e85c7b76a52ae233fa426aafd122d0d2eba393e1a  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 6-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%).xlsx
+1843c51bc2a6b95d3ee98b4527bc1e1046c16385ec24a38663210ed17c06631c  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 6-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0%)-new.xlsx
+69981131e8de9b68b3ff5fef3ede7f113122f3713539eed2f3ac332022243710  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 6-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0%).xlsx
+bda24ceacb7123ee313d17ca1fbc0c33a96f0bcc0ec6f8a69ad91095da610d26  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 7-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%)-new.xlsx
+08ba2c729d568b5828229e92c470851d122ba65754d4d6e1b9e60df116ebcd4c  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 7-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%).xlsx
+565c42acd56302c108ca50e02f3d4ee3523980627c289644ff04349fc93f7d60  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 7-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%)-new.xlsx
+010669cd7f0c20179758216763972425ccc9da3fa126febd16c962b518676eea  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 7-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%).xlsx
+864597d33fe26d2ccf697efa77d90c532530d018bbef3b143059d27c68dbd422  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 7-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0%)-new.xlsx
+1fb32cb570d94f86d895564683659702efba3230ae6560d6c579f129a36e94aa  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 7-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0%).xlsx
+e75e78f1ef8598463f716a31f30d938964fbc5d4258fde17b116c870ca2108b7  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 8-1-Model-1-original)(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.452%)-new.xlsx
+1b8713701d506fb6085c41dd275a1c9a7870bdf4c8025e234cb7493dfd6d0eb0  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 8-1-Model-1-original)(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.452%).xlsx
+41ec50d0991f4ad0825ea7d2f97aca3c7226583a8b4df37d0a28c4995ca2828e  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 8-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.452%).xlsx
+fa7ce4cabbdc00576bd05435604e1928cedb66f0aadebae9c5ced621321beb94  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 8-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%)-new.xlsx
+595917f0d9c0aa54ad05a8d18411ade21ed263cd842333c41610ed4687206ad5  data_28_06_2026/train/(Ren 2025.3.19)-(Slab 8-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%).xlsx
+1fb97d99fb2aad83d16e525d0375e49f61efb9c7e1e8747855dde842e9cfbfcb  data_28_06_2026/train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-1 -n5 r=0.52_).xlsx
+597afa447799a327e08fff2c0b4b0ef0c603030684c7d2be42f0eeb8455e4661  data_28_06_2026/train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-2 -n10 r=0.52_).xlsx
+d120fdca6a8931d4a7289fa48867a987f717860c00f6dacfbd70b700ca861550  data_28_06_2026/train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-3 -n15 r=0.52_).xlsx
+94037fbced0c4494f555936e5eaaefbaf85a71ba6fa1ab7d2bcd4b85da4ee29e  data_28_06_2026/train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-4 -n20 r=0.52_).xlsx
+3ffc0999927feb70d9fc5f4aeee5faadc8a7a08a003428c096e1f6a9b86fe40b  data_28_06_2026/train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-5 -n25 r=0.52_).xlsx
+fdc8c9e72f220efd9aed0967d5efa79959da4aac785cb35d8588ab6fc5592dc2  data_28_06_2026/train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -n30 r=0.785_).xlsx
+2f22eed90c95016cafbc4bdcdf2fa8d3db0ff1c4cee5e424489cda87f5c7af3c  data_28_06_2026/train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -n35 r=0.785_).xlsx
+bac3a4be8c08a62dab1b4fe5466cf71402df81948a0c7619e93abf781fdbb648  data_28_06_2026/train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -n40 r=0.785_).xlsx
+5076cb9db7d829be24a39a2059d029a9c564019d4cb69b5c4f90fd854aa82931  data_28_06_2026/train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -n33 r=0.785_).xlsx
+60d3ede18a4d889cdc2257a1050146d78d1d980d23cb4143b42c8958d5a01eca  data_28_06_2026/train/2024.05.30 S&U H=5 W=5 TH=0.2 G-S=0.1x0.1x0.1 hole=2.5×2.5 (job-1 -n10 r=0.95_).xlsx
+bc02469ca5e19f0c20d3864284290755e8b915f728e1578c4c098abc154b8afa  data_28_06_2026/train/2024.05.30 S&U H=5 W=5 TH=0.2 G-S=0.1x0.1x0.1 hole=2.5×2.5 (job-2 -n18 r=0.95_).xlsx
+04c6b9287419d0344e2f05d8421b518a679b827ea66b140d30e57a8e10fd8b5c  data_28_06_2026/train/2024.05.30 S&U H=5 W=5 TH=0.2 G-S=0.1x0.1x0.1 hole=2.5×2.5 (job-3 -n36 r=0.95_).xlsx
+85412a956b61eb6981cc759498bf230156ca6febe50e7aa3f054eb6233675d7d  data_28_06_2026/train/2024.06.05 S&U H=4 W=4 TH=0.1 G-S=0.05x0.05x0.05 hole=1×1 (job-1 -n11 r=1.005_).xlsx
+861344645153a824173bb285c1746b3eaedeef4ccc65d1a4bc5af461c26b21b7  data_28_06_2026/train/2024.06.05 S&U H=4 W=4 TH=0.1 G-S=0.05x0.05x0.05 hole=1×1 (job-2 -n5.5 r=1.005_).xlsx
+8e61ebf39f7482b64de7d7f3255915bc860f3fb47aeddfc240b8e52410b90ed9  data_28_06_2026/train/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-1 -n20 r=1.227_).xlsx
+07761f07a885184b442584fe32cce61c36e08643cac798acb1b8f68eb5741b8f  data_28_06_2026/train/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-2 -n23 r=1.227_).xlsx
+28c468866f95480ea60338d5491c115bc46416db52a056d79ad45a804061656b  data_28_06_2026/train/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-3 -n26 r=1.227_).xlsx
+dc64c048d473731a84bac080060314c5cfc86ddfc8bb5008f30d55acfa2d95f0  data_28_06_2026/train/2024.06.14 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-1 -n25℃ r=1.03_).xlsx
+58c1ae7de79595ff7c7508f421a12b146b9d457276be86fc0cdabd22c6aeecc7  data_28_06_2026/train/2024.06.14 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-2 -n38℃ r=1.03_).xlsx
+5a50d77f81f5db287cb2f6fa784cc523965a9e0068545ccd1b75b7d6ce919668  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-1-n35 r=0.76_).xlsx
+5e059cde22f4e9804512036b66228454e3b8b4cf8e2a0124426199f512752d6f  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-10 -n40 r=0.76_).xlsx
+9c69e0f72654dd8b089fcb2591f54c639798ff730cce2c9152c17a0a16bbc171  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-11 -n42.5 r=0.76_).xlsx
+a6adfa224fb28e8c40562399ad6be27c8f942a66f56fd3890a920f5fccb68d93  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-12 -n45 r=0.76_).xlsx
+16779e80d103745d80b653bdb8a1d1e5b60d326e3c5aa7c29db81a4165d00d58  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-2-n37 r=0.76_).xlsx
+57d441a1267e909b081a98b881d593f1ae21d315a3e0e66e82230af0d49b2fe6  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-3 -n20 r=0.76_).xlsx
+3dc4c1cd6bc33bf6e492071a3f8833720a06793879b6d2005ebea6c51fa21d79  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-4 -n22.5 r=0.76_).xlsx
+a0088cd57128b54b4a547f7959c50f0981f79ae091a1ad52787c1c1802d33f4b  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-6 -n27.5 r=0.76_).xlsx
+ad8ad7a31b1a90d293de6c2d6f53421b69235063c2433ffe2371f36ea168d227  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-7 -n30 r=0.76_).xlsx
+3713439a1b734fed30627ca5bf86a55953196b52297f83dc3a106802ea7ea6b1  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-8 -n32.5 r=0.76_).xlsx
+8183dfb91c75c30f8026b638122b9d8ba2350ca6fdac6b306cfbedc4a2891f54  data_28_06_2026/train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-9 -n37.5 r=0.76_).xlsx
+f5bbe18d8fbfbf3fff45f23739a21121ddd0ce847b141920cafd1d3a2691f54e  data_28_06_2026/train/2024.07.07 S&U H=6 W=5 TH=0.3 G-S=0.1x0.1x0.1 (job-1 -n20 r=0.634_).xlsx
+faca59e8098857dc8fb19d89e6defb07427a2ff9dddc5995728a23935a36fe57  data_28_06_2026/train/2024.07.07 S&U H=6 W=5 TH=0.3 G-S=0.1x0.1x0.1 (job-2 -n23.5 r=0.634_).xlsx
+254150370186b03494d9a7ee42f4872630902185296af61a896fc599cc609171  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -n15 r=0.503_).xlsx
+25a40e0576e86d8f976b5d5b6122d1716f3a7624726171d47973781c05f71265  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-10 -n24 r=0.503_).xlsx
+b448e038ddf4b8c90204a23c54d3ede8caa115cf20466d8edaadf27bf3f32db3  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -n16 r=0.503_).xlsx
+35cb3189d297f7ae3abe2e156f457ee8dbd821003bb27978a07a6e48ce4718c3  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -n18 r=0.503_).xlsx
+4626d291b7bc9d0c5dcfd28bd7f9c30b5b842be983d515bfbb15ba7a1ef31ca6  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -n19 r=0.503_).xlsx
+b462c396200612d5091012f6fd41283e1f72b46c06e9f04507f0edfb933a755a  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-6 -n20 r=0.503_).xlsx
+a557a533f66e8730f955fd23c592d45a15fcf6d75a510bebd42bbb5ce35d6ab3  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-7 -n21 r=0.503_).xlsx
+0635c75c3080cc0d15bdb2ba595c19ee6e1dd18522babc428436935c11b3c119  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-8 -n22 r=0.503_).xlsx
+5a307a8550a41070a15e8098109cfc6483cbd65753cf2346e751bdfd9b87118f  data_28_06_2026/train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-9 -n23 r=0.503_).xlsx
+c5c13bbbb4e024a4f0441ad3a9a9a5f25e05646da6629a7a53d3ec63b8e0b631  data_28_06_2026/train/2024.09.05 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -n25 r=1.227_).xlsx
+78ed4505064aa15bcbcfd18e7a9b94714f660999146d01b9d316fc711532cb23  data_28_06_2026/train/2024.09.05 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -n26 r=1.227_).xlsx
+2fc2a364ac279d9babbff4de13e497aed063be91dff0a9f3846b6ae694d7c25b  data_28_06_2026/train/2024.09.05 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -n27 r=1.227_).xlsx
+be63c3f5480359b006a39ecf823b9d6014c30c498f881a7ecfe900f7e91c815c  data_28_06_2026/train/2024.09.06 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -n29 r=1.227_).xlsx
+9197f17887077944f50940c89d006d189ea5404377f291832c73a926192c05a5  data_28_06_2026/train/2024.09.06 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-6 -n30 r=1.227_).xlsx
+e4535ae14e3c5d19e75afc59c4c436c77e03d3c846e94fb9f9faa3ecf3c97ae7  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -t8 r=0.97).xlsx
+69811b3c7a39e6917dc1a7988802d348b5e00ae40497e37f7e205dca70f57771  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-10 -t21.5 r=0.97).xlsx
+8fcad79402d257d9051421349936fa7f5cda02bd294667ac8ae2c9c6b2cb19ae  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-11 -t23 r=0.97).xlsx
+6661cd09629115d30ad0c722240a8f95f00d867f4844cad48ca745bf31ae3904  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-12 -t24.5 r=0.97).xlsx
+5afc8a085b1dd8e2731dafbf467c4c3810f86095276134dea376f1c65e14ba29  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-13 -t26 r=0.97).xlsx
+4ae83d67b8c1f47f7ac9fb5cd520d941669ca75a9ba9da5e1cc93e8908aef164  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-14 -t27.5 r=0.97).xlsx
+b3aeec2f12ce80e5df7c33c9c651eb3aedf6d27fef17f43d31d99460d0c76719  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-15 -t28 r=0.97).xlsx
+31baad62b53a54f6e39d8627bf12e29010836df7cec30a7a4bbbe89ece4d405d  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-17 -t31 r=0.97).xlsx
+6e54f10c38bf17d45b4c9b64c708c06c57b55e10789e8d5cc1a99437556dff68  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-18 -t32.5 r=0.97).xlsx
+4a21d7cae9b34f5e582e8d1c3e7bf7e09f07af5396e603aae9cf1b9d2f03b19d  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-19 -t34 r=0.97).xlsx
+eae1376c9ebc404fbb2945ddce9348677b52cccf6e0b9fbfb3f3b4c2d6147fef  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -t9.5 r=0.97).xlsx
+5f2c4cdff88f03864473f3520f179043a4d662065abdcd503a724fb23a92ad1a  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-20 -n35.5 r=0.97).xlsx
+7603b117f0d055aa513f29896472d339f284f96ab588d80802ca13f496a34323  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -t11 r=0.97).xlsx
+29cfc9b72229e8d4406850ce2badac0559ac558f125e88dc846958c7973124b8  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -t12.5 r=0.97).xlsx
+4596b418079b54eae49f6725851bf5aa0118d50f8590ef7de8c08cc889016e49  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -t14 r=0.97).xlsx
+e2ad08d1a12dda40b199469e9d5322564951e6b2dcf501465da15052a3e500c0  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-6 -t15.5 r=0.97).xlsx
+ef5085bbd45ece62c57d85422323ae218ecb3e7ab49671ad7b09c9783c8b51c5  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-8 -t18.5 r=0.97).xlsx
+0e292161416813045cfc8d61ff32c3f1d785f68535c58f08426d033ed684ff00  data_28_06_2026/train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-9 -t20 r=0.97).xlsx
+283fb6b70bca720d21aef60218ebb8fea62c02cc5a635d47d35394967da213bb  data_28_06_2026/train/2024.11.10 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-21 -t37 r=0.97).xlsx
+62535745d9607336c524bc8bc3606a877d6bbad7116f0e74954e0042ee6499d8  data_28_06_2026/train/2024.11.10 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-22 -t38.5 r=0.97).xlsx
+cb070d1550bdd287e9c222415a0bc4ef1aa4afec93ff78ef4b493d2d794cc570  data_28_06_2026/train/2024.11.10 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-23 -t40 r=0.97).xlsx
+e2774f2a584bbdabbac06a84484a9953c1c1f6b409354e8e9ae81a4cce7e21a6  data_28_06_2026/train/2024.11.17 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-1 -n6 r=1.61).xlsx
+7f8ba788096aa4cad1ac688dc6dffcf09de97a1933221d167359e30a1d8664d0  data_28_06_2026/train/2024.11.17 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-2 -n8 r=1.61).xlsx
+8f5b9ac2cc35538d584e96b35c268a1eb1ab8cc85358a296db82c57b6b49c65a  data_28_06_2026/train/2024.11.17 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-3 -n10 r=1.61).xlsx
+272b3cc10d7ff68383e26ca3e7323dc946671238747e73b1c6bdc6b6b9efca6e  data_28_06_2026/train/2024.11.18 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-4 -n12 r=1.61).xlsx
+284cd3772824e139f6557fcc75d07a0f4a939f980ad36901a487df2007cdbd5b  data_28_06_2026/train/2024.11.19 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-6 -n16 r=1.61).xlsx
+527b81152c027e7ac468db82c2c0ef0f98421c9968b5f745d45baa28c015cceb  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 05-Model-1-original)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5)-(Ratio=0.26%)-new.xlsx
+5efa4484393541fe197428aacf49fca436e18de4b0c94f8a8fa5675ded6d9603  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 05-Model-1-original)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5)-(Ratio=0.26%).xlsx
+052ee25a6bc7df9460e0b5231d61ee356d03b4c1d1cb23e8a0696e70947efa27  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 05-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%)-new.xlsx
+73a5fd49dad4de353091ddce0055ab4ac0052314a779621299d714dd2e1289db  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 05-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%).xlsx
+8381b2ed1d3380d1fbe890c336e41319f7ee8c8d645949e646ebee2e78b8d244  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 05-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%)-new.xlsx
+fcc2ef73f192bc239bc3adbc75c82e44aaa9713387c1f8ed1037d72bd8408964  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 05-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%).xlsx
+d81cd0506c084a14e2e54c456f136a86d56168004768d3e707ea2e8bf8f7976e  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 07-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%)-new.xlsx
+58a259e9b012d0524df1fe564261f1b68900b64f8a16a836e1327869e59e69d9  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 07-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%).xlsx
+c4224c7ca03e935a53dc34196ac3c5e70cc41a640cc94c6970d50541c14b092e  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 07-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%)-new.xlsx
+f8414860d88032c55605f563005a659997a6dfe1dee9a9b95153d07071612618  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 07-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%).xlsx
+092afea784f67471c130342e0196a22b2846c2691b573af3b164d0839140d1be  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 07-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%)-new.xlsx
+4d8db8ade8a38830a2dc1abe178b2ed636646a674da89e4876b6e55f7ca87cf2  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 07-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%).xlsx
+de9d171faed7b5590291feed712de678a35a67176d175df1fed0e9bac60cb4e9  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 08-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0,28)-new.xlsx
+ecb294e040b05b639ef89ab0fda32f8178e89dca3271fb0fcfea89e418b55dd3  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 08-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0,28).xlsx
+a397d5841934d82cba5952df60c3fbec1bd8cd8374547b882f1a6a4610352ff8  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 08-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0.28%)-new.xlsx
+8e3949d495fb0a570ec08525e43e398146feb5fb1f9c46d461a13fa8150c80f5  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 08-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0.28%).xlsx
+96c7f554757bfba88423bc4e61be767d4844bdd5fcd4167f984241f8951ca332  data_28_06_2026/train/Huang Zien 2025.04.21-(Slab 08-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0%).xlsx
+38e886fcf31a22b3f97c0cb0271bccdde9b570b5e7c0b1aafdcbb1521fd4671a  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 10-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%)-new.xlsx
+98f92c1d96fb0da04d383de7c69d48a1c7dee6a46b89acc268ecda21d1a1fe6e  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 10-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%).xlsx
+0aa4daa31d2aeb5da10f20b01b8f105de6ca5187c3a26012171e0fcc34f2cb42  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 10-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%).xlsx
+27987104ba6b4ba7fec10ca790104ff187f32d20dde0d8b06b83f9a0f684165c  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%)-new.xlsx
+d306a7b3a43630abccff1a145bab5635b253dc45cfa00a3546b48a21d7faff40  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%).xlsx
+b296f84db67e07887d039c64ca86bd051fcaad297e9652599835239a45ff3326  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09)-new.xlsx
+45ca3e2c91cf5f2c77f756d9d4ed41505b1cb37d72805d8f6b2275a519c67d32  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09).xlsx
+511e6969cbbe60b39a371c059d796f60f3799b7b6d3ff6c12bb82ea14c2c4d11  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09)-new.xlsx
+6073eb49a45441b08474d7c28ad5112188c22e9c1a37edc54c5bfbbe19712da3  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09).xlsx
+11267c73484860c92c27ca5be39e751a7c298b7316379df960f3cd129439111c  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09)-new.xlsx
+e2cd50edf51365f26395f2f4718fc85248152698d41c18255ce1bfbd645ed3e9  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09).xlsx
+471bba208f9f5237861375b21f57687e5e4fe9303549a1a23f2e16512c577cb0  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 12-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%)-new.xlsx
+693af7d79cd1b1e9bce38f26138bf60055187233536b16b1dd50eecee2bbe601  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 12-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%).xlsx
+629f3dc7b806ebbc49942f6c4976ce16f9f5989dd1502576f20fb2b2110fc92e  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 12-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%)-new.xlsx
+94331c82a84c9819726b05d53c1762911acc5dc40893c1f6451814bab7ea29f7  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 12-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%).xlsx
+9a6c02b4c3af43d205e903819235801ab43ae82a211263bd35020981999cd25f  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 12-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%)-new.xlsx
+242e112de1dc3b6ea66125de5739a4586fef138dcddee44961e95bf5fe475d90  data_28_06_2026/train/Huang Zien 2025.3.19-(Slab 12-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%).xlsx
+7c4e5502f171af6b46e6ef2446cebea2fe7cbeaddb1abd356ac25a8c7c1acdbb  data_28_06_2026/train/Huang Zien-(Slab 06-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1x0.1x0.1 n21.7)-(Ratio=0.28%)-new.xlsx
+464d3cc8f293050c22320b35b018a63fa5e2c1da4558f71ead70adec4e85e07b  data_28_06_2026/train/Huang Zien-(Slab 06-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1x0.1x0.1 n21.7)-(Ratio=0.28%).xlsx
+10ac0cdd34aa0b08329d35f03afbd08c7a8982656ab1c812b62431655b73f58f  data_28_06_2026/train/Huang Zien-(Slab 06-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%).xlsx
+82970f2de43891ed1defffd0371165ce4a1f989a0efbff105b747104110579f0  data_28_06_2026/train/Huang Zien-(Slab 06-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%)-new.xlsx
+95bb95e1eed5365adbbeee0030a9c6de5256972353c6fcf70d61c37bb570d8ce  data_28_06_2026/train/Huang Zien-(Slab 06-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%).xlsx
+de14290b935922b6f6cb595797d750db01cc8549b9a643a434a69633aed67c91  data_28_06_2026/train/Mou Nan -(Slab 1-area1only-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0%).xlsx
+5c24fcd7b6d3f987585574b15a225f5507736a0b6fd282101b7d355cb37ec74a  data_28_06_2026/train/Mou Nan -(Slab 2-area1only-Model-3-norebarl)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0%).xlsx
+6f577377ba41fcdac46f5e511d2b2acaadd9c94d26a7b7918ceebf07b615607d  data_28_06_2026/train/Mou Nan 2025.10.07-(Slab 7-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.402%)-new.xlsx
+2dc147ee4786e297ec74fd4c53eea705da6e740a89427bf8e3d28eb6d994bd72  data_28_06_2026/train/Mou Nan 2025.3.19)-(Slab 8-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%).xlsx
+7b4b11a77a843fcfc641ccc879c13200a566167f31dae6dc4857be8b24e26565  data_28_06_2026/train/Mou Nan 2025.3.19)-(Slab 8-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%).xlsx
+9c737e3cdfe04aabd33704ee25ebd12a5553612311ed7ed121f371983f8be48c  data_28_06_2026/train/Mou Nan 2025.3.19)-(Slab 8-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0%).xlsx
+f1ca6565c9803e49d84cf02a13ffcbc5848547072a8be72ee41405867914b818  data_28_06_2026/train/Mou Nan 2025.3.19)-(Slab 9-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%).xlsx
+463b85427b888172b58ba1327bfe32f29efe2a71d4566ac6fdf0da294eaba7f0  data_28_06_2026/train/Mou Nan 2025.3.19)-(Slab 9-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%).xlsx
+812080855f6a15404de04031bbb6361269a1ad912af3569474663bce98d42cf6  data_28_06_2026/train/Mou Nan 2025.3.19)-(Slab 9-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0%).xlsx
+bee5fbf04918578a5ad6569ce0aa08d6897d5f3b409644d5be4e8d8bda4377cd  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 10-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%)-new.xlsx
+9af0df2141138ec790c04f1331580c39fd67e773cdfbf8bba81ad6ce78c3c69e  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 10-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%).xlsx
+0b1fad21bee9056c75c7ccb5c5dc2f3763aceca68865c576a2345be1cb11d953  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 10-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%)-new.xlsx
+0fc0cec54a9097107781de433bc8726401d1df876dfbe8015456049fad3d4e13  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 10-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%).xlsx
+c0ba93363d50592756c6b2b9a713417353f3d46bed0b6f1f2fce201eb4b09730  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0%)-new.xlsx
+7b2f54bd92bf6e8c3e8dda9cb07d563541132a6e78d78ce9941a8cf40a5cc553  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0%).xlsx
+668abe409907e0e7bcb179b325c0bc673ef9167ce88c3d3d4a3b263868e24e28  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 11-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0.226%)-new.xlsx
+87db47f608cd612cb508ab869f2d15ce6fa05735b3077800f789edc30f42e23f  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 11-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0.226%).xlsx
+4aa6ef5f21139d9052a2b5886bb14527ccebe8ddebab598b9c8d17e33f0b1130  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0)-new.xlsx
+e200e73a773f6d817f5a2a910d9dabd33043f94f5047073d82f9eac78d32b70c  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0).xlsx
+f06943c65c0713dc699a40eefe1ad90113dfc46929a5d07c8a14de57f3037abb  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 7-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%)-new.xlsx
+d47bb58c6586f3d4d73f7534a881d6f09a127fbf646ca772a8ec595515bd4ce9  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 7-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%).xlsx
+388db184a50323fc89bf8692b7799fe4dc10fc05fca84dc14e15c1c70b1409a9  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%)-new.xlsx
+63e77a647881d5b152e666f01e962f393219237e37b39cb06743e1cb70e9e037  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%).xlsx
+9a3d1e5a580cf6c2260510c6df546fc26fec73336620a902a1d11ee0643fae2b  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 7-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0%).xlsx
+bfd2ac72c5102aad8d9b1c017d07cbcca7e19845ad716d69833d27fc6d437e63  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 8-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%)-new.xlsx
+cc05461cd97c45f8679ba6c374eaab99ca6f53d22385d138b19a6e9c17abb7d9  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%)-new.xlsx
+e3f93e14aa4171c08da4d9a84285724fd7e640045ca6b1576e4cf618e705f116  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 8-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0%)-new.xlsx
+c9c4a304e7e524026372f0da09f0e3487a50f24b8dd6947586b5145221dc009d  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 9-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%)-new.xlsx
+0b3650c3126fcc5e69df9139b628aa50b2594863236998c1c350961f99144855  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 9-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%)new.xlsx
+ab777eeb93685a81a17dd6cbf2264944ac09423e6178bfdbedbe7b381a41835f  data_28_06_2026/train/Mou Nan 2025.3.19-(Slab 9-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0%)-new.xlsx
+956f31df5f1f324acaedde08bbe244f70e1e3926a5017134be5e06ecae7b145f  data_28_06_2026/train/Mou Nan 2025.5.17-(Slab 6-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%)-new.xlsx
+76ba6fb01b074101131a01c8b61139d65fb17a8a975473df7ca857baed3089b0  data_28_06_2026/train/Mou Nan 2025.5.17-(Slab 6-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%).xlsx
+3eda73eae51a09367783dfef7cde1cacf43a5b4256fe4c0d0e1b3a3da0c9250b  data_28_06_2026/train/Mou Nan 2025.5.17-(Slab 6-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%)-new.xlsx
+daeaeb90c0650f4ff1b75bbcfa54b13b051f944a6375e9322d338db5cfec3d4a  data_28_06_2026/train/Mou Nan 2025.5.17-(Slab 6-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%).xlsx
+79376f6b6eb21a5e2880af391813d2e15fcbc98db60eb758e35a443b453e3496  data_28_06_2026/train/Mou Nan 2025.5.17-(Slab 6-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%)-new.xlsx
+657122e98bad77f98720c92bb983b706f1b53c37770ca123a23c1537c6dedeac  data_28_06_2026/train/Mou Nan 2025.5.17-(Slab 6-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%).xlsx
+d845fe769def3c9f4ce57cd1d18457c51a2277d198124eccc16cf05c7e5acce3  data_28_06_2026/train/Mou Nan 2025.5.26-(Slab 5-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%)-new.xlsx
+37ea1efaffe07b7d83153d692b24a73156cbf341c0802bc0f4a7b32acd9546bb  data_28_06_2026/train/Mou Nan 2025.5.26-(Slab 5-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0%)-new.xlsx
+6e2c88ee50155a6b8749887e253d2c5fd950f1d6f0753dd787bd552d9172a0d2  data_28_06_2026/train/Mou Nan 2025.5.26-(Slab 5-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0%).xlsx
+4279cbcbf5ebe614b4d1e35e7ff45bafc997e0a29f3ca0953e26fd8ddff26511  data_28_06_2026/train/Mou Nan 2025.6.09-(Slab 4-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.306%)-new.xlsx
+23ff1a2840acb49a1ee11e02c868513b70fa410271f02fd842205b2ddf046e62  data_28_06_2026/train/Mou Nan 2025.6.09-(Slab 4-Model-2-k11=k22=0l)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.306%)-new.xlsx
+481130e74b1618da11833b273f7cd4861f6e9ec419a21ad5549ef0eb6ed82095  data_28_06_2026/train/Mou Nan 2025.6.09-(Slab 4-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0%)-new.xlsx
+b376f387a64ff0b53a8123ca2d4bbfba4528bdd988319c7ffd97132b2a8d2525  data_28_06_2026/train/Mou Nan 2025.6.09-(Slab 4-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0%).xlsx
+81c504b9f01fd6d11dece54fc2fb47d072cc7a7bfe6a76d695929b1e474ca7b1  data_28_06_2026/train/Mou Nan 2025.6.13-(Slab 3-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.294%)-new.xlsx
+b2a919d3da6a292ccc7b5bf068b7a5742a8c182e8671ae6bdfc654fd84951897  data_28_06_2026/train/Mou Nan 2025.6.13-(Slab 3-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.294%)-new.xlsx
+85efa8618f0a105b582fb339d8fde92b3f6a22c30ed22af820f22e561c1c09fa  data_28_06_2026/train/Mou Nan 2025.6.13-(Slab 3-Model-3-no rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0%)-new.xlsx
+c692bb09e4461c159ec876e559e351190faeeb08cdab64827e1988f50ed8c2ee  data_28_06_2026/train/Mou Nan 2025.6.13-(Slab 3-Model-3-no rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0%).xlsx
+8851d79b4abf37a56a5e606f4ad7136511f8539f5f34d6dfc662c83360946e78  data_28_06_2026/train/Mou Nan 2025.7.1-(Slab 2-area1only-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0.204%)-new.xlsx
+e999e3ffbc4e36b9dfe384da16987640d4aa8778787bc9b1f1d5237efafb2785  data_28_06_2026/train/Mou Nan 2025.7.8-(Slab 1-area1only-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0.226%)-new.xlsx
+f6338a6827434e539ecff3fef524adb54f365ce47d75e9154cdfbf985d8339b1  data_28_06_2026/train/Mou Nan 2025.7.8-(Slab 1-area1only-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0.226%)-new.xlsx
+0edf602c7003b6ad9229ae9d34a563ecd2abe399a93751e5a25954f78e1cf10d  data_28_06_2026/train/Mou Nan 2025.7.8-(Slab 1-area1only-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0%)-new.xlsx
+1b41218c5099b6fcade817485f6d7bdbdb9db0a3eed8dbc78bfadef62e1edc56  data_28_06_2026/train/Mou Nan 2025.8.19-(Slab 11-Model-1-K11=K22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.226%)-new.xlsx
+26cf7427fa6ec33ad510934dad9c91757dd57c512600e641cfd957b5ee03c0e0  data_28_06_2026/train/Mou Nan 2025.8.19-(Slab 11-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.226%)-new.xlsx
+6dcc9e7c085ebae9108072e83e75561945d894ed9ae392129dce0f1f94e28c12  data_28_06_2026/train/Mou Nan 2025.8.19-(Slab 11-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0%)-new.xlsx
+edd762de18c344851c37a86a74edded6815694c78ce81fe71c92f7c6dc87754f  data_28_06_2026/train/Mou Nan 2025.8.21-(Slab 9-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%)-new.xlsx
+c3fc9d9ada05ea1301ebde8f2a2d384ab029a819a1dc0326d1d84816e529bdd0  data_28_06_2026/train/Mou Nan 2025.8.21-(Slab 9-Model-2-K11=K22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%)-new.xlsx
+0c008bdc239bd9a95292281b7fdd0e715cdec4b4d9d584c8196a42952c91a620  data_28_06_2026/train/Mou Nan 2025.8.21-(Slab 9-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0%)-new.xlsx
+d648a113f89c3409ea632faf20a0756a79c5ea0f79fcaceabb5d0ad14535c8fa  data_28_06_2026/train/Mou Nan 2025.9.18-(Slab 10-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%)-new.xlsx
+24e3fab53fb7c2470f4a9add5875cc2306c39fb4ff69668a73a2684f2895dc25  data_28_06_2026/train/Mou Nan 2025.9.18-(Slab 10-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%) - new.xlsx
+71c360d5c127c69ec40e1a40d5d55e0e9b525261d11cad228ca84f4a4ce75c23  data_28_06_2026/train/Mou Nan 2025.9.18-(Slab 10-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0%) - new.xlsx
+e1723c24a2ae20535aedc79e6c05f24d8104cf4c60a263b8f4e63b03911088e5  data_28_06_2026/train/Mou Nan 2025.9.23-(Slab 8-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%)-new.xlsx
+f7144d225e3494a4e686d7ecfe9817d49a80e5bb0b73603e4ed14570f11d3efe  data_28_06_2026/train/Mou Nan 2025.9.23-(Slab 8-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%)-new.xlsx
+93b4b919c8399a8959e8671c265cfb8db22fafbf51bbc50c722086b343a0d825  data_28_06_2026/train/Mou Nan 2025.9.23-(Slab 8-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0%)-new.xlsx
+430ef4e8dc34f30359f8164bc3854a2ff4538c06fbfa888fbc19ffcf9a25f1ed  data_28_06_2026/train/Mou Nan 2025.9.27-(Slab 7-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.402%)-new.xlsx
+eb1613317f33707401d3e6793dda7166b2f69e8bbc10821d7adfcf266d3ce287  data_28_06_2026/train/Mou Nan 2025.9.27-(Slab 7-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%)-new.xlsx
+d4b46f7c41ba2bf77941f4deee2ff43478afae3380aba73215ed357a81a79134  data_28_06_2026/train/Mou Nan-(Slab 5-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%).xlsx
+58c0e237aa2a7bbdbf7939c27db5157a971e3d0fb2852401827c9e8e9ddf04d3  data_28_06_2026/train/Mou Nan-(Slab 5-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%).xlsx
+2241ffa7f65ea1f7120608301cba84d446bc33d08497db3e4d6364548704ac15  data_28_06_2026/train/Mou Nan-(Slab 5-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0%).xlsx
+125ee477aeb1a5c8829f779dc1f0d3bb54729eeb6dd0f91257dc1010b1494879  data_28_06_2026/train/Ren  2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452)-new.xlsx
+30edbba58e7240f85c82db83be898df52894cfe9ab7389b8fec001009736c6d3  data_28_06_2026/train/Ren  2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452).xlsx
+d52f2f751b8832f56a7706166039c7fd92721dc7460fecc24a3ff73a5e7605cc  data_28_06_2026/train/Ren 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%)-new.xlsx
+17e2b38a2470919b591edcbbcb0354b4f67a3f7aecb26f4d32c49e024b3c5a92  data_28_06_2026/train/Ren 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%).xlsx
+279099e1a87ca30b852a337f42522c67c05d6155683f977714b8c621f30950b7  data_28_06_2026/train/Ren 2025.3.19-(Slab 4-1-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.23%).xlsx
+7e17de1b3cecc166d8085c289599bc8b27bfa24a7cda1a049898d38e3e98f912  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0%)-new.xlsx
+ba4cffb17dd29ee7577eadf1a2d3a70baa6ace5df44d93d9034d6e906a5416fc  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0%).xlsx
+546dc9eb69e543235e11536a8a081c69c85f48fd08f6400ff97803cdd7a42951  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%)-new.xlsx
+c02e2a1f3237e0ffef32cda5a02006d298334588e4bcb313728a76693db371db  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%).xlsx
+aeb7cc36281941479b6841965c950804ad11c9bfc1323c350b332386c40b64c8  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 4-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.23).xlsx
+66d4d361c9afe993dfde8cce88d559367bc83488533157e5e2261a50a823c29a  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 4-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)(Ratio=0.23)-new.xlsx
+2c21e31994766bddb9501c0ca28c1e589bbcb154118f377c51f8c858db2a36fe  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 4-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)(Ratio=0.23).xlsx
+9b73b821643e58132837268e85d162b9c831dfb7ccfb8ef66667faa7f08acddb  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 4-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0%).xlsx
+a71d6cf4c91248c9d17047e318c93ad143aa75ff08d282bc2d79a00f185673e7  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 5-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209%)-new.xlsx
+d8d0f78bc9c1f13d26a80f67da6b4f70e0fa202da890ed668ce278d01b024dbd  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 5-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209%).xlsx
+546c2c13d990acced397caa08d8e505d9d394a1277bedfc8f83e5c6b2eb5eef6  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 5-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209)-new.xlsx
+8c42781003ebfbb9b55714d3d947961824398f85efbe869754be59069bb53c72  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 5-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209).xlsx
+75b7983e198f87032f5f56086c75a2b41bcfad7af5a1a0874e94416b5f3c1879  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 5-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0)-new.xlsx
+8299ad446a29e40023851e2b23d668bc3af8397ceea3b7c49cd0cad0f8883e08  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 5-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0).xlsx
+d79dfcbc77aa68d26dd45d404369ccbb25c32c6430f7f91a7805d69622914fb7  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 6-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.157)-new.xlsx
+74a3c879e95832317a39e060b18dfd5f19030a6d9a15c8628cac8aff81ffa41d  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 6-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.157).xlsx
+290b75e7b3a094b18e67517652fbac208bf24b6b79bfded0f38815a99d201ba1  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 6-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.175)-new.xlsx
+87e051a4b59adc69fa5606445b0046b73feb2d8b5ce3a5c25508052a511b97bc  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 6-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.175).xlsx
+fbe30fdb9544fe765ed5c3f21c7224f0e9b0fd70ad0e942c217040438ac6fa89  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 6-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0)-new.xlsx
+e9a6dec10449c59de32c47933ee2c2cb6bfb00977ebde5615a8880ac5f499577  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 6-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0).xlsx
+d5490ff7be7f7096c1c9094d2b57343820d4741752acd53d15f48feddc767eb2  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 7-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%).xlsx
+4090142a91e2c692182855c6cdc53b0efff42afa6ef693e41edd501cadfe7fa7  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226)-new.xlsx
+d562dd5a0825759e02592a4b7d4fb9376acec77aa6b599fa6efc89ce7cfb792b  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226).xlsx
+922bc493bc08eb327e6bffedc82f2e4d1483743968b6f0583b2aeaa1964ee00f  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 7-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%)-new.xlsx
+fbce52bf85341a1b0dc3c6d156371bda3d19ebc8b5e9ce234a92132766cf12fd  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 7-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%).xlsx
+dc85e7bfeca608769f0d187dbc35599dc42a650f9b0650e32306a2b394f3d856  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 8-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n23.7)-(Ratio=0.452)-new.xlsx
+8baff2c421b85d5ffe335d31aee0197b9a43507a177825ee84e04260f5fc641b  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 8-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n23.7)-(Ratio=0.452).xlsx
+c2b3882954aacafdc4dea3636915bc54fcd8be6798d60071a198f2395ce25d99  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452)-new.xlsx
+1cd7a5efd4c2d6a1e082f5254b7de5fb8d9f7f9db5dfe4d2d2618a1eb5d9f7c9  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452).xlsx
+8d7b36d723b5e5d042dbdb62552ad3323d47fa9cea6ed3cd7113c2b6def8ceaa  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 8-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23)-(Ratio=0)-new.xlsx
+73486937cf811d86b8f421a3e7e9ffc795594d021d0df61b802942f32b6c572f  data_28_06_2026/train/Ren Yuhang 2025.3.19-(Slab 8-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23)-(Ratio=0).xlsx
+6f656525d39cec9a4744ce7f41a9fa1f45eb69575111ac35fb4e8fc010352392  data_28_06_2026/train/Ren Yuhang-(Slab 10-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0.2262%)-new.xlsx
+e6922c25cfab7738a4ea6d99c392e0da36db05b3c20991360d38450474af345d  data_28_06_2026/train/Ren Yuhang-(Slab 10-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0.2262%).xlsx
+ac6c063306d14ed930ade2e62d039fe0aafa4ec236668be1ae4f43ef236d67ba  data_28_06_2026/train/Ren Yuhang-(Slab 9-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%)-new.xlsx
+43d483631ca9281ca93077dfb1f5729b4ff0d9c7dd747d1f7dabf0c776b887f4  data_28_06_2026/train/Ren Yuhang-(Slab 9-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%).xlsx
+59bf1e0806688e33c5aca3db8a849f0f65cf488e13e3ed8b4bed6bea6bf559b5  data_28_06_2026/train/Ren Yuhang-(Slab 9-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%)-new.xlsx
+93572e7242e54d1e7dba0249621e23def78c71a424cd0996a9fb67e31b5efc38  data_28_06_2026/train/Ren Yuhang-(Slab 9-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%).xlsx
+2bc7e21cf0a22703cfec33c2515cf77bd94282d2f964a71b4a4e9195464f7040  data_28_06_2026/train/~$Huang Zien-(Slab 06-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%).xlsx
+722fd9265287589d58aaadc396e092773cb966df5b5d945c6adcedc1bb5e35a5  data_28_06_2026/train.npy
+a4d5a7421c5c9c7435b299ed0bca313defd7b20fd61fa3a7579a24cd1ee8b186  data_28_06_2026/train_2d.npy
+63afca61937805180bc597e079a328d70a49d1840c549e637754fb11d59b017e  data_28_06_2026/train_2d_without_areas.npy
+7cbed8cdfc8d8ec35f0cd9e7e6195232b4cfe9cfce9e90aef26a0f53f95bbc61  data_28_06_2026/train_dense.npy
+1ec9078aab3cdba7527bf631dfb7fc53b40239a4e13efe83e619f133ead61d57  data_28_06_2026/train_parameters.npy
+9edb7c53cb3e123594a1f2a09d074d006e55b661e28d4ecc554346b652ba63ed  data_28_06_2026/train_prompts.txt
+9dd7e5e03464e729fe52f30bdff05bd242f80fe0786fe51cb9977177e22c96da  fem_source/cae_models/2025-4-19.cae
+908a3101163758e9b8eb3306a401bad33c97272656b38bfdb1f40c7f7dbb5410  fem_source/cae_models/2025-4-20.cae
+f7cb5a7befa626a891517541f48bcd41ab133056d37d404ca5d374de9b611a41  fem_source/cae_models/2025-4-21.cae
+80dee18f7c886169c3226a234b1b173cb66162a3afb9f0e2b28a8084dd39010e  fem_source/cae_models/2025-4-28-slab8.cae
+92684c0a27f590f5d8c65cf3fbdec81bb162b9a11694c85dc7cdd4ee436ffcfa  fem_source/cae_models/2025-5-14-slab7.cae
+b265f809d50eda70d2ee66bd3a0940484a65bc8433b7742c37ba649efd1a9e14  fem_source/cae_models/2025-5-15-slab6.cae
+edad0a19cc24bf71739c666a2c67753ab380b540562e5f69c5e2d68dfb2967fb  fem_source/cae_models/2025-5-26.cae
+0a18321f98edc7de89f2d9f4104652446bc13db33d7bf449eea06edfa9da543a  fem_source/cae_models/2025-6-12.cae
+6355ea9210754e11c7c0f44ec39f92995f98bfd4ea7d467edf6e87f79fc07c06  fem_source/cae_models/2025-6-6.cae
+6bb810dcdd86df458de442973032ba19db8d79bf117bc54afdef31455348370b  fem_source/cae_models/2025-7-08-slab1.cae
+a02e05d5accbbdc35e64209d75a0feb6394b2eab81ff11d4ab2bfeefabc12322  fem_source/raw_excel_exports/slab10/Mou Nan File 2025.3.19)-(Slab 10-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%).xlsx
+ed042be26a58ba126742f91e6b7fd52d204586594e031aec8a205799e12643e4  fem_source/raw_excel_exports/slab10/Mou Nan File 2025.3.19)-(Slab 10-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%).xlsx
+24dcaa1cc6c6011d27dff0c0fbce67fdd1481759b1dc56fffd0862ce78e544c0  fem_source/raw_excel_exports/slab10/Mou Nan File 2025.3.19)-(Slab 10-Model-3-no-rebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0%).xlsx
+70e8dcbbb803faf82504027cd73fe84b772fc2bc4fa8c9353a9b9d8e16b6b309  fem_source/raw_excel_exports/slab11/Mou Nan File 2025.3.19)-(Slab 11-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5℃)-(Ratio=0.226%).xlsx
+2b3694e04e75320d966cd5765e03aabc60184eee7c55d060b5da59d532f555fe  fem_source/raw_excel_exports/slab11/Mou Nan File 2025.3.19)-(Slab 11-Model-2-K11=K22=0l)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5℃)-(Ratio=0.226%).xlsx
+d635d6616be49996c07b444f18d3b2d2f2542ed7da97abdeaafed16051ecf8f9  fem_source/raw_excel_exports/slab11/Mou Nan File 2025.3.19)-(Slab 11-Model-3-no-rebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5℃)-(Ratio=0).xlsx
+174ab853163b0278309551046bcf0b45057d6ba817fe994e8588835a541e7d8d  fem_source/raw_excel_exports/slab7/Mou Nan File 2025.3.19)-(Slab 7-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.402%).xlsx
+524e68fbfff89d323080da97e9be3bda168092f494d61f0a8bb36ce88de6dade  fem_source/raw_excel_exports/slab7/Mou Nan File 2025.3.19)-(Slab 7-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.402%).xlsx
+ce80f7a5c28098f0948646c800da136d2c68bd2698ee73c9138887b6b2b2b51d  fem_source/raw_excel_exports/slab7/Mou Nan File 2025.3.19)-(Slab 7-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%).xlsx
+2c9796bfa11cdf97c7fde48e4f88a24a1e111054a6621b6e5557656d2bdc13f5  fem_source/raw_excel_exports/slab8/Mou Nan File 2025.3.19)-(Slab 8-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%).xlsx
+2a5aee8194f656178f229289391981fa13cebd1513a25a58b9c753904e80cc44  fem_source/raw_excel_exports/slab8/Mou Nan File 2025.3.19)-(Slab 8-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%) - 副本.xlsx
+28890a1af7ce105aaac3dc6bfe259ec862735837831876900fb19e1cb2db77d2  fem_source/raw_excel_exports/slab9/Mou Nan File 2025.3.19)-(Slab 9-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%).xlsx
+16cf3783baf1981f3069ad9fc46b9912629b7d8c3dde8ed8b4ba5758ce554952  fem_source/raw_excel_exports/slab9/Mou Nan File 2025.3.19)-(Slab 9-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%).xlsx
+8f1ca205467be98b2917f7ba738e66aa4ee7b69d1b5cb1c7b9f363651c38ba8e  fem_source/raw_excel_exports/slab9/Mou Nan File 2025.3.19)-(Slab 9-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0%).xlsx
+c0fe36c6b6d44db6a800cc4cb9386a7c76145d95c3bfbefb0577f2ec308ba006  manuscript/ver7.3-Tai_2nd_paper.docx
+832f4d2abb92cd65ed65d6320c40be5d026cd185de2f8d77e7ede737eed32522  manuscript/ver7.3-Tai_2nd_paper.pdf
+c912f08ae95d836531f3eef3f2c5172b2471f1ed39017de1b8635496a42132f5  manuscript_support/update_paper.py
+3bd1d244c6f61d81f8edef2de5cb4644a05a0a43dc4baa7fb1ae8d30b0092f39  manuscript_support/ver7.1_code_definition_audit_checked.md
+2d1ff8f134b8ae5117768e8eb551ece2fee3c92e78000106c3dbd424e2e458e5  requirements.txt
+6d4ef0d4f3dacc13c93990943b06445101f960bf0523ff14642ec905a8a19b3f  test071405/analyze_five_seed_results.py
+dfce33cfdee4bf419927fe06d1503041d96da1aa5730d8c9a2233413ad9e5deb  test071405/final_conclusion_zh.md
+546206e060091bb7f4fa152f182ce155451636b3e636a803bb33a4001a12dafd  test071405/formal/config.json
+dcfc23b4fe37ea1d078a842ffc2d7f7556eda2d820df5dd1bbedb10f6b767290  test071405/formal/fair_architecture_scores.pdf
+adce4c26efc994dfd2fbbbd4d6291eadefd988754952bdc263bee82350ce47cf  test071405/formal/fair_architecture_scores.png
+0da600b78a54004e58d9fe2bfb5044454c44bd7ebe59b684f617e52b1c38ed7c  test071405/formal/fair_comparison_report.md
+ad1f20bd0e8c2225f7a7cb69bc79c58ab7779753a33b11737675581075bc947f  test071405/formal/fair_training_curves.pdf
+e08faf20ef1b17a02350841e555ff52fc7ed135064a2ae3cc85ceabb403aa6c6  test071405/formal/fair_training_curves.png
+eb37c59e55ff0bc60aeed6b36990da569b6f405473f2047e7a41865a681e7b50  test071405/formal/metrics_per_sample.csv
+a6aa66122b9bd23583814c6f28c6e6a00a341860c568fcbfb492312acb68d7a8  test071405/formal/metrics_per_seed.csv
+b9146289a5e0718d864065f633d69047fd230a02d78b38b54ec2ec9c47d98d41  test071405/formal/metrics_summary.csv
+609488df5b46c0ee2b0eeff40f8db8372178bf962c962cac0c2084b61931c531  test071405/formal/model_pikan_seed11.pt
+03cd0d2e29cc903e78b48538d6ea48b34d2efb28dd1be20ded3cd40ab966df5c  test071405/formal/model_pikan_seed23.pt
+414e87cf9045471bb01f6aab6534023b0fdbf546eeb74f1d8d4ad8a37ada7ce9  test071405/formal/model_pikan_seed37.pt
+42eed9b457cdfa970128a7ca3da4daef7fc430b807931e6f43ecbdafb47aa9a6  test071405/formal/model_specifications.json
+6feaf6a863e855663404400fa77b1a3c4ba0565cf7b260d63ce0d013bc9c7418  test071405/formal/model_unet_seed11.pt
+3c69ae9e82cc5fb9e614421a1ddff750ce75bf4c3213b9cb86a3afeb969557fc  test071405/formal/model_unet_seed23.pt
+2d5df9be925fa49b2b4a88bb1bbf7a568415fbf37f1118616f7df63280811c9b  test071405/formal/model_unet_seed37.pt
+ed8bc2ea27a44e0f7237670f05da4b7526d2b380698a25976df6794ad5b7b86c  test071405/formal/normalization.json
+fe4b0d60f87ef9c728e140e027c4894d27b759e0579772228430d7c0b872015f  test071405/formal/paired_bootstrap.csv
+8b7a472d5c29db035829c5b8f65b56443abad5cc1df6efd9248be797dc442432  test071405/formal/training_history.csv
+61011fc708727095a2ed11489993a93598a7a6451299dda0b0febae1f631b7b7  test071405/formal_extra/config.json
+3226a8985db268387a01c69ef72782591a1ea3f4f56047b236f4694977f7a4a5  test071405/formal_extra/fair_architecture_scores.pdf
+19f6bb8286c7ae7d794b01a0919355039a7aa463ef27c4a5702cf13a391e00b8  test071405/formal_extra/fair_architecture_scores.png
+01488e3237c6fb58c40cd60008278856a537acebd0831d1fb3dabe9ad527ee24  test071405/formal_extra/fair_comparison_report.md
+06fc5ad2dbf01b136c0e25ce4d3a7b669032f05e5c0176f6f7e69972673a8300  test071405/formal_extra/fair_training_curves.pdf
+a4d5c2dfbd964e433d9379a0ae75349b3be20a7e172e0b06611356ec10c61d99  test071405/formal_extra/fair_training_curves.png
+4a279aacca0e6db191fcee88ac0db1cee53509d4fa332e830ac7ebc498df4449  test071405/formal_extra/metrics_per_sample.csv
+1be88c44d61d47097f371ae97f7644bc1b052ab0c91c3d7526c083c9a74322a2  test071405/formal_extra/metrics_per_seed.csv
+ba7ba05312edf80a9894aaed8cb53cb41759303b0c6cbfc3f0e9c868c8850749  test071405/formal_extra/metrics_summary.csv
+bb0134d6b0bcac2691cb1864b44398309f9497513b0accad67e41b00bca2d9e5  test071405/formal_extra/model_pikan_seed51.pt
+de5d53aa820820ce871c8c858e6cff6fdab59467ab4e5b41d62affd964583513  test071405/formal_extra/model_pikan_seed73.pt
+42eed9b457cdfa970128a7ca3da4daef7fc430b807931e6f43ecbdafb47aa9a6  test071405/formal_extra/model_specifications.json
+a35ebfa6f6090753385369b7304ce51a1f5fbebac6d5d4af4eca10ff78787606  test071405/formal_extra/model_unet_seed51.pt
+cbbcb95f1deeca9c142439d84f1692837e755005970bb79780f1f22e90c4e409  test071405/formal_extra/model_unet_seed73.pt
+ed8bc2ea27a44e0f7237670f05da4b7526d2b380698a25976df6794ad5b7b86c  test071405/formal_extra/normalization.json
+70b34735ee44e4380798be52dfc17632aef43c039d5a16a978c1d8fd5e70c571  test071405/formal_extra/paired_bootstrap.csv
+b695ea417254389dad9af805efbac1aa5da51831e177b06b6766e54f214f2310  test071405/formal_extra/training_history.csv
+4de21d560cc7ba5cfb54f298b4d985db226c35e8c090f45d4708df9c9d8dc8b2  test071405/formal_five_seed/fair_architecture_scores.pdf
+bf400a672d7d7bb600aec61376413472b607ebbdc4706044951f1b7673059b02  test071405/formal_five_seed/fair_architecture_scores.png
+52d43068d1b2d001dc5e021a03e4beda6bbd9b2e7fee988564b5e0eabc549821  test071405/formal_five_seed/fair_comparison_report.md
+b99dd743be110e3418bbcb7e045a8c41e3a1846548ab1a7f7715a699ee3f52de  test071405/formal_five_seed/fair_training_curves.pdf
+c9066ac03dc64e2a71bbf0dff482dbc318ceba2094bca670e396ababd16bba85  test071405/formal_five_seed/fair_training_curves.png
+ce9c50a06935a1b4c3dd373ac299eaea1ca43061c615a8479f985f17be23855b  test071405/formal_five_seed/metrics_per_sample.csv
+997efd1a8cba7323b74c486e8c028513697f8d0c13e6684a756628d707be31ba  test071405/formal_five_seed/metrics_per_seed.csv
+e51a942ea270532f1bf71f4eef523b2dff450cc4524f589f8d991163b533c4e2  test071405/formal_five_seed/metrics_summary.csv
+7044728070cb08fb239a1c3afc811fd7b7e1dcf7627291e699ecd094354641cc  test071405/formal_five_seed/model_manifest.json
+cf83cf270bb7579122d6747fd5fa5df03187a4889514dda538e66b881ecac4aa  test071405/formal_five_seed/paired_bootstrap.csv
+8bd50f1924906ba97e1b0d5476f6e0a4d03943233e2e590413649dab60d65bf3  test071405/formal_five_seed/training_history.csv
+2ada4e1600b92bc7ca4238737ac3ff0c6318fdda74af6df3ad5602ec716cfb2d  test071405/run_fair_pikan_unet_comparison.py
+e39543d272711d89cfac9595d6998726294cba748be702d9472747b2a4760848  test071405/smoke/config.json
+b2124c153511ee248a381633cd0ab77485f25a5e549de8ecf0530f38b2d3ed2f  test071405/smoke/fair_architecture_scores.pdf
+b227e6ad1851f00c03f23320e0b4fabf6c03b54a4081ec4f1110ff58c8c980ee  test071405/smoke/fair_architecture_scores.png
+d231f7a7abb82e6b0ba28c2893463a73fdec6707b62d910fadfd2ef27967dd00  test071405/smoke/fair_comparison_report.md
+02069701a480fab293a6dda85ac93f97a0be3b1781577b6933305995bc5a3447  test071405/smoke/fair_training_curves.pdf
+037dd1c2bc31380fa7d4dfb0c9472fad769192a7deb40e6e62633695f2105a64  test071405/smoke/fair_training_curves.png
+d16f4093d5b582d87c039eed11925f5cc6c0204051ce5899e74a873cf15307a1  test071405/smoke/metrics_per_sample.csv
+22112c03692726b5fa40273e14701342c2841f523103cac392dd3b332aac27a7  test071405/smoke/metrics_per_seed.csv
+45df694719fc98e1d3c4dc51306aa281438116641fef91c8539f6b7d0f77a9cb  test071405/smoke/metrics_summary.csv
+020b6231757437f11e7def6f7467c3cc102881b0fb9182b1aee351ae6bf81dcb  test071405/smoke/model_pikan_seed11.pt
+42eed9b457cdfa970128a7ca3da4daef7fc430b807931e6f43ecbdafb47aa9a6  test071405/smoke/model_specifications.json
+9761530af8e2be6b0b374cd328fce586c454c15e350e09f900f7198f8593f545  test071405/smoke/model_unet_seed11.pt
+ed8bc2ea27a44e0f7237670f05da4b7526d2b380698a25976df6794ad5b7b86c  test071405/smoke/normalization.json
+bb4b2939f68d42e37d12f90552569e390e77c41adca9f9e47532dbd82cebca2b  test071405/smoke/paired_bootstrap.csv
+894d5bb461a0419837a79828cdfe5cfa326ba5d267a618c794ae618368714cff  test071405/smoke/training_history.csv
+019c7ddc45b1c2871c548e464acd5be8a8cd89da01d795b47dc81d1d034af483  test071407/final_conclusion_zh.md
+0d0ed3fe57cbc7a005f25e7f83dd71776c4e8d84940dcf756580bc02a3aa3360  test071407/formal/architecture_comparison.pdf
+f6291653c136b9788b94acc7907580134f6a452265c403074532f35f09f4797d  test071407/formal/architecture_comparison.png
+629b7ab9d34011cd4bf10ca2755233d351eb59c4e77bba996e602e2eaa01f9e2  test071407/formal/config.json
+e13b2785dbadaf92f57d462d3df9f1b6129bfcacf6e7dbd1df5d25004a8fe9a7  test071407/formal/experiment_report.md
+815873c58116cd2204276e1f3fcad316c4d943186aa7b9169f755f57093dc683  test071407/formal/metrics_per_sample.csv
+6c3512114b74e6577161f8b7fcc1e87e062799f808681898f5dd3d63188fe8ec  test071407/formal/metrics_per_seed.csv
+fffd3ae9733b90158a6f93f1ac0d90c73f5e6d1d053508fbb7e15386d6edbe53  test071407/formal/metrics_summary.csv
+37bb49fc8cb2cacf1ec9dac3749d0faf87945561eda2e65cfd5e3737de02150d  test071407/formal/model_bampikan_seed11.pt
+64e439c31a3f4065974f2eabd6d39e69034dd8ee26d2dfea83f4404e907efe23  test071407/formal/model_bampikan_seed23.pt
+040ad3e4e31e7eb37c6fb5e9fb65b201580dd3483a6baa9922f5f52d3f8a1699  test071407/formal/model_bampikan_seed37.pt
+ef593b87ee394cb25034ca9d92adcd371474d1ac6cbd21183d79208a1a38c14c  test071407/formal/model_bampikan_seed51.pt
+bb1a7bda4ddbad76a8594be12c3199fbfca6f3570a2e879413d97d84bcb04232  test071407/formal/model_bampikan_seed73.pt
+f486e03e1b5485b151cae70e5d1d4b4acfe041ac371f59af47bee1f7e44687f8  test071407/formal/model_cnn_seed11.pt
+8d7e4b164aff59be0b7af18b1bf03ff8483877d3e7f517d649e2d86106cded54  test071407/formal/model_cnn_seed23.pt
+f2c01f8eed7f5cbb09e9a4d55450bf3c4c6c7d3b1deb4800a11c68c83d1ca18b  test071407/formal/model_cnn_seed37.pt
+19214ec7e597a32fa74a9a5d946c293eca2a2cbd154e2cf2e996fa3077d6220b  test071407/formal/model_cnn_seed51.pt
+e4a95ff97bb435ccbd2b26e6b50b7a54408e1a3de675611dabf6b90ef0ea3c69  test071407/formal/model_cnn_seed73.pt
+36492a6c8a14ecd58830e20e6b0bbb503470819f7324a8e0edde5d62ed6a3f57  test071407/formal/model_specifications.json
+ede99658d5d07a2dfeded1a44ca0b5d8ab60cdc2e7acc8b5b8e55cd6d83adc5b  test071407/formal/paired_bootstrap.csv
+6718ca7cb5fa3286e30032c48dee0e0ba56de0bd613342d1b8c8d928ed318cca  test071407/formal/reused_results.json
+2f64507d0d80161f10b86a99ea578ac9bb4764d63826c06a698542b7446cabd6  test071407/formal/runtime.json
+883728299f1944a091baab7e443cbcca1f40fffcc9b90442aa5fa4d67329fc27  test071407/formal/training_curves.pdf
+92fef34cfafa4b55e67a1eac611341b9b98ada62dd8efc96a63d8b0dd63db629  test071407/formal/training_curves.png
+590e1ccc7af9fdebdc2d7f7b4e9e05fa27681577c8a51d21acefef9acbbe0c73  test071407/formal/training_history.csv
+3bbf44a1e51f13eb25896205495724def042d6c9426688f1d52728b6ceb5bd6a  test071407/run_bampikan_unet_cnn_comparison.py
+55462eb044353bcf75cb9e563c9bebe4c030e7a974181b2aeb56be401bafb474  test071407/smoke/architecture_comparison.pdf
+9027cf39c2ead8d04143345758e22ff9b4190aa61187997650eb6a1a821860f3  test071407/smoke/architecture_comparison.png
+5c9da0ee5263655e012be4136e20664bcb8708cca66981b5aae85175438f542e  test071407/smoke/config.json
+7850e83f16fd74b0e9e76595ffbf3879fe5c451d0109237abbf83a0f35b5e17b  test071407/smoke/experiment_report.md
+531daab99671c67ce15dddf8a7d50f91e8e4f171784c9a725f131b4322f4f286  test071407/smoke/metrics_per_sample.csv
+8d74b349bb5ca5620a5fc4b83e58d2889f7af7966982de857ae23d66b8278119  test071407/smoke/metrics_per_seed.csv
+1e9fbf525d7e4e14b743e496c72f4f2977100d728c0ab16967114ab6e1065884  test071407/smoke/metrics_summary.csv
+ff94b9d1a7821d5e0816814d222f54219726dd494c2c0adea701d5645d542daa  test071407/smoke/model_bampikan_seed11.pt
+7a501ad6e15e6fa9c51c57ced1af9429eb1a480fe79adcfb40093b46201da758  test071407/smoke/model_cnn_seed11.pt
+36492a6c8a14ecd58830e20e6b0bbb503470819f7324a8e0edde5d62ed6a3f57  test071407/smoke/model_specifications.json
+5a16f97007dce3d7c7e9968c907d1bad15059e5058293522edadc72d27a78b4d  test071407/smoke/model_unet_seed11.pt
+5aa11f4d9e95f274d63c1f0f05290aca2c034a3295f8b8eedfda9d4634b992a8  test071407/smoke/paired_bootstrap.csv
+d656342b517ed944aca8a0f3802944677e4b53afa8f43caa2f73b034bc644bee  test071407/smoke/runtime.json
+cb1a797fedf4267cfc73ce7e10d7251838b94659289dfd5fbcb07464dbe2ee65  test071407/smoke/training_curves.pdf
+a0aedb28a361210be55fe34a58835ec9c6f14f4c27c39184e9ba21b23f4b255e  test071407/smoke/training_curves.png
+f1f5ee8daf424e7c0cfa06b0d9068fc8c5bf46f0adf2a82f1f3c0ee0cdb89b25  test071407/smoke/training_history.csv
+10c19fd93e315896c4a021f822e65c5045874e173274401d2dff7142eb1c977f  test080401/01_channel_provenance.csv
+478c452cb9dab2f1efbfd9869a11618deab674f65035e965bee692a9ae5c204c  test080401/02_file_inventory.csv
+1e33bc401f9316aadadc2bd2e5add7ceb6bce20a75ad0f8aa8e336444af1c772  test080401/03_duplicate_groups.csv
+3c43aeb189ba38e97503a8c252a55e6a51785f507e89c408f418290c0734e2c8  test080401/04_case_fingerprints.csv
+71d32f5a68dc59b044eaf313cd4497cb1dd956dc99fe81b81d55a81011e0b062  test080401/05_split_manifest.csv
+08b38a6d04afbd1462b0c3ce138424ae1151ef3f9dc544257fb3edad68890d82  test080401/05_split_manifest_geometry_group.csv
+71d32f5a68dc59b044eaf313cd4497cb1dd956dc99fe81b81d55a81011e0b062  test080401/05_split_manifest_random.csv
+243e8826005054dcad97f2228b5fbc97110a34ed84ddc5b53a5833469d5a9a4e  test080401/06_normalization.json
+4aee97bb4b0792a54c28ca7f3562eedff4655240d571db97077ff71d40f186d5  test080401/07_main_architecture_results.csv
+80d8e8fbaaf149e96d4a6ad9fc9eeb6b205cc932d5c9dd654c15141ed9c501eb  test080401/08_bam_kan_isolation_results.csv
+c0abc7c271663a50fdacb17b8c7e7d154212226c669fa9171479ce3ac6f53727  test080401/09_checkpoint_consistency_audit.csv
+eb02291bc4e821286f233ac193f0855e25cd55c86029c769add38b52f4d69e6c  test080401/09_pathway_ablation_results.csv
+c21950566eb5f4ac6e510018156f5fc7ce52a78ad982c676a7020ab8dcc7b54c  test080401/10_refinement_paired_statistics.csv
+1a238d9d391c7158c73f5c552fd706ba8df6ce7e3243348108e5f694f2f7182a  test080401/10_refinement_results.csv
+d36e922ad143ab9c4f85a3e4b612f9c0aefdf68ca8efa0b4ef5574353a5c9752  test080401/11_l3cr_finite_certificate.csv
+4f24943acc984b6d245177605a3b4a0002ed946ccf7613fa7f6eb3f60043b046  test080401/12_active_dimension_accuracy_cost.pdf
+09561764cc06bfdb19d05f3c414f11fbe222d0680616c95c22c93159641a7707  test080401/12_active_dimension_all.log
+66a1ced8b86f52f4ca953e20e3f0af36772a046bec2ad9d2fe6ff51ff1f98f4a  test080401/12_active_dimension_all_per_seed.csv
+03d83ae2d70d7c3a0f0b8a18d0d0cab9be238d60492caba80782ab83743fda93  test080401/12_active_dimension_all_summary.csv
+dccd1ae1ea3d12c33d40b8254d8d536fb66c0f32c662c5412cffd2f92924cb26  test080401/12_active_dimension_diagnostics.csv
+e1e2d7bf046e8ff7c9642874e263699feac8b38c6bb8116a482e7bf4004212b5  test080401/12_active_dimension_diagnostics.log
+197155d9b41a5c2c4489d8db1dc30d6e606b9012f5a3b5e1184e84d83388f27b  test080401/12_active_dimension_legacy_per_seed.csv
+c24942f549c0248f5448dde88f9b6436566c186cdc248aabf7d0219a263e088f  test080401/12_active_dimension_metadata.md
+56351633139882ef2c1283adf90f42bc2cd7c181601127806401f32c5676afd1  test080401/12_active_dimension_paired_bootstrap.csv
+34b7605c36b1178463c71b0155b56df9339284627042794b89611a82aaed3730  test080401/12_active_dimension_per_seed.csv
+9d62b325798211fe15ae9566102d8a1735bb9849285f5097a0303d8ec1a3ad8a  test080401/12_active_dimension_sensitivity.csv
+195539fcacc2db9182da1dfe33039b9923d0ed69c13bbeeb64f0d66bcf9f2742  test080401/12_active_dimension_sensitivity.log
+2b71dc402038824ba1dacdcb3cf2eb48d069d934dbb7b74bc3c3975b9c24f61b  test080401/12_full_gradient_upper_bound.csv
+2787ab1d0a916181e225545478c6a3cae664ddbae892c6a2f50182c2c62fce0b  test080401/12_full_gradient_upper_bound.log
+2747131d1ce08e323a3952cc4374b0514c63d336ed8d6fd8ba0a5e7c330b940f  test080401/12_subgroup_results.csv
+db42003964b9507cb868da5934256eb942dc6b8f20a71a315aed85d905d9d597  test080401/12_subgroup_results_clean.csv
+b92b3c8d9552c86c8ce9836206b947007d79a399a65708b0c3d91bdbf1491f77  test080401/13_hole_radius_metadata.json
+75697e0b7fd2afae05a6adceed5a4083c1ed2966550b47c9da2740c86831036d  test080401/13_hole_radius_per_seed.csv
+d509a0132237d079339c824674166a9ecb3df16a0edb541921a55bc85d4864ef  test080401/13_hole_radius_results.csv
+a3c237400a75744d795a0ea9b9b8e7a78797cb4acd9d3fa08867444e3c90e845  test080401/14_projection_audit.csv
+d040aad2a2173d9d7dc6f4b8e69c7a41471d29091baf88ad17395a7a6beea805  test080401/15_paired_statistics.csv
+134f8f704a5cf1864b98b83cc42443781c79a64ee0c5963431e69115503bf845  test080401/15_paired_statistics_extended.csv
+dfb89ecf51d7a8cb994799d6d718a1d4cb613e832d9f1eab15d7ba2294f29f39  test080401/15_paired_statistics_holm.csv
+c21950566eb5f4ac6e510018156f5fc7ce52a78ad982c676a7020ab8dcc7b54c  test080401/15_refinement_paired_statistics.csv
+a01fdf0f6dbe6b36cda3255143a0b773d1ee02ce833c2663aad19662f68b88a8  test080401/16_computational_cost.csv
+5d4ce9bcf2229ff51a5b426c44a38958bb480eba7ddc0e01389257a5576facef  test080401/17_architecture_comparison.pdf
+116aa4e9143bae72972844bc883be7898e6666c2092999866c9d38c2e6abe372  test080401/17_figure8_physical_units.pdf
+1c6abb219e857ffa4583fb3f79e69255fff446377920b4f67ef95e3792f1c759  test080401/17_inference_cost.csv
+25e99f046a11c1257ad33a2841b2aea0efa36ee616f57ec73be174259b708ed0  test080401/17_inference_cost_metadata.json
+bc1afd3601953e69f27d8a2ecf03124ed21bcdf7b890b6f665e854a8d5056e0e  test080401/17_l3cr_cost_diagnostics.csv
+1959aab9015f5965caaff14ce347b0e9c634229de2843a2e163524f3c4e06c61  test080401/18_reproducibility_report.md
+a3226a5e4bc64ad461a08c3190305ff7c56d0ecde195917188d80530fb14921b  test080401/19_displacement_nonnegative_audit.csv
+1a830535efe9a15bdb9f19e2a62211bd21e068b840d7182d6dcccee6e0998958  test080401/19_manuscript_table_mapping.md
+4b1574b3812384f0bd293b1a0bc5e97360bcb258f1c6e642519b68d129102623  test080401/apply_holm_correction.py
+769b216adc3eb481568e8a4fd1a3e89ff3decbffd66fbebcf68ed514f0baa0ba  test080401/audit_bam_thickness.py
+92893b9eaf1eaf959ffa08872c743f3eef207111aacbd3eefc68d196dc6373d6  test080401/audit_checkpoint_consistency.py
+5acb06396842ce3846deef32077b3a3ceecabdf4c8cbb1a0b3eb0f6f44f8ffc6  test080401/audit_displacement_nonnegative.py
+74f809f87112f7d955aada928ec85c2944445808dbd23d730795f457cf5dd4af  test080401/audit_excel_projection.py
+70debf4720dd76a3464c433ae34b755a619cdff3bdacd7c0361b3467b2d32255  test080401/audit_report_zh.md
+4954e8818f371fb9fd856725bfbbcc90903b9edf962c66f74b6a91e5aec6a048  test080401/benchmark_inference_cost.py
+3669de8be6e0481f6dddc96e7230f673d53ef8d3bfb57d6fccad7a9efd139dac  test080401/build_group_split_manifest.py
+ec36bf56684d14759824fe75a8a5da517b96e1597032436c77ed140d7e7d08dc  test080401/build_legacy_result_index.py
+10c19fd93e315896c4a021f822e65c5045874e173274401d2dff7142eb1c977f  test080401/channel_provenance.csv
+f37d273eb80d8d31c3b8f09baf525e0edcbf58344e7e847ef67aaf5466a92191  test080401/compare_legacy_clean_bam.py
+a5a1839d76dfbd20440017b6e93f2370649749250d610136634cac833673cdee  test080401/compile_active_dimension_all.py
+a3738e0796bab5e1e796001451fe04ace6c7ef9ca427e539ce92483227d27da5  test080401/compile_active_dimension_diagnostics.py
+782dbc6ce1d5ceada91812d9de775ad40e923dd062be4cc4db229fdf4a3c209e  test080401/compile_active_dimension_sensitivity.py
+ef917917efccc21cb73901f01b5e2416fac370727b6e3e0c02f5872a1c4b62f6  test080401/compile_remaining_experiments.py
+2985c08031e064fcdafc7cd622019aa404794186cda80353cbb0ec8411822a52  test080401/completion_audit_zh.md
+c44ec5e26b91bdee6328d0a325bd4147787824c0acf8094964d778392e07fa25  test080401/compute_clean_subgroup_audit.py
+b78d29153038f2080956e6e3def5a01866c4dbe2f67d07b52d68c1a4cd626e95  test080401/compute_full_gradient_upper_bound.py
+129ba3b3bf2b3ebbe82747c050b86a87818d0e03bea9136ca96a10c18ce4a5d2  test080401/compute_hole_radius_sensitivity.py
+1979345e1b7aef1c5ef53e7a320b13a9f7900192b739e6ff489a50d08906d396  test080401/create_refinement_statistics.py
+e263883d30a61592c16789680e2b973437f7e28a37d42f2cc8916e6b49f8292f  test080401/data_audit/case_fingerprints.csv
+5e0e7cb0f03421787754ca1025d0ebd44cfdb01afbc05968bcb0aec79d7043e8  test080401/data_audit/case_metadata.csv
+1e33bc401f9316aadadc2bd2e5add7ceb6bce20a75ad0f8aa8e336444af1c772  test080401/data_audit/duplicate_groups.csv
+b3292a9a8032fc2a3507c3113c0eee925285ea01a1be84c56249c36633f1e6c6  test080401/data_audit/exclusion_log.csv
+478c452cb9dab2f1efbfd9869a11618deab674f65035e965bee692a9ae5c204c  test080401/data_audit/file_inventory.csv
+5b4ca28f0d62cb35ce075b41dfe3465312dc5ae0d54fae89e50ddf8c1f3e2a88  test080401/data_audit/geometry_group_split_report.json
+e68e475aadda29d6929faffcc79549be1361060cc3a8f944824c4e3b715b41f3  test080401/data_audit/geometry_group_split_summary.csv
+37895fad590de9ed7bfc100f0b49c625c2f13601c2bc674d969fbd1bc247b82b  test080401/data_audit/metric_self_tests.csv
+71d32f5a68dc59b044eaf313cd4497cb1dd956dc99fe81b81d55a81011e0b062  test080401/data_audit/split_manifest.csv
+9b48d82c5fe224b67d7d58f45bb67e89b072967a8a2a9d8ac3c3eed7ec2bd5f4  test080401/data_clean/leakage_free_v1/dataset_card.md
+243e8826005054dcad97f2228b5fbc97110a34ed84ddc5b53a5833469d5a9a4e  test080401/data_clean/leakage_free_v1/normalization.json
+08b38a6d04afbd1462b0c3ce138424ae1151ef3f9dc544257fb3edad68890d82  test080401/data_clean/leakage_free_v1/split_manifest_geometry_group.csv
+71d32f5a68dc59b044eaf313cd4497cb1dd956dc99fe81b81d55a81011e0b062  test080401/data_clean/leakage_free_v1/split_manifest_random.csv
+2c8fb4e5e00b4912e66d2e676a695d8dc911d0b9c69391e0103844c89a889a6b  test080401/data_clean/leakage_free_v1/test_inputs.npy
+06317d34b0b051fdd5e2452caf9542eef7db4f2191c09c090dbca4ce7b5f0148  test080401/data_clean/leakage_free_v1/test_targets.npy
+27d7fcfea97e13ee1f330dbca5d2faef1158025108cd9db0672988430cbbbda0  test080401/data_clean/leakage_free_v1/train_inputs.npy
+5ea2d74bf65fd55dadb6fbf8610f8c00860e7eeb8f1d955ab8c2d893f25bf2b1  test080401/data_clean/leakage_free_v1/train_targets.npy
+e4d14fc5bf5382de116854d4511cf478d312774a2357f262bc6a720fe0244de3  test080401/deliverable_summary.json
+2cd0e9a890ecacc264f155e28d1eab5293443c1f0f59b26193d63431eaaddeed  test080401/environment.txt
+5132d9ca7f674e74b2034bd9d7efb417dfe0abeb785377c86c04201a8527c103  test080401/experiment_status.csv
+4ba87f4a2111f678f0bb1a6c30503fb59b7e8d6298547e04da56f9c50630b4ba  test080401/figure8_physical_units_metadata.json
+498ff82bce73ad4025457668d8ec287298cd8bb3e847930e5f104f98131dad1e  test080401/figures/active_dimension_accuracy_cost.png
+42ac82108eb7f82bf086dc8271bce0a1b96b6c030f36033e397bebfd967d8087  test080401/figures/bam_path_ablation_comparison.pdf
+0330337ef283b718581ab1085461624795d2ae59de204570a15cfaebdd432aba  test080401/figures/bam_path_ablation_comparison.png
+cf084583ce1c852e49a6d4b67e9eff2887f01b6618f0fa28ec4957aca9cc02b0  test080401/figures/figure8_physical_units.png
+ab8958eb078bfd0fb6bbe228666d21e5db9ad748d2930b24f16fb2c827ee5ffb  test080401/figures/kan_isolation_comparison.pdf
+9ba4d8ecf5793ddb92532972fdf5ea796476dbc72b9ddc5cb4ace2199d0de2f1  test080401/figures/kan_isolation_comparison.png
+5d4ce9bcf2229ff51a5b426c44a38958bb480eba7ddc0e01389257a5576facef  test080401/figures/leakage_free_architecture_comparison.pdf
+704b8743d69d8cc299bd779fc4b1b5cdeacbcd3f4e5b8a91b23177f6349b765f  test080401/figures/leakage_free_architecture_comparison.png
+2f9d2cb79cd7ffbdb3d822fb7ac24325f2f01e45c246089aff75dfa608029db1  test080401/figures/projection_audit_summary.pdf
+92d1e06e66a64af834053d41006e7942d930b89c05d3f985a0711b35a1064116  test080401/figures/projection_audit_summary.png
+4ea2e47c3362db1cd3e14b7bafc45fc302858729afd00b90038dce8e8b86db8b  test080401/finalize_non_abaqus_deliverables.py
+e63b5371cbb9c4fd250ba710c5452800f4cb35ccba5a25bc2e635df55ac28815  test080401/formal_clean_l3cr_k16/config.json
+4244d7e5d33c45c86761e6425fa76f85834c84a6caefca30d4fcf20d8a547c15  test080401/formal_clean_l3cr_k16/experiment_report_zh.md
+3a43acca229df834ec51f7a1c7dacb71b5735665a0924108e529328287905bd4  test080401/formal_clean_l3cr_k16/l3cr_finite_certificate.csv
+e3ad413a2658cc4ca8dab7725fd18d6c700ee1aa13cba14f3a222a35f97d414f  test080401/formal_clean_l3cr_k16/metrics_per_sample.csv
+ca608630df8f8cf27e0624ebf347055b5d586946720cee25733881052ab13492  test080401/formal_clean_l3cr_k16/metrics_per_seed.csv
+8dda97208ebf7bd022c6bb7831e879b7540b1326964bdcddb01d91ec39750332  test080401/formal_clean_l3cr_k16/metrics_summary.csv
+5e71585a0bf0f30b04a226c34dbb5587a373f13dcaaf3090bde886172e894f97  test080401/formal_clean_l3cr_k16/model_bam_kan_l3cr_pgd_seed11.pt
+5cd631f871efc1d986323b275d4cb1638fd32a8e926be50edbee6bd49007376d  test080401/formal_clean_l3cr_k16/model_bam_kan_l3cr_pgd_seed23.pt
+167c3793292990c59fc1993d8ef2924f62c89d9d361a12b710c621603adcb39e  test080401/formal_clean_l3cr_k16/model_bam_kan_l3cr_pgd_seed37.pt
+0c5445b318d1243649c5f6cbad849801c0e7a40bb9d7b504bb0a13d7beec5f80  test080401/formal_clean_l3cr_k16/model_bam_kan_l3cr_pgd_seed51.pt
+7b0a6c67bce0bbdffad9cefd40e6d243fce020e928ea1b9fed308e87c23130f2  test080401/formal_clean_l3cr_k16/model_bam_kan_l3cr_pgd_seed73.pt
+a923adfcc36d198f6b0aae1bcef7f6c156a28f96b8690a5d4d0802f8a6a8cd6f  test080401/formal_clean_l3cr_k16/paired_bootstrap.csv
+e3ad413a2658cc4ca8dab7725fd18d6c700ee1aa13cba14f3a222a35f97d414f  test080401/formal_clean_l3cr_k16/progress_metrics_per_sample.csv
+ca608630df8f8cf27e0624ebf347055b5d586946720cee25733881052ab13492  test080401/formal_clean_l3cr_k16/progress_metrics_per_seed.csv
+030c8bf16f1c4819ce0fbb84ad3aa11fb14712aaffa74b0766878de2eb1031b3  test080401/formal_clean_l3cr_k16/progress_solver_diagnostics.csv
+9a3319e3febc935e0164ed8250dccfb72a7396e26de66c24be6ed383fb8288f6  test080401/formal_clean_l3cr_k16/run_metadata.json
+7c4aa3f117408486c8c74fa46f87260336a403156d0125bbe1b7b1bc0b3567ca  test080401/formal_clean_l3cr_k16/runtime.json
+030c8bf16f1c4819ce0fbb84ad3aa11fb14712aaffa74b0766878de2eb1031b3  test080401/formal_clean_l3cr_k16/solver_diagnostics.csv
+d782b77b293464e612532dab86be8ba99ca100d7f5c285fd3b241590bea2c4eb  test080401/formal_clean_l3cr_k16/solver_self_tests.csv
+ad86a4b257be4a3868d54d79ec81d365d692a7404669ba8dafe95ce5eec07d58  test080401/formal_clean_l3cr_k32/config.json
+765ae994e654769be1e6bb56ded398fc5a8323a422c22fe1b4d97acff3445e75  test080401/formal_clean_l3cr_k32/experiment_report_zh.md
+b24c08b5cb917592b9917dbaf1826fd21cecd5eb3df9494ba6be62bb9e63d815  test080401/formal_clean_l3cr_k32/l3cr_finite_certificate.csv
+d2df2fee634c9c8834a259c70cf15b9ffcc517c4d0508d8a8206976650b655ee  test080401/formal_clean_l3cr_k32/metrics_per_sample.csv
+26c2ed9a75ddff5398097476d0b6663ee19fcbf1a8f755facbbf0bf376e7fd91  test080401/formal_clean_l3cr_k32/metrics_per_seed.csv
+af5be4488e05257b9eff5e86b9ad2bcf08c3a532b08dbe06966401b4edf4a6ea  test080401/formal_clean_l3cr_k32/metrics_summary.csv
+a2105b94951cddf63ea1530eb05f1c8fad175273e6dea795df0e7fd9d4602b65  test080401/formal_clean_l3cr_k32/model_bam_kan_l3cr_pgd_seed11.pt
+bd27b8f3dd69c5686c88bbdab87eb76b3e38b2c4959115812398c364de343b2f  test080401/formal_clean_l3cr_k32/model_bam_kan_l3cr_pgd_seed23.pt
+ae7f0ee73652c4e4eb8577ce402d65ac6f09519285360cdb5d78e91a625eb889  test080401/formal_clean_l3cr_k32/model_bam_kan_l3cr_pgd_seed37.pt
+1f2a3f209e709b4f637847834fafd1e1f199a557c8c5c25a17e5e4ec2bbc849d  test080401/formal_clean_l3cr_k32/model_bam_kan_l3cr_pgd_seed51.pt
+f2f9179ecb45581a32cc929ee33fa211a56b08f9b2c52c9519f3cb67d7242eb3  test080401/formal_clean_l3cr_k32/model_bam_kan_l3cr_pgd_seed73.pt
+3ed782958aa54fdb98cb1a5b553b19f41599213fa2a68819e77ca1c6084b61ea  test080401/formal_clean_l3cr_k32/paired_bootstrap.csv
+d2df2fee634c9c8834a259c70cf15b9ffcc517c4d0508d8a8206976650b655ee  test080401/formal_clean_l3cr_k32/progress_metrics_per_sample.csv
+26c2ed9a75ddff5398097476d0b6663ee19fcbf1a8f755facbbf0bf376e7fd91  test080401/formal_clean_l3cr_k32/progress_metrics_per_seed.csv
+d2eed77b1cfd1e2e33d38859f097c40eafbb5b1c47117c01f77c31bba47b8e2f  test080401/formal_clean_l3cr_k32/progress_solver_diagnostics.csv
+9a3319e3febc935e0164ed8250dccfb72a7396e26de66c24be6ed383fb8288f6  test080401/formal_clean_l3cr_k32/run_metadata.json
+4775c903299ca55d2f1b9e41889124b6dca1991d916ad19a82e988faff318d51  test080401/formal_clean_l3cr_k32/runtime.json
+d2eed77b1cfd1e2e33d38859f097c40eafbb5b1c47117c01f77c31bba47b8e2f  test080401/formal_clean_l3cr_k32/solver_diagnostics.csv
+d782b77b293464e612532dab86be8ba99ca100d7f5c285fd3b241590bea2c4eb  test080401/formal_clean_l3cr_k32/solver_self_tests.csv
+ab3984eab0ba06b280bbc3adb77f76a5a2d9f6ca87f5a952abd274168ad7fb95  test080401/formal_clean_l3cr_k64/config.json
+6626e92365fd434b504a173bfaf8f4cd25c1e1f5ae60fe632847991f15c61fef  test080401/formal_clean_l3cr_k64/experiment_report_zh.md
+c09af70db5f596f28aba117b5a5472113aa93c0e3cdbb60535e125a56f1b7938  test080401/formal_clean_l3cr_k64/l3cr_finite_certificate.csv
+6b65dddb81cb739d2c0f6ccbd462e6839383ac70ebd5b7afb86d4eba3ecda423  test080401/formal_clean_l3cr_k64/metrics_per_sample.csv
+4ff0b327462f5967779eaa72ce43742e03da838d5b23007c5f71788d43946f18  test080401/formal_clean_l3cr_k64/metrics_per_seed.csv
+7cec21637853931e0e4be44d6720420f436ca4a7ca19e445282db7d65a6f165f  test080401/formal_clean_l3cr_k64/metrics_summary.csv
+9fae8c57898b3378b05d5426f0ef75642701dcce238873285a66eed26d763d55  test080401/formal_clean_l3cr_k64/model_bam_kan_l3cr_pgd_seed11.pt
+fc43417db543d49f62ee1837b849164fdda25ffa6a91db3b9412e71c7437a1a8  test080401/formal_clean_l3cr_k64/model_bam_kan_l3cr_pgd_seed23.pt
+43714535e402834a14f1ef20fe64d9b42df5755bacb928aa068cf5ebdf42039e  test080401/formal_clean_l3cr_k64/model_bam_kan_l3cr_pgd_seed37.pt
+17fe7c1122c7ad7d617eceeb1192c1e2d762c41dca8e198f70d286df5b1ae865  test080401/formal_clean_l3cr_k64/model_bam_kan_l3cr_pgd_seed51.pt
+1c7ddb80bfce04cfd8f6e0b36db2146f445893f16ca37f9ae0cfe92dadd9c858  test080401/formal_clean_l3cr_k64/model_bam_kan_l3cr_pgd_seed73.pt
+51bf2dd7fd4c70a6971c1bf8b167b44782300bdfa86b266d0c1f630566ff13f9  test080401/formal_clean_l3cr_k64/paired_bootstrap.csv
+6b65dddb81cb739d2c0f6ccbd462e6839383ac70ebd5b7afb86d4eba3ecda423  test080401/formal_clean_l3cr_k64/progress_metrics_per_sample.csv
+4ff0b327462f5967779eaa72ce43742e03da838d5b23007c5f71788d43946f18  test080401/formal_clean_l3cr_k64/progress_metrics_per_seed.csv
+55053523d24ff4a5702fd172793ba5dec2fdbe324218c2d5a82a1f6c45168b78  test080401/formal_clean_l3cr_k64/progress_solver_diagnostics.csv
+9a3319e3febc935e0164ed8250dccfb72a7396e26de66c24be6ed383fb8288f6  test080401/formal_clean_l3cr_k64/run_metadata.json
+4fe885e1ee99c52b490d9ae80f80afb869121a43a756eb0f2b8c5f6a2b6731f4  test080401/formal_clean_l3cr_k64/runtime.json
+55053523d24ff4a5702fd172793ba5dec2fdbe324218c2d5a82a1f6c45168b78  test080401/formal_clean_l3cr_k64/solver_diagnostics.csv
+d782b77b293464e612532dab86be8ba99ca100d7f5c285fd3b241590bea2c4eb  test080401/formal_clean_l3cr_k64/solver_self_tests.csv
+e5126db337d43098338346c7fe887299fb1a945fd6816d70563f0c1ee2629b8d  test080401/formal_clean_l3cr_pgd/config.json
+66f7bc5228e9e9e6ef7556bc41f2c65e7f40583d94b6ccb0b4938c672250ad09  test080401/formal_clean_l3cr_pgd/experiment_report_zh.md
+51e8cedd5076310d2bd05a54d1b92f65a4c59eb9679a2a353e5fd61883a81594  test080401/formal_clean_l3cr_pgd/l3cr_finite_certificate.csv
+8f45aba842b8f74069cc04c11197f6df557d1d963afe1ae2ab30b6e772f39899  test080401/formal_clean_l3cr_pgd/metrics_per_sample.csv
+8bde5ff329a31bd3d66f7d87d165d67ec6c5db9711487b1739406e8cc8c63cf4  test080401/formal_clean_l3cr_pgd/metrics_per_seed.csv
+afa7ce285eafba245d1d3959380b9212345d0876d18b1dee2d08bbea34a88cc5  test080401/formal_clean_l3cr_pgd/metrics_summary.csv
+6ce42f710cebc8c83a0f90500a29f2a8fbb0030f864d093bc22a3f25b9cb4d81  test080401/formal_clean_l3cr_pgd/model_bam_kan_l3cr_pgd_seed11.pt
+69a127f3a27cde718a625e5c9ee2faf88663f4720a4800385c68c910d82152f1  test080401/formal_clean_l3cr_pgd/model_bam_kan_l3cr_pgd_seed23.pt
+33efe461ba2ae12fe53a67258f8da55e0b525dbb182fec15c9947d60982eaf97  test080401/formal_clean_l3cr_pgd/model_bam_kan_l3cr_pgd_seed37.pt
+8091845658f78cae4beeb69996bb8212be87d022aa42860768bdb1161a514245  test080401/formal_clean_l3cr_pgd/model_bam_kan_l3cr_pgd_seed51.pt
+43af06381d0652859085452c3bd1cac47db8d3714cd645882bade2ed14cef35b  test080401/formal_clean_l3cr_pgd/model_bam_kan_l3cr_pgd_seed73.pt
+ca21f653cf5e09c4d79662f64b9be4d72a0723265c8ae7cfd93ee8eb08692451  test080401/formal_clean_l3cr_pgd/paired_bootstrap.csv
+8f45aba842b8f74069cc04c11197f6df557d1d963afe1ae2ab30b6e772f39899  test080401/formal_clean_l3cr_pgd/progress_metrics_per_sample.csv
+8bde5ff329a31bd3d66f7d87d165d67ec6c5db9711487b1739406e8cc8c63cf4  test080401/formal_clean_l3cr_pgd/progress_metrics_per_seed.csv
+5ee8142dddcfb712a07375ffd16b9451ed60520a8c0a81169c2488a9e6eeb8cc  test080401/formal_clean_l3cr_pgd/progress_solver_diagnostics.csv
+9a3319e3febc935e0164ed8250dccfb72a7396e26de66c24be6ed383fb8288f6  test080401/formal_clean_l3cr_pgd/run_metadata.json
+ab27f28ab4ed46ba0954e40c3bbf2dac5fe34e278b1696983399d93b7280f27a  test080401/formal_clean_l3cr_pgd/runtime.json
+5ee8142dddcfb712a07375ffd16b9451ed60520a8c0a81169c2488a9e6eeb8cc  test080401/formal_clean_l3cr_pgd/solver_diagnostics.csv
+d782b77b293464e612532dab86be8ba99ca100d7f5c285fd3b241590bea2c4eb  test080401/formal_clean_l3cr_pgd/solver_self_tests.csv
+cc1cbcdcf6b7ab26b891cfe383d72f14a889ce6bbdb09863a93ed2ee688a83bc  test080401/formal_kan_isolation/config.json
+bedb949ec600053d69a174549ad3b9fc1739e74875fd73cee593bad605425219  test080401/formal_kan_isolation/experiment_report_zh.md
+44d48113f8ce064ff1a5641a6f27ba6a49537e2956dae732f59475e7e107ca7e  test080401/formal_kan_isolation/metrics_per_sample.csv
+c4dc74432750737f549cbb9f81dcca27bc45ec3d7a3a6e45d9575888a6445ad8  test080401/formal_kan_isolation/metrics_per_seed.csv
+632d15646e43491d1ef5863b80b7c3772e7dc18d8fe3806328a143153e1649ff  test080401/formal_kan_isolation/metrics_summary.csv
+66802f9b2f0ef7bfc27a9130dfe9fac276a0cf3387ff2313acae1377ee9e6ce5  test080401/formal_kan_isolation/model_bam_conv_seed11.pt
+686349ad3facd07e05b6c6a94ca8b68cdc7beddd44b4e68db517d75eb3c75c4f  test080401/formal_kan_isolation/model_bam_conv_seed23.pt
+24ddcb483d198396a566a77fda1f332b2d3972dbdcdb80a7130aafc7eaec25f1  test080401/formal_kan_isolation/model_bam_conv_seed37.pt
+71a94d40ab4306acc8b4fe3836a5538e9df1cf93d8e226a7b009498baec0de8e  test080401/formal_kan_isolation/model_bam_conv_seed51.pt
+bc6b4078403a8743a9dc57449e6354875c3c7bd6e955766fb3a2e7ab52c51763  test080401/formal_kan_isolation/model_bam_conv_seed73.pt
+9feb03e71af8b32cb886f0b912278dc78213c825e52c1a5db4297a85dbd3644a  test080401/formal_kan_isolation/model_bam_mlp_seed11.pt
+c77d2f1f53bf011d6d32839c516dbb61ff69003bb65b4c20755c3357884f25cd  test080401/formal_kan_isolation/model_bam_mlp_seed23.pt
+5f6d800e7e5c0c1065b9dcc0e87b1612eeede14759b9036b860b1837f08ed169  test080401/formal_kan_isolation/model_bam_mlp_seed37.pt
+f83d6c9e1bc4b665aaff0840feb4ed891282892f29c01794501912c701d28b25  test080401/formal_kan_isolation/model_bam_mlp_seed51.pt
+dec1922f30ba91967261bcf55d043dca1e0fc1a918203a8ed9cef2fdec2fe6c4  test080401/formal_kan_isolation/model_bam_mlp_seed73.pt
+f6db5aabd6fb62c4939a9c6000279410601d061feb435483ffb985b331875d99  test080401/formal_kan_isolation/model_specifications.json
+4372933db61ae113c80251cdf8b936463fb3c9522cc9a9b9cea2fc48cd378c16  test080401/formal_kan_isolation/training_history.csv
+3e5c22336500259c02a0a5b00aa11c2dad645d10d4da5caa357a825ba8a14c11  test080401/formal_leakage_free/config.json
+5206a47a6e833b7b72dc75210978cc9fb077b866c6ec5a70f0d4315cf2e0afe2  test080401/formal_leakage_free/metrics_per_sample.csv
+7acd7575f7d2d2f5bdeed1fb4c14e287671574d137581bd23cd4f6b223d2ec8f  test080401/formal_leakage_free/metrics_per_seed.csv
+f301c0aa63f0f858d235362e48f63b570f6eabf884a6cd10a2fce47a3d666424  test080401/formal_leakage_free/metrics_summary.csv
+808bef415815f149cdd41176079fd3300d4934de96f10d09d9e9148206b469a3  test080401/formal_leakage_free/model_bam_kan_seed11.pt
+8fc7ce7df18e28e169fa0e8a18869eca06614bf2d5a03a2249e2eeb0dcd4d4e5  test080401/formal_leakage_free/model_bam_kan_seed23.pt
+09793d3b99bc2e5b59e7c5e5c211d678345f5e38f97e71680c84fce81469d1e3  test080401/formal_leakage_free/model_bam_kan_seed37.pt
+4fa6be21a7a4698c6aed7293c5485d8ce5321a45ab82d7bb205f6738b1dca689  test080401/formal_leakage_free/model_bam_kan_seed51.pt
+d2c303980f83b1bd3edfc387422433db67ccbc0bacb069fc67a302f448e263a2  test080401/formal_leakage_free/model_bam_kan_seed73.pt
+e4271b9c15252838640547a3a69e8b970235ee8c757a0f2d177a3809997e20bd  test080401/formal_leakage_free/model_cnn_seed11.pt
+d83e353cdc2276bbaa91c00aeb647b0fb0e7c5d1bd9807eb5b843901ad2b2c9b  test080401/formal_leakage_free/model_cnn_seed23.pt
+290833973f642a9179217f242c7de329891210d8261003d8d373365d0ae1b9f8  test080401/formal_leakage_free/model_cnn_seed37.pt
+11ab6b7c500de3d406eea561e15ed535aa4fbd60a26ccf27a518199d02681805  test080401/formal_leakage_free/model_cnn_seed51.pt
+5eea91c576d6184590bc5ba02d3a7080d800b82e9f3000a3b75c8378c66e34c6  test080401/formal_leakage_free/model_cnn_seed73.pt
+287f0fc7b0332f0b2690b82bfa14743e26852e3daf686e75958064cf05e5b97e  test080401/formal_leakage_free/model_specifications.json
+177bd4679e3cea5e4f0bb820820bbb1d2f1ef2b1388ca1df8fe0c71f062873fb  test080401/formal_leakage_free/model_u_net_seed11.pt
+69109550f8c3eef2910b715545d233472a6b9ef02d6817ecca35473db5dc3396  test080401/formal_leakage_free/model_u_net_seed23.pt
+041d0f3c85f2d7cab402a516535a476729b04a056ccb53512c1290dcfdd724bb  test080401/formal_leakage_free/model_u_net_seed37.pt
+0f1acc20307833e91f833ef4dc1a0e268cbb595e10ee6ae7e1dc32d1fbb2f913  test080401/formal_leakage_free/model_u_net_seed51.pt
+eda818910b7bf394560cd3a0428271253bd475ee72c9575dc92777d868b44144  test080401/formal_leakage_free/model_u_net_seed73.pt
+a952848062b278fbebb46c6b822da840963729e3085548e568c96b0f1add3831  test080401/formal_leakage_free/training_history.csv
+2abbeaae4287db71f63a17589eff19de01d6abed6c7068fc4503277564074ecc  test080401/formal_path_ablation/config.json
+880fdb5600d4b839740e9f795a69c11f93cd4dcec6736c5e113c8ba3671be919  test080401/formal_path_ablation/experiment_report_zh.md
+dfaf3a89a0fc5544b47434a962f0797b0904fa1452437800133324bcb4da72fa  test080401/formal_path_ablation/metrics_per_sample.csv
+4886e588627fb9b73758be45a53bb3c7d637b25693651d1b4a8441522ae832c9  test080401/formal_path_ablation/metrics_per_seed.csv
+1564063bc174ae2016e216f4e39884316772677a12dfbd8ceb84f580300d2bda  test080401/formal_path_ablation/metrics_summary.csv
+a223004668c40c5311d2798eba0dfbccd7055cb8e9225960b4396cab70fdee76  test080401/formal_path_ablation/model_bam_kan_no_coarse_seed11.pt
+b552ff70db0731c4d75fd9ffd0245cd7df453a275796235fcbd6bb567f73bc36  test080401/formal_path_ablation/model_bam_kan_no_coarse_seed23.pt
+1b9dd56d999d43d878cb50b74edad01e5e53fd5881961fa15e9122219b1ecaf0  test080401/formal_path_ablation/model_bam_kan_no_coarse_seed37.pt
+5de78645fc82d9cd6eb57d3bcc9437e16acde77aa1ab9bc9f729bde12905c3e4  test080401/formal_path_ablation/model_bam_kan_no_coarse_seed51.pt
+f9e1b0e615257a3b70516e9a670a95ba6c0674f6118aa7bd270da26c5f09b171  test080401/formal_path_ablation/model_bam_kan_no_coarse_seed73.pt
+4369d7a4b9d40ba0ddf058c2b0f9a1054db4197647606ff147495f708d39cbe0  test080401/formal_path_ablation/model_bam_kan_no_fine_seed11.pt
+f427b5261dda3e302dc78707d499d47c9ec2ac5a215b90ba629ddcfe581418d7  test080401/formal_path_ablation/model_bam_kan_no_fine_seed23.pt
+9e89f47cf4bc0ab1d3e305d5a4490c48446cd9a15ee1e88a73ea500f6fa7a39a  test080401/formal_path_ablation/model_bam_kan_no_fine_seed37.pt
+19ad81e7b085b997b4a78e8a5e3a0cb8609af02f1c02257fafab612ad15ff8f0  test080401/formal_path_ablation/model_bam_kan_no_fine_seed51.pt
+720b35eea9209f05626209fc93ddb392be5ffc4cb4f9260e54a640452271d96c  test080401/formal_path_ablation/model_bam_kan_no_fine_seed73.pt
+a67fa39eba537d9a4fd12927d7aee8d3d7c05b902812244fcc6f30f594aaa270  test080401/formal_path_ablation/model_bam_kan_no_local_seed11.pt
+ca3150831052e424fd1314c66ef2896f0a43f2af1add352f6029284490e5273a  test080401/formal_path_ablation/model_bam_kan_no_local_seed23.pt
+0c5cdfba300984b60ebcbc180181e515ab584e35a00b1a94e210c25a2fd60924  test080401/formal_path_ablation/model_bam_kan_no_local_seed37.pt
+414911b5b45fb3cf172c41d0284a6f3bb80b73fc5df308aa5e14fa67ed51bfce  test080401/formal_path_ablation/model_bam_kan_no_local_seed51.pt
+a96e58dda8f3b1e0c8e721a7205a107bc4bc6a9f5c12594b440069c4acca9415  test080401/formal_path_ablation/model_bam_kan_no_local_seed73.pt
+c2e58ac3b47e38bf929fa36a9ef2d95ccc6d1dba959a97033dec56affceb0609  test080401/formal_path_ablation/model_specifications.json
+f63181423a26ea2338d3e3dabacd337488f66b2fc8aaf02ca11019e5844a86fd  test080401/formal_path_ablation/training_history.csv
+0fbdbd47f711a34c473f60a2b2f2a013643d638c9ed542f2f50d8041121a5473  test080401/formal_result_report_zh.md
+b55c51547d7f6b627120e3b4312010a50c25497d1de7e16cba3f556d1c1a7cbc  test080401/formal_result_summary.json
+979b1a8b041490d686c7345ecb68dfb0c166d174ecb20c6337ca53fdd2453e2b  test080401/generate_figure8_physical_units.py
+22ba158f42b8e8aa5c0f1bb65306598afe042d931a979ba7bd95219b3baf9bd0  test080401/leakage_free_v1_dataset_card.md
+8548e0f546fde29b1b37c957218e7c6b88f7801fe2b92e58aba8c38d167cef1c  test080401/legacy_result_index.csv
+d204b5592bd7273524b656a2e047495b8e34c546f8b5e75588b61ec7510f6278  test080401/legacy_vs_leakage_free_bam.csv
+aa072c48ea338ac313f5cfe8a7e5404c0d0dad4cdfc896bca02091041b251414  test080401/legacy_vs_leakage_free_bam_summary.csv
+bd8f5677a0a1116cafbb0b3fa03bb2dd07a2baf87820cd4f10213db05af26c98  test080401/pilot_clean_l3cr_k128/config.json
+46e628558aad7e3d9272cb8d9d92a27203c445fea2862cd7df92dd4c4fd51fc6  test080401/pilot_clean_l3cr_k128/experiment_report_zh.md
+28bf0f86e33503ce9dbb3f132d88f29f14025d497705153c0b5bb2793dc3b44d  test080401/pilot_clean_l3cr_k128/l3cr_finite_certificate.csv
+bbc8c57c98b3f72bf60b10472ee890341688ca6233189b0a005bcba00e657768  test080401/pilot_clean_l3cr_k128/metrics_per_sample.csv
+74ddb13171f695ad3d6eae31abe9f041510af6f1b07587efac8070736d72b6dc  test080401/pilot_clean_l3cr_k128/metrics_per_seed.csv
+84bc65444b3f042e6259a7f40971748254a27ca86d3fbd95b459f1489a5d0dab  test080401/pilot_clean_l3cr_k128/metrics_summary.csv
+5bed6074c4dcbfb2d9d0d5138a9e6d0a6eb9249290637553afe4d6f2c4b104bf  test080401/pilot_clean_l3cr_k128/model_bam_kan_l3cr_pgd_seed11.pt
+a4685dbd950984d272cf92afb605ca0b8c7ea28c7f399e84206b27a9a55b1b51  test080401/pilot_clean_l3cr_k128/paired_bootstrap.csv
+bbc8c57c98b3f72bf60b10472ee890341688ca6233189b0a005bcba00e657768  test080401/pilot_clean_l3cr_k128/progress_metrics_per_sample.csv
+74ddb13171f695ad3d6eae31abe9f041510af6f1b07587efac8070736d72b6dc  test080401/pilot_clean_l3cr_k128/progress_metrics_per_seed.csv
+a9874356d2d7c049cfcf1521c486effd61da5f0ebebedeff131cae9dd4681d2a  test080401/pilot_clean_l3cr_k128/progress_solver_diagnostics.csv
+3ff89a870be1ffbf4ff9ac39c4f9bedb7748173bd177d897c0cad3bc2bca382d  test080401/pilot_clean_l3cr_k128/run_metadata.json
+3be20aad2ccc14af426aa5d97f3e54ddf485930f9b4889851e64f3b835547cf3  test080401/pilot_clean_l3cr_k128/runtime.json
+a9874356d2d7c049cfcf1521c486effd61da5f0ebebedeff131cae9dd4681d2a  test080401/pilot_clean_l3cr_k128/solver_diagnostics.csv
+64c0970cf67d496ceda091d15abe07c9bff1b295ec0b2077741ec612b6bd65f6  test080401/pilot_clean_l3cr_k128/solver_self_tests.csv
+102e4d3cbecaf3bf75b783ade48896b53d0f8367622402f36368432794ddaad9  test080401/pilot_clean_l3cr_k16/config.json
+c715775930551abc0da3d0956891bcce84c524fbc33f05ce98c2150738b16506  test080401/pilot_clean_l3cr_k16/experiment_report_zh.md
+3eca74e22db48878466fee8e175075e0700842beaa2a77fb5bd56a58930f951b  test080401/pilot_clean_l3cr_k16/l3cr_finite_certificate.csv
+9cf29978bb8caab59e1928e2f3f9f92f96d5c45d9dc366d167bb57ebfbc6fb9e  test080401/pilot_clean_l3cr_k16/metrics_per_sample.csv
+8c2ef700ba78476f575d7455ae131b0e1cd2279f5334e0aaa2f8dbeff2d7477c  test080401/pilot_clean_l3cr_k16/metrics_per_seed.csv
+34e9afbe1f43c64cb7937bc15e514eecbb5b570c6640518d05f484244f1960cc  test080401/pilot_clean_l3cr_k16/metrics_summary.csv
+af53e85fba1c04281989ed287248b23c25af9b6c161e14fa885924fc2b26dc30  test080401/pilot_clean_l3cr_k16/model_bam_kan_l3cr_pgd_seed11.pt
+f6d890fc1bcdfffd111372432a90eecc6c4232ebb6793101434a458662ab0e46  test080401/pilot_clean_l3cr_k16/paired_bootstrap.csv
+9cf29978bb8caab59e1928e2f3f9f92f96d5c45d9dc366d167bb57ebfbc6fb9e  test080401/pilot_clean_l3cr_k16/progress_metrics_per_sample.csv
+8c2ef700ba78476f575d7455ae131b0e1cd2279f5334e0aaa2f8dbeff2d7477c  test080401/pilot_clean_l3cr_k16/progress_metrics_per_seed.csv
+2a335ceb2b6368677d3c4d21a1b4e7c60224c0a1dfff31557f820e66c041b288  test080401/pilot_clean_l3cr_k16/progress_solver_diagnostics.csv
+3ff89a870be1ffbf4ff9ac39c4f9bedb7748173bd177d897c0cad3bc2bca382d  test080401/pilot_clean_l3cr_k16/run_metadata.json
+6d0fd97761aeaa3e1c3054a37b01252904b2a35e52063505d3effa2c3bb4b641  test080401/pilot_clean_l3cr_k16/runtime.json
+2a335ceb2b6368677d3c4d21a1b4e7c60224c0a1dfff31557f820e66c041b288  test080401/pilot_clean_l3cr_k16/solver_diagnostics.csv
+64c0970cf67d496ceda091d15abe07c9bff1b295ec0b2077741ec612b6bd65f6  test080401/pilot_clean_l3cr_k16/solver_self_tests.csv
+712951367ed6eb27f44a780a553dd7c3ef20b1fee73cde4befc03e5940104a47  test080401/plan_feasibility_review_zh.md
+69ce33b706afe5fdb98627691860f151ade0cb1bc82eaf89d409f1d85886addc  test080401/plot_active_dimension_sensitivity.py
+7d0341042b9fb245be2865cedb84d77361987054069f8409c20dca3fc4696771  test080401/plot_projection_audit.py
+85ec1adda23b50fb96fe088978796dac03e1dfa0e8849b5b15d4734eb2a34cd9  test080401/remaining_experiments_report_zh.md
+01e643c1b598d31b544869b41e3d6683e6442d513b96dcb1d1691a7f531fda60  test080401/remaining_experiments_summary.json
+342ebfa982a0a627821078b271ad58e9c29d4bd0c7bf6fcd18e69b34f971adfd  test080401/requirements_frozen.txt
+ab9f40b4f95ed5cd43094e0e14bafb6ec25cb4336113a98f0d3da311c4d408b1  test080401/run_bam_kan_isolation_experiment.py
+d917d34bfaec7daf380f7ccd50e8076f4af6c3d727741c310a4869b229a7e7e8  test080401/run_bam_path_ablation_experiment.py
+477d5ee18559d90d96921f4b502250167ae7782a0ee0f1e323b7175849c0588d  test080401/run_clean_bam_l3cr_pgd.py
+7df088216161a8e00a798960f9f36229cb5d06331d8caaa87d261fa9f35eb1fd  test080401/run_leakage_free_architecture_experiment.py
+8b225caf3d879821a5ad5ae55a7e6dbbc381d64b2603327f1199e054b82e9d1b  test080401/run_non_abaqus_plan_audit.py
+cbc75c83a089da59f0939d95919c29e9fd233f7aeeec42e553dfd9d64286462c  test080401/run_summary.json
+0f469383d627efaa733b8c29a4ee47f5a6b0658810e7f82cb4f85cb4256eeee0  test080401/smoke/config.json
+32f8f025f463b2b49c84b7701542bd067c2db0958935985c47ba7db08bbfbdd3  test080401/smoke/metrics_per_sample.csv
+1b00d228fe73a1236f752cb0d4b269075dd6f148956bd334ffb5237e425885ae  test080401/smoke/metrics_per_seed.csv
+92bf2a29cee97a8e9952e3d81b8a5d0be08b21bb3653e0da5a9212eab4b4a55a  test080401/smoke/metrics_summary.csv
+0ed4732cfcde47603d3a3a7f486910fa8b6b9b829ee3c55228719ccad118121d  test080401/smoke/model_bam_kan_seed11.pt
+e940c63cca203cb164808c84315c498127c6cc73a53b0a507b257932338e945d  test080401/smoke/model_cnn_seed11.pt
+287f0fc7b0332f0b2690b82bfa14743e26852e3daf686e75958064cf05e5b97e  test080401/smoke/model_specifications.json
+8a7d05155c32aae81fa4e950b4f38d05c494a54522a869ffa6cd4b08b26b4676  test080401/smoke/model_u_net_seed11.pt
+7c9bf0acb5c8ae732ed24cee54ece1cdac48d3c96a0bdfd3f87b38caf2830900  test080401/smoke/training_history.csv
+112f917a0276335c8b543ec4bbdcbacb20abf5e3dad893856cd51ede47a001fc  test080401/smoke_clean_l3cr_pgd/config.json
+64c0970cf67d496ceda091d15abe07c9bff1b295ec0b2077741ec612b6bd65f6  test080401/smoke_clean_l3cr_pgd/solver_self_tests.csv
+eb65207f6e34b6d4c090f8e244d88dcfc657e1b146e9bde8e945acc1b42ab866  test080401/smoke_clean_l3cr_pgd_cpu/config.json
+e2f13c10cd8da3daa4e2c5fb16adc475d1390973d40b1a0aa3afbf648e70626d  test080401/smoke_clean_l3cr_pgd_cpu/experiment_report_zh.md
+7fb66a304ee7d2549207bf94ca9866fd1f6b598e78401a233fd55ef2ea67a84b  test080401/smoke_clean_l3cr_pgd_cpu/l3cr_finite_certificate.csv
+d3dc8e61c8c3e65d38b742d2ebdb8f7ea00e749161c4846a9c06f1f4b6e51969  test080401/smoke_clean_l3cr_pgd_cpu/metrics_per_sample.csv
+7a6bfba4bc517a86787af208562be46d251ee064c61285720ab234774be1ce41  test080401/smoke_clean_l3cr_pgd_cpu/metrics_per_seed.csv
+4beb57d21b4a54c1b268b1fcb53ec4b3a8e6829c2609bbcfa8f0c01d5c1f3988  test080401/smoke_clean_l3cr_pgd_cpu/metrics_summary.csv
+8965490a28cf4c07754f78fbdc61cbd73e7e7de89ff1e18ef5ca1f670075c395  test080401/smoke_clean_l3cr_pgd_cpu/model_bam_kan_l3cr_pgd_seed11.pt
+4f35dd5c617898b281dfc9ca911070345fe096df7cff0b3434274c5ca2e90d62  test080401/smoke_clean_l3cr_pgd_cpu/paired_bootstrap.csv
+d3dc8e61c8c3e65d38b742d2ebdb8f7ea00e749161c4846a9c06f1f4b6e51969  test080401/smoke_clean_l3cr_pgd_cpu/progress_metrics_per_sample.csv
+7a6bfba4bc517a86787af208562be46d251ee064c61285720ab234774be1ce41  test080401/smoke_clean_l3cr_pgd_cpu/progress_metrics_per_seed.csv
+6e84c763c5e0b4d513eab7457865400d425d305ddb9a9465a6d806007d16617c  test080401/smoke_clean_l3cr_pgd_cpu/progress_solver_diagnostics.csv
+3ff89a870be1ffbf4ff9ac39c4f9bedb7748173bd177d897c0cad3bc2bca382d  test080401/smoke_clean_l3cr_pgd_cpu/run_metadata.json
+b02f41a0efaf5142da5b672335e4b6831c4267bee255b99059fdaf8efafd4b95  test080401/smoke_clean_l3cr_pgd_cpu/runtime.json
+6e84c763c5e0b4d513eab7457865400d425d305ddb9a9465a6d806007d16617c  test080401/smoke_clean_l3cr_pgd_cpu/solver_diagnostics.csv
+64c0970cf67d496ceda091d15abe07c9bff1b295ec0b2077741ec612b6bd65f6  test080401/smoke_clean_l3cr_pgd_cpu/solver_self_tests.csv
+22d137eb957e0c179101590ed15d6bc902daf81b991271aaac749623e8ba9680  test080401/smoke_kan_isolation/config.json
+614c477b91cd915ea0d1e0a16df3cc61913ed7bc880133c702ac318daa3919f6  test080401/smoke_kan_isolation/metrics_per_sample.csv
+e85df0cf22c336424a87fd799aa9db2feb58c8f151da21b9a8e9358b1a94461f  test080401/smoke_kan_isolation/metrics_per_seed.csv
+76c7821d56efb049e8bf5bf532d5e68b76ad262bfb6cf098d21884f8a236a876  test080401/smoke_kan_isolation/metrics_summary.csv
+02096b28393de06ccefcda3975bb826842d6faa8df30331ba77a9f4afe7c7d41  test080401/smoke_kan_isolation/model_bam_conv_seed11.pt
+3f141bf9c0066e0a81b755ee95b009c74817729ef924e66022b28c12bbd2fd56  test080401/smoke_kan_isolation/model_bam_mlp_seed11.pt
+f6db5aabd6fb62c4939a9c6000279410601d061feb435483ffb985b331875d99  test080401/smoke_kan_isolation/model_specifications.json
+d52d7e80a93cadff099e454fa6794587d36eea719244ac459509c48f2688bffb  test080401/smoke_kan_isolation/training_history.csv
+54cb19013b09ae3a534c1748778a3c42ff60cd84e236af0ec5f1b4e7cd008001  test080401/smoke_path_ablation/config.json
+7d611d33cbc1763bf9fd9069fa83d8b75e76884109a01ca0165bc00166a626b7  test080401/smoke_path_ablation/experiment_report_zh.md
+f9eaefb8595ef91c383f4fae81b20b9558b46f83d070bf7b105c1a971d880cdc  test080401/smoke_path_ablation/metrics_per_sample.csv
+61bb65e7257e1cff7373d3d9b71caeb3d208b03b0662f5f9b703b621e343611e  test080401/smoke_path_ablation/metrics_per_seed.csv
+98f71df5a9f3ac8ef966d4086a4fa2956ea770a8cfa9a6bfd8b44263193ad38a  test080401/smoke_path_ablation/metrics_summary.csv
+31f1af1fac75259fa45c3dcf33eab1936bd1c1d339253d80944559380744be7d  test080401/smoke_path_ablation/model_bam_kan_no_coarse_seed11.pt
+1870070ddbecb51983119d8915371daf185aac1baf9658ccdcea18760b537e64  test080401/smoke_path_ablation/model_bam_kan_no_fine_seed11.pt
+2576a952f4ff7ecaed25611d30074d0618f97f55240d3853a5d1a8717529ca35  test080401/smoke_path_ablation/model_bam_kan_no_local_seed11.pt
+c2e58ac3b47e38bf929fa36a9ef2d95ccc6d1dba959a97033dec56affceb0609  test080401/smoke_path_ablation/model_specifications.json
+0d3d3cbdd432097a6971c0ece3b4f60ccddf6b5745a0a7cd9fb5f26fbfde8508  test080401/smoke_path_ablation/training_history.csv
+c1156788c5414d0c7463d2e5da5606c6fc1909d502a1ee08d0319697abc3af13  test080401/summarize_l3cr_cost.py
+214862ce24e5111119ef7c6c12e4aa6f8449596663d71a90d3c59a25fbed516d  test080401/summarize_non_abaqus_results.py
+4aee97bb4b0792a54c28ca7f3562eedff4655240d571db97077ff71d40f186d5  test080401/tables/07_main_architecture_results.csv
+b1782104a984a4e9aa89d8cd121f19f71592cde57baff22bba60b3e77fc8615e  test080401/tables/07_main_architecture_summary.csv
+f2a4ee83ba6c3ad4d4f2be0d6d3bda6404c4efa257e540d07fbca3b3627807f4  test080401/tables/08_bam_kan_isolation_per_sample.csv
+80d8e8fbaaf149e96d4a6ad9fc9eeb6b205cc932d5c9dd654c15141ed9c501eb  test080401/tables/08_bam_kan_isolation_results.csv
+831340787fc2184ded5574fe226ca352e7fa7abfcab30beba52ef6ab42e5bfae  test080401/tables/09_pathway_ablation_per_sample.csv
+eb02291bc4e821286f233ac193f0855e25cd55c86029c769add38b52f4d69e6c  test080401/tables/09_pathway_ablation_results.csv
+5d88d86235169bfb60f3d7ae3d0aeb6dff9073cdc83b0078503c769f7b356f7d  test080401/tables/10_refinement_per_sample.csv
+1a238d9d391c7158c73f5c552fd706ba8df6ce7e3243348108e5f694f2f7182a  test080401/tables/10_refinement_results.csv
+d36e922ad143ab9c4f85a3e4b612f9c0aefdf68ca8efa0b4ef5574353a5c9752  test080401/tables/11_l3cr_finite_certificate.csv
+d040aad2a2173d9d7dc6f4b8e69c7a41471d29091baf88ad17395a7a6beea805  test080401/tables/15_paired_statistics.csv
+134f8f704a5cf1864b98b83cc42443781c79a64ee0c5963431e69115503bf845  test080401/tables/15_paired_statistics_extended.csv
+a01fdf0f6dbe6b36cda3255143a0b773d1ee02ce833c2663aad19662f68b88a8  test080401/tables/16_computational_cost.csv
+a3226a5e4bc64ad461a08c3190305ff7c56d0ecde195917188d80530fb14921b  test080401/tables/19_displacement_nonnegative_audit.csv
+998532ebb33976bd4b7567c5c0f3011be87a078dcdd71455c6d6e1da569b7794  test080401/tables/19_displacement_nonnegative_summary.csv
+ce0be3d38dab12059ecdf087bb808069d00c9e754d34a110d95b9cc69612f2ff  test080401/tables/all_new_protocol_metrics_per_seed.csv
+5e0e7cb0f03421787754ca1025d0ebd44cfdb01afbc05968bcb0aec79d7043e8  test080401/tables/case_metadata.csv
+c62c1fa4052ba11ff01b754cb913d62e4be72da9da2fa481fbe8f5885aaef46c  test080401/tables/experiment_coverage.csv
+db6e304c95ddf9a0a46c595292e11d6a6de00f3f382bf56a05b10ab2d945d178  test080401/tables/legacy_architecture_results.csv
+96052c7c8f45a4fc5570bf402f7bfc5e2bfd8c7155efacde270a9b7c04702ea4  test080401/tables/legacy_hole_radius_results.csv
+9fa89d5391adee621d2eb1f992dc39b286480ecaf6e062f006159de714ad03bc  test080401/tables/legacy_l3cr_results.csv
+93a11f93fa30103e66a63ab0873d8262d856ee30c97ce268e30ae6c4c1607671  test080401/tables/legacy_statistical_tests.csv
+2747131d1ce08e323a3952cc4374b0514c63d336ed8d6fd8ba0a5e7c330b940f  test080401/tables/legacy_subgroup_results.csv
+a3c237400a75744d795a0ea9b9b8e7a78797cb4acd9d3fa08867444e3c90e845  test080401/tables/projection_audit_detailed.csv
+01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b  test080401/tables/projection_audit_failures.csv
+918f025121d10879f07aeb39d27fe6757a16f212fd26c95890c2574d30d456e8  test080401/tables/projection_audit_field_summary.csv
+7e9dbf5635fca25332cb0660dae2ace92a1e9564c2b65c35a2707897c376af90  test080401/tables/projection_audit_report.json
+8a3698a22bfd3c6fee5ae71622b6e413a1ebbe0770ffcbf14d6b395b6e12e006  test080401/tables/projection_audit_summary.csv
+a89f8745d6ae0e0da206fa0e7f0aeab82b44f4c38b28f5182eedf8fad48bbb42  test080401/tables/thickness_audit.json
+11bd035698086940de53fe6e1e1bd31b1204249995f9f71441eb3aa668ba8dc2  test080401/tables/thickness_audit_zh.md
+c9f3e4037ca6e2619cfd10539e8f37a75b964ed27e3da15a33b4e727140b4c8f  test080401/tables/thickness_conv3d_audit.csv
+596807a6d667ff2238f00c7d52f240cace6a8b991f43a815776666d62cd7c5a6  test082301/README.md
+7738e97ccabd7afde03c9d843e5e2249402540b2f27ac9790c17b2e5d38c25a6  test082301/analysis/accuracy_vs_time.pdf
+aa65df276de74140b5dd88db28530fcaa27e9e3da83f0c506482e93cfe2e0d92  test082301/analysis/accuracy_vs_time.png
+76bc74c0f6a447e38976c99fe92f3eca1f6f10525e8a3ab9bd26289e2ce3999a  test082301/analysis/checkpoint_hashes.csv
+3e886732e0d408d3065e4a8cc7437e80985aea6e8ca164e0cbf47fab2a2b1120  test082301/analysis/claim_evidence_ledger.csv
+bc36ee4e42d92129be7b55ea8b5e91fb26e2644222d417f33d9210a8beb07d2a  test082301/analysis/cost_and_stationarity.csv
+6b56c6a8c2088fee43e5c1063d041da359e289d95fe7a882f985e03ff1afc480  test082301/analysis/experiment_report_zh.md
+32fc8af3fb7593e622ed0011bcc1369576ff4a5673c0a28c3bc292a1b6006d59  test082301/analysis/formal_result_summary.csv
+d6195a1c9280afc0a56c5a12080a42ae1efaa8932ba63cc825dcfdfee62fd56a  test082301/analysis/inner_solver_accuracy.csv
+3cc9643c9cec4164502feaf3732bfc12ec8b9d2e24dd6044e250e27423086c38  test082301/analysis/metrics_per_sample.csv
+aabfc212eec2bb1ef69a25a2d58fca665c815dc893de046a9b552822f1c5905f  test082301/analysis/metrics_per_seed.csv
+8d818f01c15a96bfe02330f29964ae29381c9d4bee1c50817ac5cc299a81f967  test082301/analysis/metrics_summary.csv
+dd3b9cdaca6300222c63f7c6d1ae7c2bd9b3778d0db1f082d1e3b4c8435f5308  test082301/analysis/paired_statistics.csv
+e5df343cec867d48366427b5de2465124066244cbc586cf408680b5b1548bf23  test082301/analysis/paired_statistics.tex
+7f61e09f3f48bc87af87a62e9f21d73f6339cae2ddaad403cd798a545aff773a  test082301/analysis/stationarity_vs_time.pdf
+204f4bc84044595739c9baff4e72165961aed412c61014385a85e01d61a125a6  test082301/analysis/stationarity_vs_time.png
+f3e8378d898c48c14173ad9ca93a39658f8d21f5fb4a465845ddd851da0e845b  test082301/analysis/terminal_metrics.tex
+ee7ef400eb8b23cc7e9bdeb2313eb668ee800a38231baa8bdf680c5a2db05495  test082301/analysis/terminal_optimization_state.csv
+e37e4ab2c00b8fce3fccb424c5fd73d6273ede3a0087d0b5975d43d862c97b92  test082301/analysis/time_to_tolerance.csv
+fb4af8e1f0d79e1c06b9ceb718537b5bc1cf3ffdfb6fe30a7ea163785d5f2ed8  test082301/analysis/warmup_checkpoint_audit.csv
+5a0ec4445d9e4c49e86028053e479940c9ce13e1b22fae650cec6bd7947ebae3  test082301/audit/environment.json
+a6a09575abcd6ac86a249bbe443281e690e91a11a0967b5d914c9a1650b596b1  test082301/audit/self_tests.csv
+c23b9a2b23a63be23486153b532c76025750de74f90baeace34ad714eb50599d  test082301/build_paper_appendix.py
+028fe3725da591b5c2c84bc311b5ba1f4c8fd5c7e9d609a3dbd657c54fc0b4c9  test082301/frozen_config.json
+7137ac9a608775bb3dc5159ef3c77576e51228dfafd2c779102add49a5b387bd  test082301/high_accuracy_refinement_appendix_zh.aux
+be71824b26b7cd3efb376df1c63fcce91adc2282ee6f1adce2c78d79d56299c7  test082301/high_accuracy_refinement_appendix_zh.fdb_latexmk
+7d09638a4559b33227d92ff6e9fd78f27043161787e0ff13f76cf17bdc164870  test082301/high_accuracy_refinement_appendix_zh.fls
+d37577f06bcee8bf05081de9a2047d624759675bf348c82ab9ac448fd864312e  test082301/high_accuracy_refinement_appendix_zh.log
+019bd41f55a4d31a6b4bcb8b1416d6d707035ff9893c7a5ad77f5bb65ecb122b  test082301/high_accuracy_refinement_appendix_zh.out
+2249d65fa127012c1ae8aac2278c575eaf9046ae823b1e243c48b292554e1cd0  test082301/high_accuracy_refinement_appendix_zh.pdf
+f47910753df94934dfedf05db8f16d4612a02a6ae09e435596504c714a8dab61  test082301/high_accuracy_refinement_appendix_zh.tex
+05b38a0d5bccb332a6e890d684e6f25a1ab33ddb1db06e63ebce943fdcb399fb  test082301/high_accuracy_refinement_appendix_zh.xdv
+c70bb1e7fd3ef031464189ee6858e5c77dc6c2b0e51e9bec6d0a8281b393ba30  test082301/output_validation.csv
+4d582f3a425754fd027b8e5a49a0c3d2c6a04376e64376f7d1492ab9b0e8a4d7  test082301/refinement/adamw/seed_11/budget_120.pt
+9d8e041d059a9a4abe21301e5168a999f7a200240c5d4be26b3c5577089c0555  test082301/refinement/adamw/seed_11/budget_240.pt
+5c0f02ad019da8f1eacb57e0e64c003fbbff7331c32d172924d8efee78e2bc7f  test082301/refinement/adamw/seed_11/budget_480.pt
+2121ba24178f5f4bacd88711d6025b6013d1369f3f0e73151cc9ac7f1157f963  test082301/refinement/adamw/seed_11/budget_60.pt
+ceea66abff524069936f743c91387890adb87fea476d7e718a882951ab1291b9  test082301/refinement/adamw/seed_11/budget_960.pt
+2b6f0a828079f07905c7836b5866d55bc8ff64f41d74f2be7e22ca1db9e491f6  test082301/refinement/adamw/seed_11/budget_checkpoints.csv
+b6d16732e5d8a82a3650db5adeb6dedfd6e2966be60d6366c533838c9b0965d9  test082301/refinement/adamw/seed_11/candidate_history.csv
+f4f0777a5400af95c8e7b906d07f2be37b97f207482f58644601fd61ff6c3872  test082301/refinement/adamw/seed_11/completed.json
+561ea3dfd5469d86a792fec7743b43932544a5e949ec333af76e20918ebf583c  test082301/refinement/adamw/seed_11/solver_diagnostics.csv
+bc8a8b8e4b06fb70b7f5648e0bdd850e8d2510e346684dda234cfbc76d67155b  test082301/refinement/adamw/seed_23/budget_120.pt
+5d1cb73eb6d74eaf1ad72b65e37b9e83a57c73ae104f424783be7ed28a726312  test082301/refinement/adamw/seed_23/budget_240.pt
+1f0cb1e4199113235d66bac78001656c0a9db27d70fee2a47d35d34f2e788ca7  test082301/refinement/adamw/seed_23/budget_480.pt
+18723f230e6780743715e3929be0426c4312e56624e0a55907e36b2c76a1be4b  test082301/refinement/adamw/seed_23/budget_60.pt
+afa689ba9121c91dc1cb7a3f2784d29d854cb46b1ede8c25338d6a3a38a6a38a  test082301/refinement/adamw/seed_23/budget_960.pt
+4a44822f435c827161367f02f14b51edf5d6dbfdd2112fffdcf9ede639773a8d  test082301/refinement/adamw/seed_23/budget_checkpoints.csv
+d951aa1dd29829c5a40681420856778d7bcd146bb73dfb5f540ac911b576b3e3  test082301/refinement/adamw/seed_23/candidate_history.csv
+bf83d08b73ddbae82a24170d202d912e61e15366da24b686977eb67dec778e5e  test082301/refinement/adamw/seed_23/completed.json
+607ab6b51a1a4560971d0e028b8ba3ee220523eb21efc060754be200b7d738fd  test082301/refinement/adamw/seed_23/solver_diagnostics.csv
+6f1da09b343c54fe206635b564c89ac09b8d5f26ce18cdd433cbc12e21570ab0  test082301/refinement/adamw/seed_37/budget_120.pt
+f941ce63d2a9e3897f3bb8f2b61a0f6639b64406bdaf0f840e7b65775ef07229  test082301/refinement/adamw/seed_37/budget_240.pt
+b7b3a6f109ef9758e83bad60f56664b003a9285fbd370f6bfa91b93290aa25c2  test082301/refinement/adamw/seed_37/budget_480.pt
+ff8c04f46d4692e7c6161bbc43f28c7075f00375291c8a03670d6f335180b6dc  test082301/refinement/adamw/seed_37/budget_60.pt
+89efe0a599830f7c79b989052b2b52d72dad21ebccd95cca1abcdd62adf673b2  test082301/refinement/adamw/seed_37/budget_960.pt
+89c042a95b846bfc70cbde06abf97442cbce61591e381ccd326fab1d52d6848c  test082301/refinement/adamw/seed_37/budget_checkpoints.csv
+7dcddddd0eaec018d2f8415fe5a93617d9dae4e34041bc273c2dfe3e5e9f1e26  test082301/refinement/adamw/seed_37/candidate_history.csv
+239852a652d39386e5031cd2c73b839bc3be0366863e240559910fdea5d9d3f3  test082301/refinement/adamw/seed_37/completed.json
+82562690d9be904a299e69b39ab767336041957b672c0e19a590060842554b20  test082301/refinement/adamw/seed_37/solver_diagnostics.csv
+7efc5b5340057bb3b58fbd2c50c7cd36ee4fdb22c49520fd1d204306734b1688  test082301/refinement/adamw/seed_51/budget_120.pt
+ba93ace2c33461bb553fbf4710a9d667ce1483e6fded0fefb94472ad9e4adb96  test082301/refinement/adamw/seed_51/budget_240.pt
+b7a9f463518b30c6e9ac117ea948983a9a2c63e5a3b8531b0579364d04919ec2  test082301/refinement/adamw/seed_51/budget_480.pt
+1d7127c79eb7da4608c725e075f764108f7a3d8b6fc15cea00bb3cd35b4b5217  test082301/refinement/adamw/seed_51/budget_60.pt
+c89661b51728858e2e3827893ba0b9ddd0afe99716de110cc3732909f8279b9f  test082301/refinement/adamw/seed_51/budget_960.pt
+c7dde6002307dfff697e42efa9665ed60e237c65ae318587bafbd5929287a3a7  test082301/refinement/adamw/seed_51/budget_checkpoints.csv
+c2b94813a42f53d2b62e7196735d94001530e409008b762f95495e2e5a67d7a1  test082301/refinement/adamw/seed_51/candidate_history.csv
+560778a6e6945516d3f756aa5551303cb0a84b1995cde91390d2e5d1e5ae1845  test082301/refinement/adamw/seed_51/completed.json
+1ef720882a450ab499e1c5fcd83d2de457de3c6a12d98c70f520c3e53b7a7d33  test082301/refinement/adamw/seed_51/solver_diagnostics.csv
+c62986d4be6792c560d4be764b183676514a825334c7605d91dcd38efd2d1af0  test082301/refinement/adamw/seed_73/budget_120.pt
+64c6ea97f5032cdc62465a93f617db5a293291fa90c2dd32c9cf20714b1e911d  test082301/refinement/adamw/seed_73/budget_240.pt
+2ea868c77c450cd798f737d53740a2940e19a5e91340eedc64e7bcad85b81a0c  test082301/refinement/adamw/seed_73/budget_480.pt
+1dfa2fc802b0f0b49b34f1dc1e7c5d95dedc2b5d3bdf3e511a03d07406e44d51  test082301/refinement/adamw/seed_73/budget_60.pt
+1b168a52452e513e2646478c4b276225001b46fe291967b54e49ae10c3634482  test082301/refinement/adamw/seed_73/budget_960.pt
+f533aeb0871f9b7ab762e5d49778cdd55db7da1b39b1bc82d1f970403f99305e  test082301/refinement/adamw/seed_73/budget_checkpoints.csv
+58e4717a5672a3f710f13c16851a420b630775aed46f0894c7ee1618dde89df9  test082301/refinement/adamw/seed_73/candidate_history.csv
+d861b878bc88b2d01a1ef9c5d33e6de2b8a0fb2972a30c2c75d915996250605b  test082301/refinement/adamw/seed_73/completed.json
+f7eaf4c9d1f2d2081cb088251f0645a2d30ed437f8c8086c6e6128df228db38c  test082301/refinement/adamw/seed_73/solver_diagnostics.csv
+d4d2e9d09b51214384900b33bb6fa404762ab972e0d3026f9e09baaa6e29f690  test082301/refinement/l3cr_r32/seed_11/budget_120.pt
+81ad31bc0ccc6b28957089971e7320261e80058187640f3d5b5f1b6624ee31fb  test082301/refinement/l3cr_r32/seed_11/budget_240.pt
+78fcd62f9dbc3fa8a61a0e55f63251980d582a1ea3ba6ae2685eaa7ccdce1891  test082301/refinement/l3cr_r32/seed_11/budget_480.pt
+f3aa802d44c8d9b8f26861c388389184ffb981fd0a64ac256fb2ce4557c59b69  test082301/refinement/l3cr_r32/seed_11/budget_60.pt
+eb690413ee35b4d1813fb8daed56a89e60dd49c24628b86a4a0e4e1285fff8d8  test082301/refinement/l3cr_r32/seed_11/budget_960.pt
+4aed4405f4fe83b10118082c272e4327c271bdf49f9a24332ac335fedd959f0e  test082301/refinement/l3cr_r32/seed_11/budget_checkpoints.csv
+af852f4bb43e5011bfc0445ffdb7cf3acd93fbe729b3cca0d08a9477384df6c2  test082301/refinement/l3cr_r32/seed_11/candidate_history.csv
+a7298488ff0a67b68dc8e93408548e3f011601effd5da4b20df4e633d40bdb94  test082301/refinement/l3cr_r32/seed_11/completed.json
+3e3fdb1c65a7fa36a30b77c6bf0521d36870cd1bf189662eafd4d26fa30d3c47  test082301/refinement/l3cr_r32/seed_11/solver_diagnostics.csv
+1860b8da83f198f42a1af45eeadb82107ee518886812fdb0aa3102c39c71bc55  test082301/refinement/l3cr_r32/seed_23/budget_120.pt
+0d7f9fc6098c1ca162ac44bc99ac1c3201ddefbcc99da59648f05ced31e05b47  test082301/refinement/l3cr_r32/seed_23/budget_240.pt
+0e0b61cbdb6a05626407a9484599aebfb3ab73cf301267afd68db11f02ec53b9  test082301/refinement/l3cr_r32/seed_23/budget_480.pt
+08b56f37946e060d0df40b5a5c5456aec37e29415b3a1ec2535869b1b374f6ae  test082301/refinement/l3cr_r32/seed_23/budget_60.pt
+2adeb9be382a048cdd148df3fa91436bf4d16e567ae4441aa55b76db4587b4b4  test082301/refinement/l3cr_r32/seed_23/budget_960.pt
+b975b1edf80a2191812e4147381cabf775d067428766b641632129d963df7e61  test082301/refinement/l3cr_r32/seed_23/budget_checkpoints.csv
+9fea9bb5aae85c88197797e5aa8c0362356c41c9127aa0638b393278451d4c73  test082301/refinement/l3cr_r32/seed_23/candidate_history.csv
+b025e8e26f096ef8cc3d045f0c8efd2ff4e75997b366c6b29f97707022a7165e  test082301/refinement/l3cr_r32/seed_23/completed.json
+8f01d58219662d2fa2bf7a89d485932390b74555e6a6f4d91fa20a5cc5776c7e  test082301/refinement/l3cr_r32/seed_23/solver_diagnostics.csv
+6fce16a0f62714485206021427f208f918b40849261ef9e4510ef2554333bb80  test082301/refinement/l3cr_r32/seed_37/budget_120.pt
+4f7d059352fdf9accd0228e4432fe3bd6a133c927b5a7b57bcf00b6221c4d518  test082301/refinement/l3cr_r32/seed_37/budget_240.pt
+2da5ea5f2d2bc1c364a744f47d9dbfeccfb8edaf74c8844af91bcc0744278236  test082301/refinement/l3cr_r32/seed_37/budget_480.pt
+2ce5f946ef4b35b1629b255e5f6956c29642f7b44964852cb1ebd652b598fad4  test082301/refinement/l3cr_r32/seed_37/budget_60.pt
+c45f3157e9c390cbb7184afa929708e380e849d961581176b10e71a5df21c869  test082301/refinement/l3cr_r32/seed_37/budget_960.pt
+2eb72cb0f2a5ba988f322139a85ca2dedc87470c203edcb43a7f526f1a3846b5  test082301/refinement/l3cr_r32/seed_37/budget_checkpoints.csv
+3ea6b0382f2fb121e870fb0be701f5df80b35a128a13731f4b43b6f4e4fbde81  test082301/refinement/l3cr_r32/seed_37/candidate_history.csv
+480f2074054deb6d610625d6680fa0b5eb60a9e6d770b26059e45fd22cebf7fc  test082301/refinement/l3cr_r32/seed_37/completed.json
+1b32c4286fa8e33faec7ec20f0aae7e220362ba6217880fd2725a2e3b65af009  test082301/refinement/l3cr_r32/seed_37/solver_diagnostics.csv
+097ec95de3a4a4e7304a9799bc55406303d91e719477d8ff46e0f1cc6fae0d54  test082301/refinement/l3cr_r32/seed_51/budget_120.pt
+55c331bcb1433750f6086c83ef65b32fa4fdab2fe1a212e4e590bd0dc548a392  test082301/refinement/l3cr_r32/seed_51/budget_240.pt
+0f585c161501f84074f79f8e8e2dd2227cd06bdc24b8e6d83871b8dd756bd46f  test082301/refinement/l3cr_r32/seed_51/budget_480.pt
+718426bc8c4e68bda9109fa74acd1fc8c2a3d2ad0ff369b628d6c3d321a902ac  test082301/refinement/l3cr_r32/seed_51/budget_60.pt
+bfacc5c48f2b8f7ee2bf5dd95469c773b5251349147659d337ef93dc46b9c1b6  test082301/refinement/l3cr_r32/seed_51/budget_960.pt
+17542816126990fb08dff311fc628877a8c252e8067913a440a7e9b46bf1b1e2  test082301/refinement/l3cr_r32/seed_51/budget_checkpoints.csv
+c2b2d90104f19c3051d1e115b1e2b68b000e8d959e93b42e66238c3b4fcadeb2  test082301/refinement/l3cr_r32/seed_51/candidate_history.csv
+5c8a1931ee45418c9454808b10c9dafb44d542d71b519f88c3c17072c9329313  test082301/refinement/l3cr_r32/seed_51/completed.json
+efd9bb10331c649afbe71a7bdcce156c669b2f9b5a8b4f64edecbf7c7fd824b1  test082301/refinement/l3cr_r32/seed_51/solver_diagnostics.csv
+14eb865a7c5e22d73ad84474dc8a40c8bc316fccf74b2a55e40f1b76018cfc79  test082301/refinement/l3cr_r32/seed_73/budget_120.pt
+daaedafe62d8a2d19da9c905b7ef7a1764dd391a2cba7877c34d7f884b40f304  test082301/refinement/l3cr_r32/seed_73/budget_240.pt
+a61d5c7f7862ea151f71ce4ac0f2d7db9391f2cadda0836e96691df1d6a8a36c  test082301/refinement/l3cr_r32/seed_73/budget_480.pt
+3d5ee5d87eac16fcddcd27aba0bee296ae74d862e13022e57450b695d0ba7680  test082301/refinement/l3cr_r32/seed_73/budget_60.pt
+1688a2bb9effd76127728e5d96afff9107d9fa7b29cef94cacc08f3b618b173b  test082301/refinement/l3cr_r32/seed_73/budget_960.pt
+85c1493a9a0ccd6f706f08e45de76ff324193bfce2fa485f70fdf57e455b8818  test082301/refinement/l3cr_r32/seed_73/budget_checkpoints.csv
+1919970dc1199b700a65341ab6649b7256f5aa8befb3e198890482211579f829  test082301/refinement/l3cr_r32/seed_73/candidate_history.csv
+ba42573686811648e5b781429819761e44649f9e90744a3350dd9023ee929c10  test082301/refinement/l3cr_r32/seed_73/completed.json
+db7af3ab3182e5d1b02136f93cde793dd0d518e8f3419bb5a39723fb9b861522  test082301/refinement/l3cr_r32/seed_73/solver_diagnostics.csv
+00cd4476eab5989c3a3cb631dbc7c01a4a682a47a12f4a0a79aefdc1a52fcee0  test082301/refinement/l3cr_r64/seed_11/budget_120.pt
+1ef4ea341c9c0a7dc4ab6a75095df4903ee484b614ec1af9ed04a93881fcaaf9  test082301/refinement/l3cr_r64/seed_11/budget_240.pt
+4affe94e3f79cf4185513e1e84413a8929754406e74b9bca8a2f8cc421f446fe  test082301/refinement/l3cr_r64/seed_11/budget_480.pt
+0d7caad34001c24af7e9be12e235b4a6dd710451992dc33f857622e968c27105  test082301/refinement/l3cr_r64/seed_11/budget_60.pt
+bb0de78d1de12019868823dec2e59e044570672670de47b46f3c1d9aef448116  test082301/refinement/l3cr_r64/seed_11/budget_960.pt
+e918b26f7ea008c356eb7ea311ac38c210a016b6083a42e1db2e63018abede87  test082301/refinement/l3cr_r64/seed_11/budget_checkpoints.csv
+cfc96e9dff058b89a14c97867dc7851e652184513162c171d5287fb3c7208478  test082301/refinement/l3cr_r64/seed_11/candidate_history.csv
+550e95ba8cb3f85abca369aa75eccb89eb9f0acc187687a67b754bd747c9c832  test082301/refinement/l3cr_r64/seed_11/completed.json
+556f766b129e91d7e03ca1a8118f8ab5bbcae4a0834aa52dc0e44d3b913f1384  test082301/refinement/l3cr_r64/seed_11/solver_diagnostics.csv
+2eb4bccee6356aafa222257800d660f668f039f8f6f58930f94cda6309cc90f7  test082301/refinement/l3cr_r64/seed_23/budget_120.pt
+73302ba60eab974c3502464c60e00e52cfc13ca7c73299e180cf31c0730d2ef4  test082301/refinement/l3cr_r64/seed_23/budget_240.pt
+da4c1b8c48e2d186753049e7ec7f3fb14ba4d1c49dfc73ce058946a1020d3afa  test082301/refinement/l3cr_r64/seed_23/budget_480.pt
+2ac96d2fa6467abce0cabb6656c998906c619a19a0c860b6796ceafe3ef617cf  test082301/refinement/l3cr_r64/seed_23/budget_60.pt
+c35fbecb0aa921829378602dfdf281fabd66360b9e838fffc4b403413109e448  test082301/refinement/l3cr_r64/seed_23/budget_960.pt
+d0bf9f494a594e271af58d7cfd73ebb559c4c309c4bc1aefd8aafdf74fb4901a  test082301/refinement/l3cr_r64/seed_23/budget_checkpoints.csv
+05f10ab00a1f1be2ca8927543d71139ac20c26dc5608bb76560cd2a810fe3ac8  test082301/refinement/l3cr_r64/seed_23/candidate_history.csv
+967b78b0142227ef7fed5927e3af164f00791e5f35711f12fdaa57266922a1ee  test082301/refinement/l3cr_r64/seed_23/completed.json
+2e450c511213cdc1edd317eedececdd2da881b1118195594ecc55cb4bfd80c61  test082301/refinement/l3cr_r64/seed_23/solver_diagnostics.csv
+5b80f6ba0d5d2f8c53fea33678cc2c16fb23066470ab277027a0306f891cd7ff  test082301/refinement/l3cr_r64/seed_37/budget_120.pt
+7f383a3beb62ee0a91db81254d12de4000b16ad22faa5c5b968e96483903a6a6  test082301/refinement/l3cr_r64/seed_37/budget_240.pt
+2be298b0e0918db192150462d0f7d15c03c8bda253074a9e9dfddafe79f1a386  test082301/refinement/l3cr_r64/seed_37/budget_480.pt
+58b30b73c59ff2f33e4b65d39495dd0d91a08655d7fe1ce625818cf03ce413f5  test082301/refinement/l3cr_r64/seed_37/budget_60.pt
+860bb4a2be462a3490c9da18278b84397f25b504ac3efbd7e639f437531025fd  test082301/refinement/l3cr_r64/seed_37/budget_960.pt
+dc2565c9095d9c584f55c6b6d16481a0abc3db4a9099410d6a5a8f6a0a6aa1c4  test082301/refinement/l3cr_r64/seed_37/budget_checkpoints.csv
+d280526b655d9fc60dda2f3b39406579079e7b972bf0830ce28b66323bd5e587  test082301/refinement/l3cr_r64/seed_37/candidate_history.csv
+57ab8bba6822d7b1e2050c5543288933ab2908b2d7d37876deed8e52918b0929  test082301/refinement/l3cr_r64/seed_37/completed.json
+750874fd10910be6937dc2185dc27978ac3a83227356c3527bc4ad1eeb253d85  test082301/refinement/l3cr_r64/seed_37/solver_diagnostics.csv
+12bf0875f56eef30c2610c6e1c0375ab0e50937a740947b7063487e4f2394de9  test082301/refinement/l3cr_r64/seed_51/budget_120.pt
+71b922da1367cd545c33ea4d170f0d1bcaf5c1df821e19d3fc262c3f8d231432  test082301/refinement/l3cr_r64/seed_51/budget_240.pt
+fc712fced0b520590043868bf1e0a22130208be27b3d39f8e889ddb0bf9ac1f9  test082301/refinement/l3cr_r64/seed_51/budget_480.pt
+f5a850bc1a4f2e8f960cada1ba3c4fafc4a7e5b413729d978047a8522c32c16b  test082301/refinement/l3cr_r64/seed_51/budget_60.pt
+8d5c83f4c789f806dd1129a3c150a242613ee5c40a7e224ae86e4877b316574e  test082301/refinement/l3cr_r64/seed_51/budget_960.pt
+8b90974909ea3b6aaa69deac7f98c9399d3344196f92a57f2e9a4d41e9fc49d4  test082301/refinement/l3cr_r64/seed_51/budget_checkpoints.csv
+2f0af593cecd14dd4f643acb9dbf3bf4e8dcd5fd91563581efc1990040d24066  test082301/refinement/l3cr_r64/seed_51/candidate_history.csv
+b2afc1aee9ffaeba2a3032e622438990266697993f00e2c212efd3044f7150ad  test082301/refinement/l3cr_r64/seed_51/completed.json
+43d8f586acc3826c5066d14e42eebeec2ad90943894f604bd3fa57445317786b  test082301/refinement/l3cr_r64/seed_51/solver_diagnostics.csv
+b9fcbd8da8bc1396a755f11241a3193ee50c8636d5edd487be12f2a003cb640c  test082301/refinement/l3cr_r64/seed_73/budget_120.pt
+02f5aa850081acd7d3beb9489803acc4a40fd890e50e0c825f859cd0514aeca8  test082301/refinement/l3cr_r64/seed_73/budget_240.pt
+4e9367a65870c0d8b303e83e615abfe8ab70247af7e52f71b4034a7a75e1f6f6  test082301/refinement/l3cr_r64/seed_73/budget_480.pt
+e8851dfaffbf8c359f68457c5f434cb27274755d8171ef12833c38d885b7a89c  test082301/refinement/l3cr_r64/seed_73/budget_60.pt
+4e0c7de4b51b0dc947afc93831a7776e0c0eff02da2534d5bfa0d92fe14c43fb  test082301/refinement/l3cr_r64/seed_73/budget_960.pt
+7630c74f283e1a207f45abe32fe0156264aa81b45a5f1fd1c8e93f76b522f95b  test082301/refinement/l3cr_r64/seed_73/budget_checkpoints.csv
+c46dbf7a4457a341b68eef2bd1c0c867db13430d8625a5fdb74c1acefdd7f018  test082301/refinement/l3cr_r64/seed_73/candidate_history.csv
+b932418094d65e6271be2e3dee27ed3c59ce127f0bba171f9c10fb11c91214a9  test082301/refinement/l3cr_r64/seed_73/completed.json
+b3f31d3351bd763d2c60a95f6f25d4baa25aa272612c7c81b33d5e72364e6d72  test082301/refinement/l3cr_r64/seed_73/solver_diagnostics.csv
+e50afb7358061715d5de12d02c7a07eb4a335daa98293186bba7e2db18df1bd6  test082301/refinement/lbfgs/seed_11/budget_120.pt
+a29fe1f8f2e5b6c206e93b98f14d39364f4914d28077904111b39d5840d18f27  test082301/refinement/lbfgs/seed_11/budget_240.pt
+7f97400bae442e7fcb32cdfa54c71b52f03f4f81f0b3fc327a53992506d29484  test082301/refinement/lbfgs/seed_11/budget_480.pt
+2fa655eff45f323171bdf9f294ab3592dc814182d92d73c28979f118176fb856  test082301/refinement/lbfgs/seed_11/budget_60.pt
+ffaf22b40d475b9643fcd4e099939b71a9b9fe3be65504c21ee57ec50141aaef  test082301/refinement/lbfgs/seed_11/budget_960.pt
+e8c28b94652a4701b755470944ffc64ef09004a9d5a7a0578478fc6c3325ee2d  test082301/refinement/lbfgs/seed_11/budget_checkpoints.csv
+ff4bb9efbc055da52d53f5857dad2fac538ca13a38d109104b24a520aed82719  test082301/refinement/lbfgs/seed_11/candidate_history.csv
+9cf8f453ab02c1368fb7ba3346f6dcfdd47622f74b0ee4f187568a92b3d23b33  test082301/refinement/lbfgs/seed_11/completed.json
+a81e8ca6280e0e4e0a03da0ab5fa141a0d1a43034bf1000d9dbcff2cf4206534  test082301/refinement/lbfgs/seed_11/solver_diagnostics.csv
+67a373e095a98276098c5f540706e466350c8b02b98309dbb4f8a84fc64b22d2  test082301/refinement/lbfgs/seed_23/budget_120.pt
+3ba7fa2ad6ecf71f864756c016ba18c7a4718f28885eb64eb26ebad8c7a43fbe  test082301/refinement/lbfgs/seed_23/budget_240.pt
+c9bb51dcaa2bced6fb5fa521921155af26f19bfb4da2050d083d35a8e00cb1df  test082301/refinement/lbfgs/seed_23/budget_480.pt
+0508bfcabda8ff191b79bb9b0790b257d385804dca780b9a74c7fa55648c615d  test082301/refinement/lbfgs/seed_23/budget_60.pt
+ca7ac11a9042fcdcc01f59a2d1e07e4db32b12eb42a34b18ee8613e3c878be94  test082301/refinement/lbfgs/seed_23/budget_960.pt
+ab98322be794bc7b1f3ac1a0a441905990ce3ea9b9283c1baff11d84a72c1136  test082301/refinement/lbfgs/seed_23/budget_checkpoints.csv
+f1c44d0c45737ccc5bb7b0357db103947af41ece488a22eaeab196ef9c558e52  test082301/refinement/lbfgs/seed_23/candidate_history.csv
+98ec3246f0f4acc4f18b2505901243168c8cab3f44053c0f62691d50cbc6e4b3  test082301/refinement/lbfgs/seed_23/completed.json
+bc4aca72fe0c5ac9911f4229d87cba964c81946540d4454fc4403ee50ebfb4f3  test082301/refinement/lbfgs/seed_23/solver_diagnostics.csv
+e3e83ab97a786104f0854931b77a630cd91ac5de9ebbe9f8df61dd5cb5b4bea6  test082301/refinement/lbfgs/seed_37/budget_120.pt
+ea7dc5306cc0dd844737981e6390414f69a485e27b9a754b27c1d01bc8c20f2b  test082301/refinement/lbfgs/seed_37/budget_240.pt
+c0049e23fd0e837a110b66a39f2f361a00b3207942f8d7c2f20f55e1e569e0e7  test082301/refinement/lbfgs/seed_37/budget_480.pt
+8ce55b2073b04befb62b13765213003c7b80fb2dff118c2be2947bc9bb7ceac6  test082301/refinement/lbfgs/seed_37/budget_60.pt
+0b1d64e05abcf0c6379f5c47f3726fad30e8d1b08efa45a9461b7944779491fe  test082301/refinement/lbfgs/seed_37/budget_960.pt
+69d1f206906b2458b46c09aa4b740769f4020076b830840d44c41cb3f138dacf  test082301/refinement/lbfgs/seed_37/budget_checkpoints.csv
+2350cf14232ec3b8b17d900ef843e792cc0cf8c9e73f54e3ffb9e9da965d9929  test082301/refinement/lbfgs/seed_37/candidate_history.csv
+a583cfa4b3dec63f88adfb043257168f7bad300eb054ceecbc72005100336a13  test082301/refinement/lbfgs/seed_37/completed.json
+02c216b916418e88220c619606b94b011c620d21cb10e906ce6c51cd4c6caf07  test082301/refinement/lbfgs/seed_37/solver_diagnostics.csv
+eb335450e06f7e9f92d93e5b4e709cd2ca8ca2edf37cdd6ea4cddbf23886597b  test082301/refinement/lbfgs/seed_51/budget_120.pt
+28cfd8b6a8141d801c0118566538c096b4b6aeeda93daf8bf083a28e10592e8b  test082301/refinement/lbfgs/seed_51/budget_240.pt
+949736c487e35cefaafebdf5b0fcbfe6d894151b466005bb8a104e2d1b7863ad  test082301/refinement/lbfgs/seed_51/budget_480.pt
+7c31fcc354aaa9aa443b9f3429d8b0b824c56888c82cf749da5fe22e19f51845  test082301/refinement/lbfgs/seed_51/budget_60.pt
+669aae579b55d860444665c43f626abf7f947fbef37cc2b0218e28772a6e0c19  test082301/refinement/lbfgs/seed_51/budget_960.pt
+12035a74889a3d9ef7b245e083c3654ab8c00b249c001548a651565952f13229  test082301/refinement/lbfgs/seed_51/budget_checkpoints.csv
+46ecf6c27785e674864d0772a9dd09c542d0e74299015bd34d79eeb919fb60c4  test082301/refinement/lbfgs/seed_51/candidate_history.csv
+40b6b79564159f013d2ed867a4a10ac7bf8b2cb19d6d0e047e18570622f143ff  test082301/refinement/lbfgs/seed_51/completed.json
+6982fa900ea5236f5ac553640ee5bb09dcb700e517fc170edada93d82ffce15e  test082301/refinement/lbfgs/seed_51/solver_diagnostics.csv
+6bdab589edb37cd9c609093cc8cb45376be09bf5f81f8c9d183918106ca5dbb7  test082301/refinement/lbfgs/seed_73/budget_120.pt
+73edae9e75c439383ac5e5e9704e6d40761b7a80c0544fa27df79607ec8e4ffe  test082301/refinement/lbfgs/seed_73/budget_240.pt
+3d8a13fb416f596ecb86517b7cb211171573031db73d5b890f167a710673c749  test082301/refinement/lbfgs/seed_73/budget_480.pt
+a0082a5de875a8a545c1443dd3f76c4fea71d46a231a1232eb1a358071d2bbcd  test082301/refinement/lbfgs/seed_73/budget_60.pt
+a72a186d3f7a4ef49cf91ae57f3610631fe2b1b67deab205ec5017345e69a7b7  test082301/refinement/lbfgs/seed_73/budget_960.pt
+5254916ed0e2df7654e8f09c8307386ad4659852678d34c4ed4c5740e3ac2327  test082301/refinement/lbfgs/seed_73/budget_checkpoints.csv
+2a09534588ae8bc9cd8cb9ad02fc5ab375154df5599107635d70a4f5bbfd9529  test082301/refinement/lbfgs/seed_73/candidate_history.csv
+190938a06b8603e3dc17d2151c5455b686cc9a1bb5840979fceb6f87896a5687  test082301/refinement/lbfgs/seed_73/completed.json
+0f7b41c74af136827140aa18f5728315a0223b68b8533d14b8ed6ecd2c0e2cf6  test082301/refinement/lbfgs/seed_73/solver_diagnostics.csv
+d29ef654861f5eaa0026d21766c189d1b6d7625909ff9d33affd785353839a45  test082301/run_experiment.sh
+93015077a1cace9a4866fd62a67edc57a755ffe61b7f6d232da053e0708d4de8  test082301/run_high_accuracy_refinement.py
+a234efd783f36a8de4a221498a3fb8a2883ea4568f647a283593957492599074  test082301/smoke/analysis/accuracy_vs_time.pdf
+9208fd89a465794573cf1117fd59445d320d8e0240c1f0c087b1bb3d881ae938  test082301/smoke/analysis/accuracy_vs_time.png
+d74c15b888f57db7921dd43bb4bcd2db253ffdae195942806acd3932d11ffa76  test082301/smoke/analysis/claim_evidence_ledger.csv
+23d3e72b6f07c3453e7ecd84ac688e884397962ad041254475d28e35472462be  test082301/smoke/analysis/cost_and_stationarity.csv
+8f75cf75bec4b21181a16557a6984d9e725111403fa5b41ec209df6ed363c79a  test082301/smoke/analysis/experiment_report_zh.md
+b8c6f03ecadd4791fa66c6627dddffc637a82ef23bc6c337481e763c1029a6cf  test082301/smoke/analysis/metrics_per_sample.csv
+e2fc27ad11f1dbd0f7a4bb7d87f5bb36bee96a723e8bdfcb308ae4093bfa56cf  test082301/smoke/analysis/metrics_per_seed.csv
+2580462c3e970183b56b49211ee49fec61f597bc106e4cc5c016cecb29da423d  test082301/smoke/analysis/metrics_summary.csv
+f7cc8218952028fbe3f8bbe7e8492d301e4747eaf9a3a0b9323870c53dda02d6  test082301/smoke/analysis/paired_statistics.csv
+ad0221cac72bf0317c559d7869e6b0504b7caf4b2952859477220cd4a2eb0796  test082301/smoke/analysis/paired_statistics.tex
+ebd5d984da5541db03e422306a7529aebd18a2737195211c30b41b874c1b7a0a  test082301/smoke/analysis/stationarity_vs_time.pdf
+1b0f58190757fc45bf5731a570c2a3e509a1ef0669c39c1f2be1edca5105e121  test082301/smoke/analysis/stationarity_vs_time.png
+7cdbd571c1ff0720b990312b424fe59bc69239427d8df3302239f08a93c370fd  test082301/smoke/analysis/terminal_metrics.tex
+6f9d9eabad01772aca50b776e21581ff851bee68c6183edb66ae0671ed65c4ff  test082301/smoke/frozen_config.json
+9f0a24ec0a2a1c0b65c29eab5c057998464db282baed64b0c03dcbb6fa11eafc  test082301/smoke/output_validation.csv
+3b68714890e818b57b7550944d04ed200dd1fca43407665a0bfb6cfe8eee4189  test082301/smoke/refinement/adamw/seed_11/budget_10.pt
+e04b363cd730e49cf71763a94e295193088facc9f3b31f2c1ec903a14dad2f84  test082301/smoke/refinement/adamw/seed_11/budget_5.pt
+54f37eef11d9551b0b71af35c9b71c52d79138e88b78f9e8c9741b290686195e  test082301/smoke/refinement/adamw/seed_11/budget_checkpoints.csv
+cbda448162aa1bd8fcb0c61116febbfdd75f3ef42e716fe7f666d95e1b9e86d3  test082301/smoke/refinement/adamw/seed_11/candidate_history.csv
+62698deee10db5cb44faf535b2d805ab420372084f96e78b9f803c0802bf3a5a  test082301/smoke/refinement/adamw/seed_11/completed.json
+fa03ae00ac88d5634c912dfe598e7b140d717dce00604aebd7b47a3871c32fea  test082301/smoke/refinement/adamw/seed_11/solver_diagnostics.csv
+cbafa1ae1a1766144f0d8339531e1c8da4e0145ddfecc0f01e1263f3c207dc58  test082301/smoke/refinement/l3cr_r32/seed_11/budget_10.pt
+2b67b1922e597e0fda77ee9aa13a8884f086688ddcc4935fd8338548433df00f  test082301/smoke/refinement/l3cr_r32/seed_11/budget_5.pt
+8bf34c12f37594ee34e75c427e1ab19905b92d3976e47c8d792c02f375c7a6dc  test082301/smoke/refinement/l3cr_r32/seed_11/budget_checkpoints.csv
+4fd7fc594b079b55d4681c2b6b735c3894d508335f6cfcf0d55e79d20688c1b6  test082301/smoke/refinement/l3cr_r32/seed_11/candidate_history.csv
+46687a54b458e57970542ac08802b954b5826b0d103d9bfac52696bb34b23cb1  test082301/smoke/refinement/l3cr_r32/seed_11/completed.json
+6a131c1fec98e5ff65000c73f0191c68e0bf876a3145bdc759ba0fd1934b3385  test082301/smoke/refinement/l3cr_r32/seed_11/solver_diagnostics.csv
+241b180da0c973499db6c435ad3c1160d0b88cd0d9661d5ff218130e20485711  test082301/smoke/refinement/lbfgs/seed_11/budget_10.pt
+beaa74258e802b76e96a6c53d5f6ad145ca31113c6dd0f38053879c5a3b4f29f  test082301/smoke/refinement/lbfgs/seed_11/budget_5.pt
+f9705efc4379f92f65ac2d728c05b15cb45e166ea556cb61fd34490448d0e9df  test082301/smoke/refinement/lbfgs/seed_11/budget_checkpoints.csv
+06d4d5f525ed92a9005557c533c42270c4e745359826fc992605044395e809fb  test082301/smoke/refinement/lbfgs/seed_11/candidate_history.csv
+aeaf3659a0f7169341a5c41ddbaaf8ef5e35c3284c6dbab69ffb046844125a67  test082301/smoke/refinement/lbfgs/seed_11/completed.json
+035836e32ec37c5fd7e3ca5d1b6ea3038236b2bdeb58c2d8db30d1d2a117dc04  test082301/smoke/refinement/lbfgs/seed_11/solver_diagnostics.csv
+1cf8cd956c4bb454e70840fe26c7edac67ad5f7fa35946c6ca69109ec7c3fd90  test082301/smoke/warmup/seed_11/best_checkpoint.pt
+44819d9fa55f94b3fa006418fd78a58eb45063b1ce5fb601836313b5dbb56937  test082301/smoke/warmup/seed_11/checkpoint_sha256.txt
+6f9d9eabad01772aca50b776e21581ff851bee68c6183edb66ae0671ed65c4ff  test082301/smoke/warmup/seed_11/config.json
+c43ade8df5dd5628a845d829ca2f6ac6ebffd7d4427023cfb1e9bf351e9968d8  test082301/smoke/warmup/seed_11/training_history.csv
+bb3600853d707db14be346e226f3fdf100cb8d7442180f924468337d495ae4d8  test082301/warmup/seed_11/best_checkpoint.pt
+013bde4fb1ed603d0717211f4bcacf52590ba73ba2447057d89923e6b4d86d53  test082301/warmup/seed_11/checkpoint_sha256.txt
+028fe3725da591b5c2c84bc311b5ba1f4c8fd5c7e9d609a3dbd657c54fc0b4c9  test082301/warmup/seed_11/config.json
+0b9901006c6d34cd7b2324880b04038c92fee241380a4b5f0cf40c6fa5994579  test082301/warmup/seed_11/training_history.csv
+a6279b9076a6780473e255ec2b3fb720f5fd566c718ebbf1d978d0add8cf4ce7  test082301/warmup/seed_23/best_checkpoint.pt
+1fef7320da0e4750ca9be49456688013bd581e4faf44613bd7ea42c5221e4be1  test082301/warmup/seed_23/checkpoint_sha256.txt
+028fe3725da591b5c2c84bc311b5ba1f4c8fd5c7e9d609a3dbd657c54fc0b4c9  test082301/warmup/seed_23/config.json
+b7d36be82dbd7e30f4cdcd75fc93ea21e77e523edee41517f833171ed0de8bc1  test082301/warmup/seed_23/training_history.csv
+a88771b1b4ca04883c8b2beb53f97b91e41fe8558f684caf9ba85b9cdcd794eb  test082301/warmup/seed_37/best_checkpoint.pt
+26ef097799d785230cb16f0ad405b5a371157941bda9d1ca23bc86248c2e6c6a  test082301/warmup/seed_37/checkpoint_sha256.txt
+028fe3725da591b5c2c84bc311b5ba1f4c8fd5c7e9d609a3dbd657c54fc0b4c9  test082301/warmup/seed_37/config.json
+f8ee1f1a62685e3c345465a49f96e1ee00ec1d3a890c6e454f72ceb4a84608a4  test082301/warmup/seed_37/training_history.csv
+882e3452fdccd408255e91b1c697cd359ba5eac3a2a020ff41683980f8295216  test082301/warmup/seed_51/best_checkpoint.pt
+adea03c5c8756abdd50bf321780d162ee44e9a40b648dfd051c3c0813150f4e6  test082301/warmup/seed_51/checkpoint_sha256.txt
+028fe3725da591b5c2c84bc311b5ba1f4c8fd5c7e9d609a3dbd657c54fc0b4c9  test082301/warmup/seed_51/config.json
+e87c02df41fca2ed8ec88d5ae0dca35ff0b2eff2783115b30ecb43916ee4930e  test082301/warmup/seed_51/training_history.csv
+adeb53d59eb041952f2cf740ae3034ae3f971d8a34af316baa4bc6b89401001b  test082301/warmup/seed_73/best_checkpoint.pt
+1f986f4f17d6099de49fedf1d645696edf2a786416d71c601856494da4cdcf17  test082301/warmup/seed_73/checkpoint_sha256.txt
+028fe3725da591b5c2c84bc311b5ba1f4c8fd5c7e9d609a3dbd657c54fc0b4c9  test082301/warmup/seed_73/config.json
+209be8d91638659f588cd748ee6f061b435ce5750b53ab5216f6b6ee5179793d  test082301/warmup/seed_73/training_history.csv
+cb2cf701f65e6ec80d0ce1af0234bb0a13a4aa6e5d8b62585c555cf8e792f235  test082401/README.md
+4f652c1c6b3bf5c7bc440b89ef7fa6ee7d8def46496f1364c6ddb45e0e2ea022  test082401/analyze_short_high_accuracy.py
+f6d7951507b8db5916c4321afee14e0e80032390fe1e12fac0d091076603f9f2  test082401/bam_gram_audit.csv
+2a7fbd9645d5f23c34b56b460c5b2bdccee72369b3af5f26a6d1d741bde59082  test082401/bam_head_diagnostics.csv
+2a7fbd9645d5f23c34b56b460c5b2bdccee72369b3af5f26a6d1d741bde59082  test082401/bam_head_diagnostics_progress.csv
+0281e6a0b8d9ddb80daf5515b537ba21483f6528c540d73924cc38e3d2a1c201  test082401/bam_head_metrics.csv
+0281e6a0b8d9ddb80daf5515b537ba21483f6528c540d73924cc38e3d2a1c201  test082401/bam_head_metrics_progress.csv
+7efc064b2650e06239fad252a1e141d5871c94cf86b5186cf9e1ad458b980e43  test082401/bam_high_accuracy_table.tex
+0bc391c9887a68033b4cc197ca69df87cd4cd2e0b6e30b14882cd25a51c997b3  test082401/bam_test_metrics_per_sample.csv
+92cd14117b2040fe42e190a1400f99508c1bc9cb2d7cbac3daadd16f4810b65f  test082401/build_appendix.py
+797a6cb00f7a5d2d4592d26117c07ee8078dc18ea4e4aabdd8daeb15a450594a  test082401/calibration.csv
+69d59b4725a4ad9cbb12b41f4dd24c3a74614b011ca942626b562759f111f377  test082401/claim_evidence_ledger.csv
+19b2a29992d01d24d2a3084aaeacc8469130c58cc70d9827d31c5eede728190a  test082401/experiment_report_zh.md
+5eed7353516324c5fdd5f0f6a31fed7db6f12d089f7a437bead5f6a9b6e5fca3  test082401/full_space_l3cr_core.py
+dcfc426f3dd704be2ee471e2aec58be43862fd96da52f5213e1c6526bf377ad0  test082401/full_space_l3cr_high_accuracy_appendix_zh.aux
+cd2522ffbf71de544bff5217474cb25361efde0248569c621cacbc3bddaa8cfb  test082401/full_space_l3cr_high_accuracy_appendix_zh.log
+46dae65f8d0de692dd42bf2e29073cf783218a1a5b9be0e37ccddca2ca062d87  test082401/full_space_l3cr_high_accuracy_appendix_zh.pdf
+76f47b820cf4fefae04771a29c0c99b0ccc76e0aa65be2dbe5ff37ae964ae54e  test082401/full_space_l3cr_high_accuracy_appendix_zh.tex
+c7e064bc9dae454861665c4186a803d9868717b2e595d39b24eca38fd4021d03  test082401/high_accuracy_convergence.pdf
+1b9dad6dab1722a2b62a836df3f377629c0fae5add2d7a3d2f82ac5af5b6c7a0  test082401/high_accuracy_convergence.png
+dae41ce85574039c9c42cc602b98c236f995bb848d5543dbe7631b693f34c5ea  test082401/metrics_summary.csv
+ed8e196b4f5176e5c5d8863f7387a9c06db013dc4fa75d4230b39aa32c61d60b  test082401/output_validation.csv
+333790ddd743c7c345d44e370b65c6707dfff2cb1b074670a003cc02a4a3f81c  test082401/paired_endpoint_statistics.csv
+4eb70039f44cc6bb42bf57831d5297ef88655d5ee9308b54d6830fa6c588c1b0  test082401/run_short_high_accuracy_experiment.py
+4da826bfa826be62afdbd11078f67b8c89da7c73c28426f0101faf101f1a8c14  test082401/runtime.json
+dd8239a915d2d94d1979180c938781206f52f5203abdb818750cfd0d6e53e76d  test082401/self_tests.csv
+e1992c752813ddfaa87091be4d7fa9c6e684e7c2e0953301cb5b61fc306347f9  test082401/smoke_full/bam_gram_audit.csv
+eb05579cc493e9109e053edd76ee05a5a116a85a4d9197b87c089e6ca9971f6e  test082401/smoke_full/bam_head_diagnostics.csv
+eb05579cc493e9109e053edd76ee05a5a116a85a4d9197b87c089e6ca9971f6e  test082401/smoke_full/bam_head_diagnostics_progress.csv
+d40bcbeca0ef616e4b475d02d2529beed4b8c5f8ae5ab6b08a6a32e7c6875e2e  test082401/smoke_full/bam_head_metrics.csv
+d40bcbeca0ef616e4b475d02d2529beed4b8c5f8ae5ab6b08a6a32e7c6875e2e  test082401/smoke_full/bam_head_metrics_progress.csv
+4c24ba466f04c2e84a598ec25c627667543925bdbf68bdc01665c3e5111d44ba  test082401/smoke_full/bam_test_metrics_per_sample.csv
+970884765d3392625f1b83fd67dfba50e8393d8cdb49ef060be04dbb28f28ccc  test082401/smoke_full/calibration.csv
+23efec3da57fc7be0d217669539511d193710830db2d28e7ceb7d77fa316f904  test082401/smoke_full/runtime.json
+dd8239a915d2d94d1979180c938781206f52f5203abdb818750cfd0d6e53e76d  test082401/smoke_full/self_tests.csv
+16101cfbccda9e71cb19f7b8a4852316362cbf51197250f488875a758c1ab3e8  test082401/smoke_full/synthetic_diagnostics.csv
+16101cfbccda9e71cb19f7b8a4852316362cbf51197250f488875a758c1ab3e8  test082401/smoke_full/synthetic_diagnostics_progress.csv
+895f4c82ff9c346d206fe2314a94967fda354c74a251f92b1abd0cfeb8cea9f2  test082401/smoke_full/synthetic_metrics.csv
+895f4c82ff9c346d206fe2314a94967fda354c74a251f92b1abd0cfeb8cea9f2  test082401/smoke_full/synthetic_metrics_progress.csv
+8a701d4731e9c943b149667e84d89b318d8d2dc378a0d73bf235095a26a6838d  test082401/smoke_synthetic/calibration.csv
+d575f5dc9a8fc7f484a10d77c657dacad698c6b79e807d5d9d2c120c422b30b7  test082401/smoke_synthetic/runtime.json
+dd8239a915d2d94d1979180c938781206f52f5203abdb818750cfd0d6e53e76d  test082401/smoke_synthetic/self_tests.csv
+ce53e44e4b404c5af6e21f2399e90109bb5b9d21d2e61f94a8b2ba2c357fde61  test082401/smoke_synthetic/synthetic_diagnostics.csv
+ce53e44e4b404c5af6e21f2399e90109bb5b9d21d2e61f94a8b2ba2c357fde61  test082401/smoke_synthetic/synthetic_diagnostics_progress.csv
+4fcadf94c8b2fbece343999f297cbb00e3045fe4e9222af685e58ced47112f41  test082401/smoke_synthetic/synthetic_metrics.csv
+4fcadf94c8b2fbece343999f297cbb00e3045fe4e9222af685e58ced47112f41  test082401/smoke_synthetic/synthetic_metrics_progress.csv
+7ac87dd572874a7647d7b0c48b24625f02aaf510ec68305878d32697f9860131  test082401/smoke_synthetic_polished/calibration.csv
+61ef83187e6a7639ca7eea6fcf9b555d10c7d419b4ddcbc7d87866a19055feee  test082401/smoke_synthetic_polished/runtime.json
+dd8239a915d2d94d1979180c938781206f52f5203abdb818750cfd0d6e53e76d  test082401/smoke_synthetic_polished/self_tests.csv
+64b3cf4ed05ca474cf627ef3cb361a3d5f09d95e8fd1f100aa43e6b2bd6b4dc0  test082401/smoke_synthetic_polished/synthetic_diagnostics.csv
+64b3cf4ed05ca474cf627ef3cb361a3d5f09d95e8fd1f100aa43e6b2bd6b4dc0  test082401/smoke_synthetic_polished/synthetic_diagnostics_progress.csv
+5493a8d773d770987cf6ea980b0ebdb29fc253c68934445553060f52eabc2f5f  test082401/smoke_synthetic_polished/synthetic_metrics.csv
+5493a8d773d770987cf6ea980b0ebdb29fc253c68934445553060f52eabc2f5f  test082401/smoke_synthetic_polished/synthetic_metrics_progress.csv
+0f808451e5d3f1901222dffed7cdc8f42d334f58d33862005043dd0dff3baa17  test082401/synthetic_diagnostics.csv
+0f808451e5d3f1901222dffed7cdc8f42d334f58d33862005043dd0dff3baa17  test082401/synthetic_diagnostics_progress.csv
+35f967e6f5503629473b298d69377200dcaa0c44b7b1e2fc51a99f1d77336802  test082401/synthetic_metrics.csv
+35f967e6f5503629473b298d69377200dcaa0c44b7b1e2fc51a99f1d77336802  test082401/synthetic_metrics_progress.csv
+2896f0ab3e1044c62e4fc0fe318c973eca3ceec2c379dc652b91f98a48733c5a  test082401/terminal_gradient_comparison.pdf
+54c5094e0c09f133c80a207f95ca555b604671a7741d7c61e307c7ce94d015fc  test082401/terminal_gradient_comparison.png
+709bae2750d6c2e16748ffce24e4a68016bd7ddefb928166ed5d0b8cc3babf53  test082401/threshold_reach_summary.csv
+03f174e6f6d8532da0a0ed2c39aef05cd6b8bbbe08311535d6a253a1f88585de  test082402/README.md
+cc562b5afdbffd4a4a39402f8fbc2c94521eb463033708991fc51283df60265d  test082402/algorithm_audit.csv
+8aa33c0bf03b16054b31557a53edff03397a962ef5da7ccd895c895428fa854f  test082402/analyze_two_problem_precision.py
+e68dd1553eb757280cefd5059f99486e71bdfc6edb9deef0f167e4efaf507e13  test082402/bam_diagnostics.csv
+e68dd1553eb757280cefd5059f99486e71bdfc6edb9deef0f167e4efaf507e13  test082402/bam_diagnostics_progress.csv
+f6d7951507b8db5916c4321afee14e0e80032390fe1e12fac0d091076603f9f2  test082402/bam_gram_audit.csv
+01cc451409262176ead2e62699aa6cad361e00e458311af1f2843e0ea8caae90  test082402/bam_snapshot_metrics.csv
+01cc451409262176ead2e62699aa6cad361e00e458311af1f2843e0ea8caae90  test082402/bam_snapshot_metrics_progress.csv
+c1102e1b909a7f28bba8fd99ef7d11b79f8e25faba749074988d74c1ae4c0aca  test082402/bam_test_metrics_per_sample.csv
+73c5dd24a5bdf6a2c6729bdf97e3a7581e1c20290cf343db9aa5e8ab8d6c1e7d  test082402/bam_threshold_cost.pdf
+1266c24b6966319181c0dbc26dadc7137b91db97466638d95ae404b80d05d8a3  test082402/bam_threshold_cost.png
+4053a8fc4a45a8b6f8d3edc493bf93d0c621bd4aa84a0c46b30fbc310c5461a5  test082402/certified_adaptive_l3cr.py
+3dc4060f9e07b651c7fe7a795421e9e11ddb89239d55744a561a1ad1b89d2746  test082402/claim_evidence_ledger.csv
+366c8336f7b784bb4c5b88a0cd9d4b3ee1177949be20f2788a00c232ab5270d5  test082402/experiment_report_zh.md
+bbabfdffe2c43e12401174e3c29143826712cc42736219ac9c429663cb8f9b49  test082402/gradient_precision_comparison.pdf
+a1cba12f0da22b5691cb09249ec4f4cb4d1fd12d55ea5049fc2f343be172f6ee  test082402/gradient_precision_comparison.png
+add41d7b01f1d49bbbe772617f9efbc8230ce08706ec5f201ccebe5dfecdef8f  test082402/l3cr_precision_table.tex
+5b9a8a40c9e0980ec76e62d1d0b77de2ad3d3cb28c20f06ac40b5a72e2e195b8  test082402/metrics_summary.csv
+5eed7353516324c5fdd5f0f6a31fed7db6f12d089f7a437bead5f6a9b6e5fca3  test082402/original_core_snapshot.py
+d256a9fd9107298079792dc81ab4f31faddf0c913c9543b447d1e6735e3cb2b7  test082402/output_validation.csv
+f277bf1258e22c2e643d26391ef04ed8516e66ea3b8dbe412c5c2fba7bb648f1  test082402/paired_comparisons.csv
+ae04663cad04befc1b65fb59df265b1b10f63c97b9f4096489d936ddd27ee485  test082402/run_two_problem_precision_experiment.py
+1ef384e487c3e3af8c459e1142623192f84b1757d138315209cfa48a422a170b  test082402/runtime.json
+134186003d649d762727b988a8d920b6c6e48e90c6e005080aac5e30ea5bb8b1  test082402/self_tests.csv
+febfe4bbbb4874d53f491f3d94cace9f945bed8c0296b0afba01dfcadffc51dd  test082402/snapshot_summary.csv
+b76696d3bfd48f369a814cbe9ec8cb787517b5721936556ad08cf534aa70da3c  test082402/synthetic_diagnostics.csv
+b76696d3bfd48f369a814cbe9ec8cb787517b5721936556ad08cf534aa70da3c  test082402/synthetic_diagnostics_progress.csv
+b3ae27bd784f32a32effd1c9e799be661ce525ae68b7ac39d968c5b702ec8351  test082402/synthetic_snapshot_metrics.csv
+b3ae27bd784f32a32effd1c9e799be661ce525ae68b7ac39d968c5b702ec8351  test082402/synthetic_snapshot_metrics_progress.csv
+28f8331f5b23d8b1506be37137b520311e3ca31418f12bcd5369d1a7664717c9  test082402/threshold_reach_summary.csv
+bc5400c9db6d96e04a31226378a10b458e8cd08690f1dd50adf4ebe49d8e6386  test082402/user_optimized_core_snapshot.py
+c11bc4ae329301144b9e9331890cb7a45008a5642e347515dc939be69d5ece30  test082501_l3cr_20_parameter/01_original_code/analyze_two_problem_precision.py
+b34e0f86165f5a26e888848baa8a931ab6ecda5b69850f002697da3e61d23cb4  test082501_l3cr_20_parameter/01_original_code/build_l3cr_advantage_word.py
+4053a8fc4a45a8b6f8d3edc493bf93d0c621bd4aa84a0c46b30fbc310c5461a5  test082501_l3cr_20_parameter/01_original_code/certified_adaptive_l3cr.py
+5eed7353516324c5fdd5f0f6a31fed7db6f12d089f7a437bead5f6a9b6e5fca3  test082501_l3cr_20_parameter/01_original_code/full_space_l3cr_core.py
+5eed7353516324c5fdd5f0f6a31fed7db6f12d089f7a437bead5f6a9b6e5fca3  test082501_l3cr_20_parameter/01_original_code/original_core_snapshot.py
+5ed891f6319e97bab2d33bbd967e62e1269676e01ecc1901982add2217b6facb  test082501_l3cr_20_parameter/01_original_code/prepare_l3cr_advantage_assets.py
+844193c2641b55b62ff2eea1012119f2847f4f2844bd44644e2671bc27faf343  test082501_l3cr_20_parameter/01_original_code/run_short_high_accuracy_experiment.py
+7f8d912d93119d639307211f0ee947e21da420dbd2787ed51624bfe9c2fe020f  test082501_l3cr_20_parameter/01_original_code/run_two_problem_precision_experiment.py
+bc5400c9db6d96e04a31226378a10b458e8cd08690f1dd50adf4ebe49d8e6386  test082501_l3cr_20_parameter/01_original_code/user_optimized_core_snapshot.py
+cc562b5afdbffd4a4a39402f8fbc2c94521eb463033708991fc51283df60265d  test082501_l3cr_20_parameter/02_original_data/algorithm_audit.csv
+e68dd1553eb757280cefd5059f99486e71bdfc6edb9deef0f167e4efaf507e13  test082501_l3cr_20_parameter/02_original_data/bam_diagnostics.csv
+f6d7951507b8db5916c4321afee14e0e80032390fe1e12fac0d091076603f9f2  test082501_l3cr_20_parameter/02_original_data/bam_gram_audit.csv
+01cc451409262176ead2e62699aa6cad361e00e458311af1f2843e0ea8caae90  test082501_l3cr_20_parameter/02_original_data/bam_snapshot_metrics.csv
+c1102e1b909a7f28bba8fd99ef7d11b79f8e25faba749074988d74c1ae4c0aca  test082501_l3cr_20_parameter/02_original_data/bam_test_metrics_per_sample.csv
+3dc4060f9e07b651c7fe7a795421e9e11ddb89239d55744a561a1ad1b89d2746  test082501_l3cr_20_parameter/02_original_data/claim_evidence_ledger.csv
+5b9a8a40c9e0980ec76e62d1d0b77de2ad3d3cb28c20f06ac40b5a72e2e195b8  test082501_l3cr_20_parameter/02_original_data/metrics_summary.csv
+d256a9fd9107298079792dc81ab4f31faddf0c913c9543b447d1e6735e3cb2b7  test082501_l3cr_20_parameter/02_original_data/output_validation.csv
+f277bf1258e22c2e643d26391ef04ed8516e66ea3b8dbe412c5c2fba7bb648f1  test082501_l3cr_20_parameter/02_original_data/paired_comparisons.csv
+1ef384e487c3e3af8c459e1142623192f84b1757d138315209cfa48a422a170b  test082501_l3cr_20_parameter/02_original_data/runtime.json
+134186003d649d762727b988a8d920b6c6e48e90c6e005080aac5e30ea5bb8b1  test082501_l3cr_20_parameter/02_original_data/self_tests.csv
+b3ae27bd784f32a32effd1c9e799be661ce525ae68b7ac39d968c5b702ec8351  test082501_l3cr_20_parameter/02_original_data/synthetic_snapshot_metrics.csv
+28f8331f5b23d8b1506be37137b520311e3ca31418f12bcd5369d1a7664717c9  test082501_l3cr_20_parameter/02_original_data/threshold_reach_summary.csv
+51cffcf786c2b417d6a5ffd3eb57371e7d263e7ecd524fe14e886f984d97aa66  test082501_l3cr_20_parameter/03_document_tables/bam_only_threshold_reach_summary.csv
+c2ec9fb52640871d162bbf22bf298253504d8c7a8c7c4b8d0611f503c14bd226  test082501_l3cr_20_parameter/03_document_tables/paired_gradient_statistics.csv
+9d944a5c42f56ab15d12960607a149afcc81146ee505b51222ed6687e2834d0b  test082501_l3cr_20_parameter/03_document_tables/table_l3cr_ablation.csv
+318bd9451a2bca58450b9daf6594ce841e41ae510ff688e2d637e7a32f407e00  test082501_l3cr_20_parameter/03_document_tables/table_seed_pairing.csv
+02191f37f39f91e847d0f60408cca8547f06b464eaa793659f11eba07e189c71  test082501_l3cr_20_parameter/03_document_tables/table_threshold_matrix.csv
+f0cb3ce7d5d81edf18ad6fcb3ce2fb8da5cb0b4748a4b703c3ffe17732d070fd  test082501_l3cr_20_parameter/03_document_tables/table_training_precision.csv
+555133cd37b4c6c8cf4fd0b57cb5d88fcda9bb2d60e6980e81b46d090e94338b  test082501_l3cr_20_parameter/03_document_tables/verified_advantage_facts.json
+12f3e37fb03be4b67ee49645e70dac50e0db64215760a76c3d5625e1a6f91928  test082501_l3cr_20_parameter/04_document_figures/figure_01_training_gradient_convergence.pdf
+3833178c89051be9afd4776e3bee2c675945385e16b37d69d433ad88379c6db3  test082501_l3cr_20_parameter/04_document_figures/figure_01_training_gradient_convergence.png
+077d34b59c84543fd0cfab208bd514ff56d0bf770f4b7a7b6fcb0ddc7f01609a  test082501_l3cr_20_parameter/04_document_figures/figure_02_threshold_efficiency.pdf
+edcbe979ea8be871a788a5db2d239073396e95e3ed5f9c233ccfaa86d958d0c9  test082501_l3cr_20_parameter/04_document_figures/figure_02_threshold_efficiency.png
+6d47ec5cb9381eeac2dfee469469c41258707be73e00424a5e3d6af5b4a49395  test082501_l3cr_20_parameter/04_document_figures/figure_03_seedwise_precision.pdf
+94c8a5578e0bc5a9197a16fb707b514a4a926b11120b422c0010d35a40823033  test082501_l3cr_20_parameter/04_document_figures/figure_03_seedwise_precision.png
+bb64c8ba527603e38f156774b5ad6bbec771bb280f42f569e0ee5e1142f14e77  test082501_l3cr_20_parameter/05_document/L3CR_训练高精度与反向传播等价量效率优势_数值实验报告.docx
+39fb03661ae33dd7c8b1fa8068d583dd0617d1a182f69afba3e1283982714915  test082501_l3cr_20_parameter/05_document/L3CR_训练高精度与反向传播等价量效率优势_数值实验报告.pdf
+cd8e2aad71e7eb1a2c0dcab090f7ed7dec15d538bf93817b16573d52870af5cc  test082501_l3cr_20_parameter/README_资料说明.md
+c2d76da83a9dfa58b565d185452a0778d39e8e97297c0cca634d52486864b9fa  test082501_l3cr_20_parameter/file_manifest.csv
+97b1c1f288c92aa6ba11d8d200ecf82c505de1aefb41647f0bb1537447649a0a  test090401/P5_P6_fixed_three_step_L3CR_code_and_csv.zip
+c5566391b11a0e07d3ca3092103bd6636e017b096756581b77144fa50f2bdafb  test090401/SHA256SUMS.txt
+cd810334e9453f483061d12cfd74d3e2c791223f2b584ca030b3e874ee83ef52  test090401/allocations/P5_l3cr.json
+4aa6601d28af09927a43e13c997c16c9138d97143ca700db72ab9204563f892c  test090401/allocations/P6_l3cr.json
+0191dad48dd6b7845a60371d9cfbb407faae66750a47bd2c0cd11b5247feb36d  test090401/analyze_fixed_three_step_results.py
+d505e737e5892a4d9441919e16f2b8f5248d78ca98f99177b82587ede09bf9de  test090401/audit/P5/hvp_audit.csv
+70a95f796c325cc532ec83f44626e1bbc458b712a66a5db3473fc024251d6f86  test090401/audit/P5/operations.jsonl
+7d08d71930edfb8fe8bf46d4ed30784a74cd622a331ae6cf622cc884f1ce0400  test090401/audit/P5/summary.json
+e39247be64c829206c980c8b70fb8e2c865974df8654023d29f2bc08a63d4b6c  test090401/audit/P6/hvp_audit.csv
+57096a6ee93991229b5d9ce8744d2bb0d37124383ded134febd64badc6ddb50a  test090401/audit/P6/operations.jsonl
+2a7a80621311b22e570310a9006a9cb554c0a977ac203147dcbdd25cb21bdb81  test090401/audit/P6/summary.json
+d7b30dea3fabab35f877caeae700b5958a4596ea860e8ee33db83063a2b41a73  test090401/corrected_beamer_tables.tex
+2b5f51d3a514db3334f97709226972cfb70758ce5e5e71ae4e2c8a7647b6b56b  test090401/corrected_tables_preview.aux
+f125e17bc3d850c02b0e43ae2e83761a22f326af8ab3e4d52969a1ad238d3901  test090401/corrected_tables_preview.fdb_latexmk
+bd93f69ca23d79ab7e8e3c77125d6183c58d033c25973aea2de198e568a31bbd  test090401/corrected_tables_preview.fls
+c351ee14246c9ab89bb6945538f171d85e44d869c702bd1b14b1387b93540839  test090401/corrected_tables_preview.log
+573d836777c222ccc5175fb2bc81433446c126763e297405d2d09f4450aadd41  test090401/corrected_tables_preview.nav
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  test090401/corrected_tables_preview.out
+d30c05f03d91888f100d883ee379816381772f59500a99374d16017022328471  test090401/corrected_tables_preview.pdf
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  test090401/corrected_tables_preview.snm
+a7897afcd2b78b4c4d04a54232cac01d6dcc6e60e42724327980bfab74fff4d4  test090401/corrected_tables_preview.tex
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  test090401/corrected_tables_preview.toc
+a3b8b1f522dded28ee91a17cc83a613d74e3b40da9b0810b3abb74b13b21b860  test090401/corrected_tables_preview.xdv
+7414f056ce2a39a30ce33e081d7b4931d81d8f62b58096d217efdf3ef248366f  test090401/experiment_config.json
+efd8d97ecef277883828c082c5f99bd998c2dfa77c593e6e81a700c5e9fc188b  test090401/experiment_report_zh.md
+6226b1fc7bfeefbc1886f0944fb40034cba6f1e3c1374cf98873e31cb404985d  test090401/fixed_three_step_l3cr_per_seed.csv
+736cede45dc1d1705b966505136a6542d43a4ccdb14c43b6bea8a1c4e5ddac00  test090401/hvp_audit_summary.csv
+f076e00eea2f0d35750e51ab4c903f70b1c918a4fc1ff58d82525355b0ce1b07  test090401/l3cr_stepwise_descent.csv
+268cb0d1800e07dff162710560558af831723b3f3d4a8648e8895ec7f727d2f0  test090401/matched_budget_optimizer_per_seed.csv
+723a7ada9290f2805239b1648996232d4ee6ecb86bd883953ae53cc3c4e56eb3  test090401/matched_budget_optimizer_summary.csv
+72a6c4f27faa4219afa4a1bf367277e8630de6ee9f3ca9916152fe02cc94fb3c  test090401/operation_log.csv
+b7c3da305f5fc1c27551834d23214f92f4a828b4a88b2c10ca78834853b696a3  test090401/optimization_trace.csv
+b46c5f6584403d2a6fafb7ab0f10e47832a017d4ef2b31abee67e6832a990301  test090401/paired_method_comparison.csv
+9f94f71dd7dd4cdeacb91872422d1497647051cdb2e68c192738b234f1fc2a49  test090401/prediction_metrics.csv
+98dae0f93bc9e3065e48e33d84a31b2dbdb6a4fb130ad9b9775ea36dd541e4eb  test090401/prediction_metrics_per_sample.csv
+578bc9c6270dade29fa0a0521916351028d276950a64f3db9d80b9be65bdc632  test090401/preview_pages/page-1.png
+57ced675cc52265d902b8002be74a79ce0c55c5602bab259b60250e2332d474a  test090401/preview_pages/page-2.png
+6c25bbd3771f4e843129a8d045328538229a75be774f3f07c183422a8f3f1a0d  test090401/preview_pages/page-3.png
+7a7597835fab10ea11a5766cea5d3c1995b2f8971728ad5385c4295366ec4833  test090401/previous_operation_log_snapshot.csv
+1e783a60cb6ddd110cd6f3c3cddff6915e0cde11c548081e75b09609f89d8284  test090401/previous_optimization_trace_snapshot.csv
+bcb1f17acf1a329c83e106973e238ae47b299a7418e46e3e3dbaebefa897ffe9  test090401/run_fixed_three_step_experiment.py
+ebe1367bec954c97912b6a3929d85883023bf35973b6b4a07f0e031e73377a57  test090401/run_progressive_full_parameter_l3cr.py
+bae5c11b8494a5fec75e75ab7ebb030054df12691470a8652850a2ce6684a7f3  test090401/run_summary.csv
+41c59be70c48acaad05ba6fbe1ade57a180f572955096fdfb3908348b4867272  test090401/runs/P5/seed_11/AdamW_0/events.jsonl
+4a1cf29aae446331ea0f23255c85f3f872a9a7f3c093bacc686a8e13c2b2dd1c  test090401/runs/P5/seed_11/AdamW_0/state.pt
+b84ffeae68dcaab39fb5547c7ab6c17419c06d8e7562bc4f3a679fdbe0c682fe  test090401/runs/P5/seed_11/AdamW_0/summary.json
+91bda5cdb795d9a01ec5623886b5624a9a3db9b3fb4efe6ea66f50f30ffebdb1  test090401/runs/P5/seed_11/AdamW_0/validation_best.pt
+6a55800154a61db6381fed6afe7fc59bf4d778a1363993c0f3d3486908ac6f31  test090401/runs/P5/seed_11/L_BFGS/events.jsonl
+999256be1fa1131ed57aee0db7be19a9529cb3a4a2efe7081f2127acd93dedab  test090401/runs/P5/seed_11/L_BFGS/state.pt
+2a000b26eeef69eb5f88fc584c4702cafa2a4aa87db07241ae4f17c7165c2322  test090401/runs/P5/seed_11/L_BFGS/summary.json
+46a37d93f99552bb41a4191c0c27a81cf54593bab27430e4346bda8ad79ff485  test090401/runs/P5/seed_11/L_BFGS/validation_best.pt
+bb70e04faf0792a47dafd62fae5063f6407f946f5718b238c2a8d4f1e6ca5b51  test090401/runs/P5/seed_11/MF_L3CR/events.jsonl
+e527589cc700a6f8de88a46e8bd0bd86821d661203318dbee8f5da9cec4dc2a3  test090401/runs/P5/seed_11/MF_L3CR/state.pt
+4ebb35dd7de9a6319e8090d36711a0ae303b0bcdd98eeb11b4d1fb84691a98fe  test090401/runs/P5/seed_11/MF_L3CR/summary.json
+72c8e5af161add4a94d1b1fbb4be05746c5b697ec5e38613d58042ff00866fac  test090401/runs/P5/seed_11/MF_L3CR/validation_best.pt
+657007e06a0e22716666eed7cfa2b759ac33b0e9a646010d81e33b3b9e5a1d20  test090401/runs/P5/seed_11/Resumed_AdamW/events.jsonl
+358787a68c843efbe7c83f04fe3915354d0287c9cea1cd91da0f8a0ffa4af56a  test090401/runs/P5/seed_11/Resumed_AdamW/state.pt
+b42fece1846d714c82460ce40d332efd44d1504e39dafe1bfa0d8225a5de1c01  test090401/runs/P5/seed_11/Resumed_AdamW/summary.json
+0674a412f289b9b7e733c3a7fa29d228a46aa7c6c6e4b7605cd86f1453558935  test090401/runs/P5/seed_11/Resumed_AdamW/validation_best.pt
+af402ec9f5f32daf0172bba030a675aa5647467109c3de111f54f734966c8ed1  test090401/runs/P5/seed_23/AdamW_0/events.jsonl
+23b1d100dd14814266f14856867c5e26ef2ebb2af3841b969055362c8eba60f4  test090401/runs/P5/seed_23/AdamW_0/state.pt
+be5b5f5e6b8a78cdadaf52ebefe5cabba6ecc8601f078765f72136adf8ba13d7  test090401/runs/P5/seed_23/AdamW_0/summary.json
+ae3e60dfe96afdbfe5e9a62e0f63e12cd22b646964fd0e2230ea40cdfcdf75f5  test090401/runs/P5/seed_23/AdamW_0/validation_best.pt
+a4d584260f1b6dea531fdab6941e17b05efafb644d38a72458c050d3eae0ee6d  test090401/runs/P5/seed_23/L_BFGS/events.jsonl
+f7ec70d39b42443e7240aac20503809aebea64fed38f4a673b505489de8dcf2e  test090401/runs/P5/seed_23/L_BFGS/state.pt
+3f536d398371df8ca318b990219027917198d6cfb9b9907061a40efd3fb27995  test090401/runs/P5/seed_23/L_BFGS/summary.json
+7244cc9f8bc286c7419e0f66d34f58a1207423a948588bea8ca6fd76f5f6e42c  test090401/runs/P5/seed_23/L_BFGS/validation_best.pt
+caee5ac3ef1d37d3349ca8682f98f936910841aea8c602bc2ddf6ffdbf84502c  test090401/runs/P5/seed_23/MF_L3CR/events.jsonl
+6847c600e1c753dcedf24499fea4159e05f494470ff0a6da224d76c59b5f17af  test090401/runs/P5/seed_23/MF_L3CR/state.pt
+05ee6ed4cc15d863ac5eff7c7fed31b825ff7fdb7a239b88be63708a143043f6  test090401/runs/P5/seed_23/MF_L3CR/summary.json
+2dcff80abf9dcb5690d57703649cd4d7297b8c02a00f02a31bd447c717112196  test090401/runs/P5/seed_23/MF_L3CR/validation_best.pt
+8eaeaff0605784c2d9b03070311a15d3784ae3b41fe251667f8db26528107c2d  test090401/runs/P5/seed_23/Resumed_AdamW/events.jsonl
+560a49a63042b271a57bb609dbd0ed1f17090f6d94d2c63091a2290c2c25b1e0  test090401/runs/P5/seed_23/Resumed_AdamW/state.pt
+9ac4dbbbb156527ffc833d45bcacb55752750fe0e3c45e01a8d234384d2e461d  test090401/runs/P5/seed_23/Resumed_AdamW/summary.json
+4169e3e06b6f0828a893d8dcd7554c2f999c6f8edfd34feea29c0a9556122a3c  test090401/runs/P5/seed_23/Resumed_AdamW/validation_best.pt
+ec94185d089fd5dfcf81469bea0f99a8f4a20f6e3482af7fd372c4d8220aa793  test090401/runs/P5/seed_37/AdamW_0/events.jsonl
+ef6f5f1a0d6263315355079fe79ae9843e44d5906d207a5c64bb8c48c3f81cd2  test090401/runs/P5/seed_37/AdamW_0/state.pt
+ed645cecea1d47ee628112c44c122f0d2c33afc3acdef75999fe408d643ed9c7  test090401/runs/P5/seed_37/AdamW_0/summary.json
+0f71ad8509e968dd24ef24b1098680dbeafa9e57429c25adb85302f0a56edd1e  test090401/runs/P5/seed_37/AdamW_0/validation_best.pt
+4de971fa4b6ac74984decfb200c6364945ed72b12f15f997e15a83adb35285c8  test090401/runs/P5/seed_37/L_BFGS/events.jsonl
+ca1ca54df0c42b633e2f352eb1c1c3f2b9011b8abdb08e7fca3deec298891a15  test090401/runs/P5/seed_37/L_BFGS/state.pt
+c92407fda9962645e43d5a0863e2b4c394b1c9fcfd01082d113c660511edabd5  test090401/runs/P5/seed_37/L_BFGS/summary.json
+55b0deded88b828af0a3171af07619590029e8166420ca168fa481c03c63135d  test090401/runs/P5/seed_37/L_BFGS/validation_best.pt
+48341761fb4831d8051a55002be3a8315ea18ae74ec637cf6dd9452f6a78aef3  test090401/runs/P5/seed_37/MF_L3CR/events.jsonl
+ebf3b97e86d4290ae4fb96884523c77ecc54f24b38b9abe136ded6377557878f  test090401/runs/P5/seed_37/MF_L3CR/state.pt
+651d5d9ffc692e8ebeeaa78a88bcb8a7ddce18e3443bf07ed182b4ce1c1fbd16  test090401/runs/P5/seed_37/MF_L3CR/summary.json
+fdc51fb5bb8bfde001f2ba3ff2e36e77c91f95bde12395ad1116a6ccb127a385  test090401/runs/P5/seed_37/MF_L3CR/validation_best.pt
+f1bbeb27b31092445179fe202aa45ce591ec3e4d30975361cca02570281518e5  test090401/runs/P5/seed_37/Resumed_AdamW/events.jsonl
+fdef0b6e2adc9d70ba1aaa459ca724b761618f2668e8cb592cfa0320263166fe  test090401/runs/P5/seed_37/Resumed_AdamW/state.pt
+1acb2733f0a937c0a300e818737a88f345a4fea194f35cab16fb23665148b146  test090401/runs/P5/seed_37/Resumed_AdamW/summary.json
+8e8adb87ca0081007b9b6c89ea5e8d0e6ecbd41bcb6cb6eaee60e107b684c991  test090401/runs/P5/seed_37/Resumed_AdamW/validation_best.pt
+72603a8cff645495b008cdaa672048f49bf5b93ad96d515709d7704e3fce0534  test090401/runs/P5/seed_51/AdamW_0/events.jsonl
+e03abc8dd66bee97265a606c507cfc492f741f70df553c3c57ca345cbef2a3a4  test090401/runs/P5/seed_51/AdamW_0/state.pt
+ebc20be6152dddcc845911b877bc2ccbca6b88289f1f96a4fff2464da1d1f9e6  test090401/runs/P5/seed_51/AdamW_0/summary.json
+3409ec879501cb72f4cb7462995eb079af0b3f75e87a7fcb498b57f6e64fdf35  test090401/runs/P5/seed_51/AdamW_0/validation_best.pt
+ccffade96879fbc5f66ae5f90b562231f465bfddba60cb25abcb32083ee7afee  test090401/runs/P5/seed_51/L_BFGS/events.jsonl
+3b73fa14d5ef627758d33d22475c9856a428161e66f7c16a646f7508af11b8b0  test090401/runs/P5/seed_51/L_BFGS/state.pt
+81b1dfd0625e36f57dd5a222de694e150ee0be268401bc2a1e1dd6360509d577  test090401/runs/P5/seed_51/L_BFGS/summary.json
+3ec7907355d459010e8e3b7c764faf249377ecffd87e8558521c96adcc55daaa  test090401/runs/P5/seed_51/L_BFGS/validation_best.pt
+480326d9e201d42087d89ea3ed447bbd6d7d480a0c0a075000d96ce652b78808  test090401/runs/P5/seed_51/MF_L3CR/events.jsonl
+cda7e709946231227df6592f86a427fa4a160a69e73f51bf03ae428c23a395b9  test090401/runs/P5/seed_51/MF_L3CR/state.pt
+d0e0897c70da33ca8f5925db81a73543a017e61727b3678de50295ecc8a89085  test090401/runs/P5/seed_51/MF_L3CR/summary.json
+622b5c7a08ea703c9f38def15eb2ff3092dbc9ddcc8b7c2b5fdd6b604f01f59b  test090401/runs/P5/seed_51/MF_L3CR/validation_best.pt
+043660d1feec8124b3f1147156f66e6f52e40a1b34b390f6b7757cd6742221cb  test090401/runs/P5/seed_51/Resumed_AdamW/events.jsonl
+1bd3affbdd55dae37e8258b185a56c7c854ccf26b216767fedddbea3ff67a9ed  test090401/runs/P5/seed_51/Resumed_AdamW/state.pt
+6af743bdc8f2edc5f77e8b362bcd0eaa527b6190868f8d88bf74f046a83a58f1  test090401/runs/P5/seed_51/Resumed_AdamW/summary.json
+e9745b938b087cdf284f09e76f89e320b41b91df5ccfee3a9806176f05731439  test090401/runs/P5/seed_51/Resumed_AdamW/validation_best.pt
+8ad8437d9bc2923391ee915dac5311cb2869499cba4b8c6b88f23771b06a968b  test090401/runs/P5/seed_73/AdamW_0/events.jsonl
+ee61af86fd8642fb012178993adf69061bb9b3d40a0ba26544ead1a95d13be3f  test090401/runs/P5/seed_73/AdamW_0/state.pt
+5f83be70f42398f66074c2b19306bfc420af3609c0146ec7a96b90de101d4d92  test090401/runs/P5/seed_73/AdamW_0/summary.json
+ce06f316988254f103f6cbdef37ea5276e31578076c58fdb44fbeaeee69f1117  test090401/runs/P5/seed_73/AdamW_0/validation_best.pt
+917a19f42a5eec0a1e4283113d68fef05f266981814b5d1a60831cf526586b23  test090401/runs/P5/seed_73/L_BFGS/events.jsonl
+ec86896064ce5596f90e8c707cff60d8105c8225b0f965f1383a1bbfba30ce2b  test090401/runs/P5/seed_73/L_BFGS/state.pt
+71c45ada265bfff3c4e32e1b4b85e74e95dd93e83156ede81083bab9ab4387fd  test090401/runs/P5/seed_73/L_BFGS/summary.json
+30207e7b544034b9a994eda24652d1553cbfad1cf6d4c972d42b36fc3216408f  test090401/runs/P5/seed_73/L_BFGS/validation_best.pt
+1dddd0eb6988c513e781da0ed795f4961c9e3431bce1e7f3a2a8ff26b4d352a7  test090401/runs/P5/seed_73/MF_L3CR/events.jsonl
+627b12d912adc9e32a00ec9d3796589a77bc291a3cb893c43bf5c67e08a2962b  test090401/runs/P5/seed_73/MF_L3CR/state.pt
+04c79c3abf467ea87a164c2385f778f323b3d96af08a12d1267ab7d9dee73f87  test090401/runs/P5/seed_73/MF_L3CR/summary.json
+fde1cdb3a6505211d6f969475163d00901dfd3ab0ddc8d943f96995ecd9fb15a  test090401/runs/P5/seed_73/MF_L3CR/validation_best.pt
+e8d7276500ec891dddfd4cee697dc96cf4f98518299fd862f70b851519113233  test090401/runs/P5/seed_73/Resumed_AdamW/events.jsonl
+05d7e86efcbe994d9fbd0c2837de8b64645839fb1c0346ac129993ca6075b7f9  test090401/runs/P5/seed_73/Resumed_AdamW/state.pt
+7ee1d51b5103ab40721a1465263d62d29a5dc0b7da8ce46cf9874955bcd381ea  test090401/runs/P5/seed_73/Resumed_AdamW/summary.json
+0996bde5dedf241e3a88e52eca0d5fcc218b11abdcd9dbc73747643f6c83de16  test090401/runs/P5/seed_73/Resumed_AdamW/validation_best.pt
+72958c89b1b34363bf0bb32242fd7d443d1484516bf218c7a1244d875dd85c8d  test090401/runs/P6/seed_11/AdamW_0/events.jsonl
+ed773f38b9a9095f2fb564f721ee38785326a39032498d170221bb2229f2ce52  test090401/runs/P6/seed_11/AdamW_0/state.pt
+d466bc2aada3c834399e74e5483681a1f2a5fbd1d44278fdf587173ab602c8c7  test090401/runs/P6/seed_11/AdamW_0/summary.json
+c405c61e602939efc5da261b855ba379e07f24677e623b14f659b3846eef5352  test090401/runs/P6/seed_11/AdamW_0/validation_best.pt
+ed25c2a1aca6dba7fd8f776c0aef13b3c106efc7f5453aebb47fa107af0dd757  test090401/runs/P6/seed_11/L_BFGS/events.jsonl
+9bb6f31bcb2ff1a17cff4f0987032383a92eb6c728550708be676cb6875bb28d  test090401/runs/P6/seed_11/L_BFGS/state.pt
+61f9c0f4799cd3126d22625a6c08c0cef5c2692732b9cffd6fb0b23c320abbcb  test090401/runs/P6/seed_11/L_BFGS/summary.json
+0cc1299fb46dc3705a4e3496f3a30e3b5f2ff4680d3aacef4a1c7f8b0f83f646  test090401/runs/P6/seed_11/L_BFGS/validation_best.pt
+124acbfe54a0ac509b9e94fbc082b6af877a84ad446a7dd70b9b685fa4074a25  test090401/runs/P6/seed_11/MF_L3CR/events.jsonl
+7dca0ece1eabd6dcde28ab82f0a44740ea664e8aba01c5247a1723270b7b934f  test090401/runs/P6/seed_11/MF_L3CR/state.pt
+7134252025d4eb4c457519974fa373d9e1f1c0393bb60540ff30f536741ea952  test090401/runs/P6/seed_11/MF_L3CR/summary.json
+637145251145146a3b0e3f4a265369f01068ebf9b647502a9c61b88500966643  test090401/runs/P6/seed_11/MF_L3CR/validation_best.pt
+795b4e14f5b7700ade6169639947132157c39bc64761ba9e35a4f38e96fd0eae  test090401/runs/P6/seed_11/Resumed_AdamW/events.jsonl
+6e72614e1a1f9d8564d956daa23ac7186a9f2947bb6538494b79929636d7e2c9  test090401/runs/P6/seed_11/Resumed_AdamW/state.pt
+37faf9a4329657b1029877da3f43c6bb3a49efcb55910fe069785ffa7c13ae7b  test090401/runs/P6/seed_11/Resumed_AdamW/summary.json
+c6fc49cc236cc7acb568561ccb126cb7ca74b72bc27f980d8f841c1e813fe302  test090401/runs/P6/seed_11/Resumed_AdamW/validation_best.pt
+e23002991c27ca686658660a871be2a858e39b03f32a33414c14ed52d29cbf05  test090401/runs/P6/seed_23/AdamW_0/events.jsonl
+1a96ee2ea58557025daa35ad4f23ed4387cccf8fe3ecf64375c1a35418f18ad7  test090401/runs/P6/seed_23/AdamW_0/state.pt
+5139b0e4656c02577262289433e8391377e1f929218c24575348fe9f8f701963  test090401/runs/P6/seed_23/AdamW_0/summary.json
+12a32117196064052635df04584b04b89486c2c60359cf51aa9df3cfd989313f  test090401/runs/P6/seed_23/AdamW_0/validation_best.pt
+ed109061d90fc73c0023e80ce5d4a9c14deaefce4556146d64979009d4e1a951  test090401/runs/P6/seed_23/L_BFGS/events.jsonl
+1da99fe453f09a44b3b7747da3637d04e90999abc59e2722c0d4094fc96f66bc  test090401/runs/P6/seed_23/L_BFGS/state.pt
+ebd08adf648cdd10cd692f6fc00a6fe84ca780037c6b946fff95720c0bd112cc  test090401/runs/P6/seed_23/L_BFGS/summary.json
+86f4d6f4169de0f80ba1ad96dd0220450f517225de1e2ddd43aa6b44ab12da68  test090401/runs/P6/seed_23/L_BFGS/validation_best.pt
+95403c0a61f21662ed928e0f29630e0619172fc7c762a0cc628aebcc302fc6e5  test090401/runs/P6/seed_23/MF_L3CR/events.jsonl
+d3684b5f06f81512d888557638098b92b4e9dd300c07f444b154a7f3404f5e4e  test090401/runs/P6/seed_23/MF_L3CR/state.pt
+19873add95083b91c9a895ef98e3094851f1844cbd6ea8af922de27348a9d33c  test090401/runs/P6/seed_23/MF_L3CR/summary.json
+8d68e3735f0bb489813176cb53702b6af8a9bc6ea94ac621b2426fc2e25a1971  test090401/runs/P6/seed_23/MF_L3CR/validation_best.pt
+38f72cd783050f5be57231bbbb4ce08962098989c4e673bbcd051a650223ac83  test090401/runs/P6/seed_23/Resumed_AdamW/events.jsonl
+51b1969dfbc458f9bc4c89aa2f1c0c96778fb0e5a12a9f711c66bf7b10a031cd  test090401/runs/P6/seed_23/Resumed_AdamW/state.pt
+193bfd9eb37eb57865573cc4529641e6c797f4c6350439f586fb37bfb6bdff77  test090401/runs/P6/seed_23/Resumed_AdamW/summary.json
+e0016a591c0343758e6a45cb189b197f2a05302a66885b281ee511fd85f6b890  test090401/runs/P6/seed_23/Resumed_AdamW/validation_best.pt
+5097f7ad7e803d111889e67f8ad8f9c9377b7dab675bcfaaf466674b699bb0a8  test090401/runs/P6/seed_37/AdamW_0/events.jsonl
+ab354d4402823f2f962723bf40190af0c93b83d10dc28492deb5dabd09b0c5ca  test090401/runs/P6/seed_37/AdamW_0/state.pt
+1c788f6b116d9cac54229e906e3b67a017b2d1093355c3567cd08d4d68f9e0bb  test090401/runs/P6/seed_37/AdamW_0/summary.json
+d6c28e75efd39a2e7aec7b296a85ed3e415a9b2b3feca77bfc5115e82b8260b2  test090401/runs/P6/seed_37/AdamW_0/validation_best.pt
+1056193b4c3559766debbfc73e473b596e12f988f1ed32c45707e5077c14218a  test090401/runs/P6/seed_37/L_BFGS/events.jsonl
+845f12a3cb15df732cbc3398c560b049bc22e8b06f8f5e840bcfd67302cf22a3  test090401/runs/P6/seed_37/L_BFGS/state.pt
+2c34c7bfd5bd9b580623c00fee589e93d03d04b18f2aa6386bc54f35653dab70  test090401/runs/P6/seed_37/L_BFGS/summary.json
+1a42919f833d333bdaa46997355fae47cb2e82de1e30cd5cdd3e1eeaf9281403  test090401/runs/P6/seed_37/L_BFGS/validation_best.pt
+0923482d21ce5a098c221c137c251342ab3e693e6439a6bcea1de86e43e42bc4  test090401/runs/P6/seed_37/MF_L3CR/events.jsonl
+6c58af04edc9ae77815822f953b125d4dc098e92aa9122afea7ecac67f4b30f6  test090401/runs/P6/seed_37/MF_L3CR/state.pt
+5266c1bf22daf7d434a1af91747256ec762766f9332d197a7aed3e92e947a3bd  test090401/runs/P6/seed_37/MF_L3CR/summary.json
+0c84e40bf7aeb6a88478d273bd4917bac46c5a5a9c7ac194a4f419f76c1586e5  test090401/runs/P6/seed_37/MF_L3CR/validation_best.pt
+b4db4507a0d6e991ec0bafb06dbb29ec18b4c352fa5d4da18c2c15aaf1be2974  test090401/runs/P6/seed_37/Resumed_AdamW/events.jsonl
+9bc2ccef0abcfc0b3452cbc54a773297aab9b0232ee25d49ca41124d8a1407ad  test090401/runs/P6/seed_37/Resumed_AdamW/state.pt
+d31f2019b703a545446eceaf04bc59a3d1683fa00bb49428d792a01f901c1e7a  test090401/runs/P6/seed_37/Resumed_AdamW/summary.json
+6c5d7a14f8c7a1680f86d6519614bd01702c2b2ad103c1775afb182547488ab3  test090401/runs/P6/seed_37/Resumed_AdamW/validation_best.pt
+26d98fd28e02feda6652f873fd0d8176939132b93a38a9a8e7d1b23f3a041f74  test090401/runs/P6/seed_51/AdamW_0/events.jsonl
+d2f39c244962e3c1cbdaf361349384ba6a8a0cbc8869cd64b67c70c9c08528aa  test090401/runs/P6/seed_51/AdamW_0/state.pt
+08a740096d8afe44042fbdfedf5d5f9272850431b488eec939a9fd3ea3494d31  test090401/runs/P6/seed_51/AdamW_0/summary.json
+2826cffed92825398887a41cf1a65ac173890454c8c03def524a1e2f61c20920  test090401/runs/P6/seed_51/AdamW_0/validation_best.pt
+346baa063d2a544aa358b71960dfa8c454127b533a67d6f214c000e3d7a7839c  test090401/runs/P6/seed_51/L_BFGS/events.jsonl
+4b29ad218f349767408d544229b141e45d260a1a309f1d8757b2c27e9bfd5420  test090401/runs/P6/seed_51/L_BFGS/state.pt
+ffabfb18f594b72602d367668db0b48b0a8d5d722091bab3bde06352e8329d4e  test090401/runs/P6/seed_51/L_BFGS/summary.json
+2e24eef3f275dcaef3ed34a2b6ba78a7b81618d9dcf21569e8a96f91ea7ec945  test090401/runs/P6/seed_51/L_BFGS/validation_best.pt
+569a0c0d554d1f0431e23b524377e3f36d820e3d485bc74aedc32edd07d9a4ef  test090401/runs/P6/seed_51/MF_L3CR/events.jsonl
+cdb3bd17e81216ea26e4315968d57ea661cbd4084352b41497a4067b2400f7a4  test090401/runs/P6/seed_51/MF_L3CR/state.pt
+b59399347ec16ab4a11e8899050e112ebf1cbfd91e0c6b1bd73a0ea2dfe895f0  test090401/runs/P6/seed_51/MF_L3CR/summary.json
+96977af04b94fefde14ae58295bfbff1338b1a1523273b4f4656e7b68ba015a2  test090401/runs/P6/seed_51/MF_L3CR/validation_best.pt
+3b6c6e90ae3e95ce3679b6441b5678f8c5a4e291109310c3a8fbab3a0685fef9  test090401/runs/P6/seed_51/Resumed_AdamW/events.jsonl
+4e6964a41cf8980886bfaa17063869d2869bff49cc6118daef556ccc3fa933b7  test090401/runs/P6/seed_51/Resumed_AdamW/state.pt
+b07b153321d42d340b304dcec11204d5f85d70f7e564d8637dfc7758ca2d7ce9  test090401/runs/P6/seed_51/Resumed_AdamW/summary.json
+054b8d18b4fa6800896d14b7890ae56142321fe4df17102b6f71700f02e76ebc  test090401/runs/P6/seed_51/Resumed_AdamW/validation_best.pt
+5570968daf6e30bc2d6f8a9270d60cebeb91e0d0fc17901e0fc727834d4a5f7d  test090401/runs/P6/seed_73/AdamW_0/events.jsonl
+d3de3d30e90c9e47ae64a300d814a86e1a2ecd53df1f46238caacae23eb430db  test090401/runs/P6/seed_73/AdamW_0/state.pt
+b5357011a8e9008fe1dace4c695ec759f853610ec29350cb5b955a41ef3865ef  test090401/runs/P6/seed_73/AdamW_0/summary.json
+767a737ff00e7b1ca10be0daed0e5c3eef52c629a4d769c4eeee65ecc1ab7f6a  test090401/runs/P6/seed_73/AdamW_0/validation_best.pt
+8b13b7e12bb1df2e8934bb36ff308c086a4544ded6fa7d08113bc21e89ecac44  test090401/runs/P6/seed_73/L_BFGS/events.jsonl
+80b31f6a1aa31026a7f8ef0ad7ba2f7716df03d104cea43c14914e78f80ae0bc  test090401/runs/P6/seed_73/L_BFGS/state.pt
+906be6832391d79ba0dba3395545570055e2eca97cd3e1c16959e3dd0415d2d2  test090401/runs/P6/seed_73/L_BFGS/summary.json
+18c163b90131f038165c19b4c69ee89ba92ea4b06199fcca944714fdfcc881be  test090401/runs/P6/seed_73/L_BFGS/validation_best.pt
+453cccc67f75a62e43664b08bc421739604b004ec06556a1d46cdfc4ba512f21  test090401/runs/P6/seed_73/MF_L3CR/events.jsonl
+25cb3996f53a0e7594438fae013def436adad89b570f5da85122896bd064b800  test090401/runs/P6/seed_73/MF_L3CR/state.pt
+ec633133435f0c6dd85e622885c486c9651c2fd0c64a9e45d977ecfd747236be  test090401/runs/P6/seed_73/MF_L3CR/summary.json
+a01640838d7298795dacd93fd9fb47f42c98ff61ef921719da29482c743eb430  test090401/runs/P6/seed_73/MF_L3CR/validation_best.pt
+c703a9ddef540a11dab69052de69c62ce6c8c7cfe4cc58bba329956c355f5f44  test090401/runs/P6/seed_73/Resumed_AdamW/events.jsonl
+9ce1df0d8b534ea522c3378ee3b0231ab67e8449ed2fb9dc59f19f91f073288d  test090401/runs/P6/seed_73/Resumed_AdamW/state.pt
+7434561a4db688251374ab97889304f7e2208c5731a8a3bd42a566b63974e3e5  test090401/runs/P6/seed_73/Resumed_AdamW/summary.json
+17431f4a4b18bc966b313f2a2e970d20a36b3abe33d59e9cb2a6023547c688b8  test090401/runs/P6/seed_73/Resumed_AdamW/validation_best.pt
+25cf052188f43b8165660e2a61673d85a7f76d96060d25e5a82f66ca11e4ac99  test090401/validate_fixed_three_step_outputs.py
+ae6c53142c8a75a2b81ecee4ce633bf5185bf9f8c676f62da7b4ca350e78ce9d  test090401/validation_results.csv
+bc4a4ff8756ababe7da570d58885e7ecbf46edf248e35f13d4e47f34ca2c8521  verify_package.py
+abe1e3990293fd56cdbc568eb417d166ca80cf65e6ebb96095001ca41728f3ef  write_manifest.py

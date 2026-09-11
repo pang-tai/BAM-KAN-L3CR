@@ -1,0 +1,4 @@
+threshold,L3CR_within_500,L3CR_median_equivalents,AdamW_0_within_500,AdamW_0_median_equivalents,AdamW_within_500,AdamW_median_equivalents,L_BFGS_within_500,L_BFGS_median_equivalents
+1e-06,5,45.0,4,205.0,4,205.0,5,174.0
+1e-08,5,67.0,4,293.0,0,1772.0,0,682.0
+1e-10,5,67.0,3,383.0,0,-1.0,0,-1.0

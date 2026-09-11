@@ -1,0 +1,20 @@
+{
+  "seeds": [
+    11,
+    23,
+    37
+  ],
+  "epochs": 48,
+  "batch_size": 8,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "eta_min_ratio": 0.05,
+  "patience": 14,
+  "grad_clip": 5.0,
+  "target_parameters": 90000,
+  "parameter_tolerance": 0.05,
+  "kan_grid_size": 5,
+  "kan_downsample": 4,
+  "bootstrap_repetitions": 20000,
+  "device": "auto"
+}

@@ -1,0 +1,2 @@
+seed,outer_steps,accepted_steps,min_actual_decrease,total_actual_decrease,max_outer_backtracks,max_final_step_norm,finite_descent_certificate
+11,1,1.0,0.003606341779232025,0.003606341779232025,0,0.002,True

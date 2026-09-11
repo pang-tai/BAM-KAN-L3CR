@@ -1,0 +1,303 @@
+relative_path,top_level,suffix,size_bytes,sha256
+files.txt,files.txt,.txt,1953,63f85c47e86871d9bfea43d3036e4ed61f0d69b011825d6f415743e0a6586430
+new_data_2d_without_areas.npy,new_data_2d_without_areas.npy,.npy,327808,01bb701bf0b708fde6b0513c21d9fd7e78cf0062e275c75f4c91c5657f107866
+test/(Ren 2025.3.19)-(Slab 1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0.226%)-new.xlsx,test,.xlsx,168133,ee6f52b2b1cf8dceee3d8fe1d5e81c11565bc773ea88f0f6324af5cd327c19a6
+test/(Ren 2025.3.19)-(Slab 2-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0.308%).xlsx,test,.xlsx,262370,8f972353e7f728798d2974981c0c643fe3b7ac0975f9d6a731bcc8a4f5766d15
+test/(Ren 2025.3.19)-(Slab 3-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0%)-new.xlsx,test,.xlsx,101669,153b00e9472247ddb395d72405248857d03cdf64f8de07092c384f193d027d24
+test/(Ren 2025.3.19)-(Slab 5-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1℃)-(Ratio=0.209%).xlsx,test,.xlsx,214679,13cae6a7bc39dd5eae2f62ce69a54520a4e23b774d21db778987f119692a02c9
+test/(Ren 2025.3.19)-(Slab 5-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1℃)-(Ratio=0.209%).xlsx,test,.xlsx,213180,0d767060c69bb99fbc7d219c531f19efd07e69b9908fe630d44712716792c0eb
+test/(Ren 2025.3.19)-(Slab 5-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1℃)-(Ratio=0%).xlsx,test,.xlsx,151537,7eac8d4100154c58825bbdbc1defa0d4ffe429d8b8662357858119009c7a46b9
+test/(Ren 2025.3.19)-(Slab 8-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.452%)-new.xlsx,test,.xlsx,193205,e62bd3c5f2a9b2518e5149a32af991aaa61f48b5fede04cbdccf343d26215f6b
+test/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -n17 r=0.785_).xlsx,test,.xlsx,508371,5a903ce20ba5033a8a4b716f9b3d21e972d68bbaab3c2fcf0e0ff7e8ceca044a
+test/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-4 -n29 r=1.227_).xlsx,test,.xlsx,542064,3cd8f7e40f8268ade901e67acf281784540d4d9bf0bcfd15db1014e968b4a394
+test/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-5 -n25 r=0.76_).xlsx,test,.xlsx,367408,9c328a30042c334cd27a9612ffc040bedea5273cdcdc964830a8e5d1e2e0f593
+test/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -n17 r=0.503_).xlsx,test,.xlsx,409026,78b757797180ac9b2350e8d23ac152d38e147b34d9e76c3058e78f0f460a0280
+test/2024.09.06 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -n28 r=1.227_).xlsx,test,.xlsx,557644,4ae32005d552e3fe2f33d72f424d29006d18a92dbc985c853c93323038ede63e
+test/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-16 -t29.5 r=0.97).xlsx,test,.xlsx,1769179,26c764353127d83d2f66597312c8c234dec0fcdac395ddf626eaf3d57fb85100
+test/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-7 -t17 r=0.97).xlsx,test,.xlsx,1931659,4aab295ec0b134734aa40bb82e8a0b5093944bb89f3486829804b34f0613a205
+test/2024.11.18 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-5 -n14 r=1.61).xlsx,test,.xlsx,1432650,d2d5f29abb5d3782127ad88baf6f9c641786c2e85a9a8f8f8846e41f03261f9b
+test/Huang Zien 2025.04.21-(Slab 08-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0%)-new.xlsx,test,.xlsx,119783,9566e7eb08b0c2b711bad4fbe6925a517efb95c5e07eec9d94d41dc1d2bfbfcc
+test/Huang Zien-(Slab 06-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%)-new.xlsx,test,.xlsx,151159,d83cc856d0081aa75096549ebaebb432ac81337ff590dc7be3337a1ed6465c1f
+test/Mou Nan 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0).xlsx,test,.xlsx,309375,d635d6616be49996c07b444f18d3b2d2f2542ed7da97abdeaafed16051ecf8f9
+test/Mou Nan 2025.3.19-(Slab 7-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0%)-new.xlsx,test,.xlsx,146818,fec4616295006428ce70ad60c3b56d670583d49fee1c93ed08cb48e1e93f9c84
+test/Mou Nan 2025.5.26-(Slab 5-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%)new.xlsx,test,.xlsx,167029,cffc4e7a1e311c4a783d667ee8e1d6115ee3690f65e1972c0eaded0284ed9895
+test/Mou Nan 2025.7.1-(Slab 2-area1only-Model-3-norebarl)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0%)-new.xlsx,test,.xlsx,130751,2811caa5ee44d4842a0004386fb897dc73f0fca6071810f9a28a8ee32fe49f57
+test/Mou Nan 2025.9.18-(Slab 10-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%)-new.xlsx,test,.xlsx,1892644,d648a113f89c3409ea632faf20a0756a79c5ea0f79fcaceabb5d0ad14535c8fa
+test/Ren 2025.3.19-(Slab 4-1-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.23%)-new.xlsx,test,.xlsx,127909,8f9fa3800da53047a096a4c55d0f189685c46b32279b018cb08c7865b83bc62a
+test/Ren Yuhang 2025.3.19-(Slab 7-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%)-new.xlsx,test,.xlsx,136158,4e77e5474f7168c10e6987fce10f5cc4c827f045136fee631622b1b957dfdb63
+test/Ren Yuhang 2025.3.19-(Slab 8-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n23.7)-(Ratio=0.452).xlsx,test,.xlsx,1439535,848afecac7976b9a99a74ee3611848d38f2156d207d2dfb800aeaf271c08680a
+test/Ren Yuhang-(Slab 9-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%).xlsx,test,.xlsx,1369558,e9c07895cf101be14bad2390b39dc41661838ea0ecae1a687c573cafd457cd8d
+test.npy,test.npy,.npy,32374912,936de9ec04a839fee7db114eec9c1c4307833870906d30448269834793f53fe9
+test_2d.npy,test_2d.npy,.npy,2982016,2b3f3f2190e90618e4ae97ab7de1ce772d4e4f8d700e08d01acba13242a7659a
+test_2d_without_areas.npy,test_2d_without_areas.npy,.npy,2293888,cb4af99827446c3cf7834f36609e533a084504f45978a21e5bce4bf1377e0788
+test_dense.npy,test_dense.npy,.npy,736,426bdaf58a509e72a4b6141f48abcb737e80cf470bf8a216e33e878f2447a04b
+test_parameters.npy,test_parameters.npy,.npy,32624,70316c95f5dd62b7800103a2b87fc96af4c5c5cdd6e1a00ed0c8241fbc881a69
+test_prompts.txt,test_prompts.txt,.txt,5537,41a5222c8ef13baa1c7656b2f0289c0990661baa9a3824bb31c3207517d38995
+train/(Ren 2025.3.19)-(Slab 1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0.226%).xlsx,train,.xlsx,262437,642c5a540aafdb82a42e407aea11b87f886662ba6a5f7944134ec5d4c15896fb
+train/(Ren 2025.3.19)-(Slab 1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0.226%).xlsx,train,.xlsx,269354,647ae6c5b4abe49b6226af1ff4c7fd4b650fc1c2a589e5794e8944517de54432
+train/(Ren 2025.3.19)-(Slab 1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n10.2℃)-(Ratio=0%).xlsx,train,.xlsx,155725,ae01efcaebd67eb45fefd66cfa60372b8ec81f5b2d0ec3575dfe8476e2b95f35
+train/(Ren 2025.3.19)-(Slab 11-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0%)-new.xlsx,train,.xlsx,103762,590bcde25e3365a73671ae24ddfa0eef1901992553083c32bb60fa306291d7af
+train/(Ren 2025.3.19)-(Slab 11-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0%).xlsx,train,.xlsx,157640,5daa4bdde850894617385e231c48bcf20b6ded2dc6bf87692b98d7c8f9c8c5f7
+train/(Ren 2025.3.19)-(Slab 12-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%)-new.xlsx,train,.xlsx,186191,b6dcbbd25231bc6d6baf164c659ca77e23f39fee0a5b87c3d23283ea9069a500
+train/(Ren 2025.3.19)-(Slab 12-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%).xlsx,train,.xlsx,273099,84a288904d153cb5241550b05adedebf74bec22dc9d06a11fdcd0fca83606bbe
+train/(Ren 2025.3.19)-(Slab 12-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%)-new.xlsx,train,.xlsx,185328,7392209b924abe7300ffe8c8b10416d2861abaa6b4329be3cb38b4852d0834b7
+train/(Ren 2025.3.19)-(Slab 12-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.302%).xlsx,train,.xlsx,278729,0061de0e8fd084f0485cc85d0e413eab06d0800b8d755d82b9a633075bf4f607
+train/(Ren 2025.3.19)-(Slab 12-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0%)-new.xlsx,train,.xlsx,104001,cd2a7aa4f7ad894d812c7fd4b0e4393b5aa94e4bce4b75acb895bb9d83a9a98c
+train/(Ren 2025.3.19)-(Slab 12-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0%).xlsx,train,.xlsx,157687,a33f4eef80cc70dfacd27a9b836478922d3f8604be7d2149fc6326631c90961d
+train/(Ren 2025.3.19)-(Slab 2-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0.308%)-new.xlsx,train,.xlsx,167935,8a1388b519f4f86688d2449e5106253e62d4a9e62e12091816a889e0847e235d
+train/(Ren 2025.3.19)-(Slab 2-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0.308%).xlsx,train,.xlsx,270265,b343e5fc524fdb4d8c11eb6242271441d3f46454b099831a7d0c999c04f0f09d
+train/(Ren 2025.3.19)-(Slab 2-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n11.7℃)-(Ratio=0%).xlsx,train,.xlsx,155790,f1e5cd560b7a76ca251c829d48672b9f4de057400ba8643bdddbd8b98b1d6fa9
+train/(Ren 2025.3.19)-(Slab 3-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,161734,67d3da972d4051556fc602bd0e8de49cc96c8abf674a90d482cf30a095a83cde
+train/(Ren 2025.3.19)-(Slab 3-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%).xlsx,train,.xlsx,262799,595cf5208f80b72f57bf7e1fa9c0bb50be54ed89f238607003ece7599f77d077
+train/(Ren 2025.3.19)-(Slab 3-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,167792,816c19e2337c9cf13936855a0a09a43c691e1610151915c6d299293ff54bf658
+train/(Ren 2025.3.19)-(Slab 3-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0.226%).xlsx,train,.xlsx,270070,caec02893be1b9eaa2480a84fa88e19f1a50aef58bc2a7a3bae22973ffe747a3
+train/(Ren 2025.3.19)-(Slab 3-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n13.2℃)-(Ratio=0%).xlsx,train,.xlsx,156331,536353953e7508cac80a824c1b1dc357cac7178a98abe6eb42eea4f04a310b7f
+train/(Ren 2025.3.19)-(Slab 4-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0.23%)-new.xlsx,train,.xlsx,105567,dfb67e961e277000fc1217d7ea0e908767203124e5b26e894f051f597ce1fe47
+train/(Ren 2025.3.19)-(Slab 4-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0.23%).xlsx,train,.xlsx,187354,e8b080272c315d1fa21f78a93b87bfb0d593d216b393b0dd4fb26be131dae5f1
+train/(Ren 2025.3.19)-(Slab 4-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0%)-new.xlsx,train,.xlsx,80237,fe96df3480f1dc095a54f086a809f2580f5d43ffd0f6e72fe87894c84aea2312
+train/(Ren 2025.3.19)-(Slab 4-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3℃)-(Ratio=0%).xlsx,train,.xlsx,141329,7dccfdf5b46112055ddaa9e6248cfbe0c655d4f6887b5fc8eebcf92d7607a0e3
+train/(Ren 2025.3.19)-(Slab 6-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%)-new.xlsx,train,.xlsx,129369,03829776c50f89105298d92d1c0702eab9ff434024e508bfdbfd4111cbd83952
+train/(Ren 2025.3.19)-(Slab 6-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%).xlsx,train,.xlsx,193059,e5321be6608d80aa2c4c2fb8ee0a610bbc181c8f6a14ed6a0541648edfb5a59d
+train/(Ren 2025.3.19)-(Slab 6-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%)-new.xlsx,train,.xlsx,117482,49f193664cd7445cdce1014e18ed47c9f21625bd38a52e7f240888507d484df7
+train/(Ren 2025.3.19)-(Slab 6-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0.157%).xlsx,train,.xlsx,187057,d43c5d3e974c37e20340d59e85c7b76a52ae233fa426aafd122d0d2eba393e1a
+train/(Ren 2025.3.19)-(Slab 6-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0%)-new.xlsx,train,.xlsx,94150,1843c51bc2a6b95d3ee98b4527bc1e1046c16385ec24a38663210ed17c06631c
+train/(Ren 2025.3.19)-(Slab 6-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5℃)-(Ratio=0%).xlsx,train,.xlsx,155037,69981131e8de9b68b3ff5fef3ede7f113122f3713539eed2f3ac332022243710
+train/(Ren 2025.3.19)-(Slab 7-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,123762,bda24ceacb7123ee313d17ca1fbc0c33a96f0bcc0ec6f8a69ad91095da610d26
+train/(Ren 2025.3.19)-(Slab 7-1-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%).xlsx,train,.xlsx,188143,08ba2c729d568b5828229e92c470851d122ba65754d4d6e1b9e60df116ebcd4c
+train/(Ren 2025.3.19)-(Slab 7-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,117106,565c42acd56302c108ca50e02f3d4ee3523980627c289644ff04349fc93f7d60
+train/(Ren 2025.3.19)-(Slab 7-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0.226%).xlsx,train,.xlsx,186975,010669cd7f0c20179758216763972425ccc9da3fa126febd16c962b518676eea
+train/(Ren 2025.3.19)-(Slab 7-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0%)-new.xlsx,train,.xlsx,90291,864597d33fe26d2ccf697efa77d90c532530d018bbef3b143059d27c68dbd422
+train/(Ren 2025.3.19)-(Slab 7-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7℃)-(Ratio=0%).xlsx,train,.xlsx,151705,1fb32cb570d94f86d895564683659702efba3230ae6560d6c579f129a36e94aa
+train/(Ren 2025.3.19)-(Slab 8-1-Model-1-original)(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.452%)-new.xlsx,train,.xlsx,209423,e75e78f1ef8598463f716a31f30d938964fbc5d4258fde17b116c870ca2108b7
+train/(Ren 2025.3.19)-(Slab 8-1-Model-1-original)(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.452%).xlsx,train,.xlsx,290612,1b8713701d506fb6085c41dd275a1c9a7870bdf4c8025e234cb7493dfd6d0eb0
+train/(Ren 2025.3.19)-(Slab 8-1-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.452%).xlsx,train,.xlsx,295775,41ec50d0991f4ad0825ea7d2f97aca3c7226583a8b4df37d0a28c4995ca2828e
+train/(Ren 2025.3.19)-(Slab 8-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%)-new.xlsx,train,.xlsx,90418,fa7ce4cabbdc00576bd05435604e1928cedb66f0aadebae9c5ced621321beb94
+train/(Ren 2025.3.19)-(Slab 8-1-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%).xlsx,train,.xlsx,149978,595917f0d9c0aa54ad05a8d18411ade21ed263cd842333c41610ed4687206ad5
+train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-1 -n5 r=0.52_).xlsx,train,.xlsx,678039,1fb97d99fb2aad83d16e525d0375e49f61efb9c7e1e8747855dde842e9cfbfcb
+train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-2 -n10 r=0.52_).xlsx,train,.xlsx,494103,597afa447799a327e08fff2c0b4b0ef0c603030684c7d2be42f0eeb8455e4661
+train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-3 -n15 r=0.52_).xlsx,train,.xlsx,495324,d120fdca6a8931d4a7289fa48867a987f717860c00f6dacfbd70b700ca861550
+train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-4 -n20 r=0.52_).xlsx,train,.xlsx,496832,94037fbced0c4494f555936e5eaaefbaf85a71ba6fa1ab7d2bcd4b85da4ee29e
+train/2024.05.27 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-5 -n25 r=0.52_).xlsx,train,.xlsx,498341,3ffc0999927feb70d9fc5f4aeee5faadc8a7a08a003428c096e1f6a9b86fe40b
+train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -n30 r=0.785_).xlsx,train,.xlsx,600224,fdc8c9e72f220efd9aed0967d5efa79959da4aac785cb35d8588ab6fc5592dc2
+train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -n35 r=0.785_).xlsx,train,.xlsx,518757,2f22eed90c95016cafbc4bdcdf2fa8d3db0ff1c4cee5e424489cda87f5c7af3c
+train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -n40 r=0.785_).xlsx,train,.xlsx,518495,bac3a4be8c08a62dab1b4fe5466cf71402df81948a0c7619e93abf781fdbb648
+train/2024.05.28 S&U H=9 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -n33 r=0.785_).xlsx,train,.xlsx,518945,5076cb9db7d829be24a39a2059d029a9c564019d4cb69b5c4f90fd854aa82931
+train/2024.05.30 S&U H=5 W=5 TH=0.2 G-S=0.1x0.1x0.1 hole=2.5×2.5 (job-1 -n10 r=0.95_).xlsx,train,.xlsx,752499,60d3ede18a4d889cdc2257a1050146d78d1d980d23cb4143b42c8958d5a01eca
+train/2024.05.30 S&U H=5 W=5 TH=0.2 G-S=0.1x0.1x0.1 hole=2.5×2.5 (job-2 -n18 r=0.95_).xlsx,train,.xlsx,665599,bc02469ca5e19f0c20d3864284290755e8b915f728e1578c4c098abc154b8afa
+train/2024.05.30 S&U H=5 W=5 TH=0.2 G-S=0.1x0.1x0.1 hole=2.5×2.5 (job-3 -n36 r=0.95_).xlsx,train,.xlsx,678978,04c6b9287419d0344e2f05d8421b518a679b827ea66b140d30e57a8e10fd8b5c
+train/2024.06.05 S&U H=4 W=4 TH=0.1 G-S=0.05x0.05x0.05 hole=1×1 (job-1 -n11 r=1.005_).xlsx,train,.xlsx,1188570,85412a956b61eb6981cc759498bf230156ca6febe50e7aa3f054eb6233675d7d
+train/2024.06.05 S&U H=4 W=4 TH=0.1 G-S=0.05x0.05x0.05 hole=1×1 (job-2 -n5.5 r=1.005_).xlsx,train,.xlsx,1184500,861344645153a824173bb285c1746b3eaedeef4ccc65d1a4bc5af461c26b21b7
+train/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-1 -n20 r=1.227_).xlsx,train,.xlsx,540894,8e61ebf39f7482b64de7d7f3255915bc860f3fb47aeddfc240b8e52410b90ed9
+train/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-2 -n23 r=1.227_).xlsx,train,.xlsx,540564,07761f07a885184b442584fe32cce61c36e08643cac798acb1b8f68eb5741b8f
+train/2024.06.11 S&U H=4 W=4 TH=0.2 G-S=0.1x0.1x0.1 hole=1×1 (job-3 -n26 r=1.227_).xlsx,train,.xlsx,539497,28c468866f95480ea60338d5491c115bc46416db52a056d79ad45a804061656b
+train/2024.06.14 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-1 -n25℃ r=1.03_).xlsx,train,.xlsx,693087,dc64c048d473731a84bac080060314c5cfc86ddfc8bb5008f30d55acfa2d95f0
+train/2024.06.14 S&U H=7 W=3 TH=0.3 G-S=0.1x0.1x0.1 (job-2 -n38℃ r=1.03_).xlsx,train,.xlsx,599976,58c1ae7de79595ff7c7508f421a12b146b9d457276be86fc0cdabd22c6aeecc7
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-1-n35 r=0.76_).xlsx,train,.xlsx,523169,5a50d77f81f5db287cb2f6fa784cc523965a9e0068545ccd1b75b7d6ce919668
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-10 -n40 r=0.76_).xlsx,train,.xlsx,367304,5e059cde22f4e9804512036b66228454e3b8b4cf8e2a0124426199f512752d6f
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-11 -n42.5 r=0.76_).xlsx,train,.xlsx,367126,9c69e0f72654dd8b089fcb2591f54c639798ff730cce2c9152c17a0a16bbc171
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-12 -n45 r=0.76_).xlsx,train,.xlsx,366769,a6adfa224fb28e8c40562399ad6be27c8f942a66f56fd3890a920f5fccb68d93
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-2-n37 r=0.76_).xlsx,train,.xlsx,524485,16779e80d103745d80b653bdb8a1d1e5b60d326e3c5aa7c29db81a4165d00d58
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-3 -n20 r=0.76_).xlsx,train,.xlsx,365650,57d441a1267e909b081a98b881d593f1ae21d315a3e0e66e82230af0d49b2fe6
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-4 -n22.5 r=0.76_).xlsx,train,.xlsx,366363,3dc4c1cd6bc33bf6e492071a3f8833720a06793879b6d2005ebea6c51fa21d79
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-6 -n27.5 r=0.76_).xlsx,train,.xlsx,367406,a0088cd57128b54b4a547f7959c50f0981f79ae091a1ad52787c1c1802d33f4b
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-7 -n30 r=0.76_).xlsx,train,.xlsx,367609,ad8ad7a31b1a90d293de6c2d6f53421b69235063c2433ffe2371f36ea168d227
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-8 -n32.5 r=0.76_).xlsx,train,.xlsx,367375,3713439a1b734fed30627ca5bf86a55953196b52297f83dc3a106802ea7ea6b1
+train/2024.07.01 S&U H=6 W=5 TH=0.25 G-S=0.125x0.125x0.125 (job-9 -n37.5 r=0.76_).xlsx,train,.xlsx,367218,8183dfb91c75c30f8026b638122b9d8ba2350ca6fdac6b306cfbedc4a2891f54
+train/2024.07.07 S&U H=6 W=5 TH=0.3 G-S=0.1x0.1x0.1 (job-1 -n20 r=0.634_).xlsx,train,.xlsx,595163,f5bbe18d8fbfbf3fff45f23739a21121ddd0ce847b141920cafd1d3a2691f54e
+train/2024.07.07 S&U H=6 W=5 TH=0.3 G-S=0.1x0.1x0.1 (job-2 -n23.5 r=0.634_).xlsx,train,.xlsx,604885,faca59e8098857dc8fb19d89e6defb07427a2ff9dddc5995728a23935a36fe57
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -n15 r=0.503_).xlsx,train,.xlsx,423343,254150370186b03494d9a7ee42f4872630902185296af61a896fc599cc609171
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-10 -n24 r=0.503_).xlsx,train,.xlsx,410732,25a40e0576e86d8f976b5d5b6122d1716f3a7624726171d47973781c05f71265
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -n16 r=0.503_).xlsx,train,.xlsx,420192,b448e038ddf4b8c90204a23c54d3ede8caa115cf20466d8edaadf27bf3f32db3
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -n18 r=0.503_).xlsx,train,.xlsx,422884,35cb3189d297f7ae3abe2e156f457ee8dbd821003bb27978a07a6e48ce4718c3
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -n19 r=0.503_).xlsx,train,.xlsx,425009,4626d291b7bc9d0c5dcfd28bd7f9c30b5b842be983d515bfbb15ba7a1ef31ca6
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-6 -n20 r=0.503_).xlsx,train,.xlsx,409826,b462c396200612d5091012f6fd41283e1f72b46c06e9f04507f0edfb933a755a
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-7 -n21 r=0.503_).xlsx,train,.xlsx,414033,a557a533f66e8730f955fd23c592d45a15fcf6d75a510bebd42bbb5ce35d6ab3
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-8 -n22 r=0.503_).xlsx,train,.xlsx,426430,0635c75c3080cc0d15bdb2ba595c19ee6e1dd18522babc428436935c11b3c119
+train/2024.08.29 S&U H=3 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-9 -n23 r=0.503_).xlsx,train,.xlsx,410315,5a307a8550a41070a15e8098109cfc6483cbd65753cf2346e751bdfd9b87118f
+train/2024.09.05 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -n25 r=1.227_).xlsx,train,.xlsx,188176,c5c13bbbb4e024a4f0441ad3a9a9a5f25e05646da6629a7a53d3ec63b8e0b631
+train/2024.09.05 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -n26 r=1.227_).xlsx,train,.xlsx,184476,78ed4505064aa15bcbcfd18e7a9b94714f660999146d01b9d316fc711532cb23
+train/2024.09.05 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -n27 r=1.227_).xlsx,train,.xlsx,180282,2fc2a364ac279d9babbff4de13e497aed063be91dff0a9f3846b6ae694d7c25b
+train/2024.09.06 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -n29 r=1.227_).xlsx,train,.xlsx,557546,be63c3f5480359b006a39ecf823b9d6014c30c498f881a7ecfe900f7e91c815c
+train/2024.09.06 S&U H=4 W=3 TH=0.2 G-S=0.1x0.1x0.1 (job-6 -n30 r=1.227_).xlsx,train,.xlsx,556520,9197f17887077944f50940c89d006d189ea5404377f291832c73a926192c05a5
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-1 -t8 r=0.97).xlsx,train,.xlsx,1803642,e4535ae14e3c5d19e75afc59c4c436c77e03d3c846e94fb9f9faa3ecf3c97ae7
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-10 -t21.5 r=0.97).xlsx,train,.xlsx,1919627,69811b3c7a39e6917dc1a7988802d348b5e00ae40497e37f7e205dca70f57771
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-11 -t23 r=0.97).xlsx,train,.xlsx,1919105,8fcad79402d257d9051421349936fa7f5cda02bd294667ac8ae2c9c6b2cb19ae
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-12 -t24.5 r=0.97).xlsx,train,.xlsx,1764188,6661cd09629115d30ad0c722240a8f95f00d867f4844cad48ca745bf31ae3904
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-13 -t26 r=0.97).xlsx,train,.xlsx,1765077,5afc8a085b1dd8e2731dafbf467c4c3810f86095276134dea376f1c65e14ba29
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-14 -t27.5 r=0.97).xlsx,train,.xlsx,1767847,4ae83d67b8c1f47f7ac9fb5cd520d941669ca75a9ba9da5e1cc93e8908aef164
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-15 -t28 r=0.97).xlsx,train,.xlsx,1768816,b3aeec2f12ce80e5df7c33c9c651eb3aedf6d27fef17f43d31d99460d0c76719
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-17 -t31 r=0.97).xlsx,train,.xlsx,1770896,31baad62b53a54f6e39d8627bf12e29010836df7cec30a7a4bbbe89ece4d405d
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-18 -t32.5 r=0.97).xlsx,train,.xlsx,1770795,6e54f10c38bf17d45b4c9b64c708c06c57b55e10789e8d5cc1a99437556dff68
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-19 -t34 r=0.97).xlsx,train,.xlsx,1928943,4a21d7cae9b34f5e582e8d1c3e7bf7e09f07af5396e603aae9cf1b9d2f03b19d
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-2 -t9.5 r=0.97).xlsx,train,.xlsx,1802658,eae1376c9ebc404fbb2945ddce9348677b52cccf6e0b9fbfb3f3b4c2d6147fef
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-20 -n35.5 r=0.97).xlsx,train,.xlsx,1929047,5f2c4cdff88f03864473f3520f179043a4d662065abdcd503a724fb23a92ad1a
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-3 -t11 r=0.97).xlsx,train,.xlsx,1793069,7603b117f0d055aa513f29896472d339f284f96ab588d80802ca13f496a34323
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-4 -t12.5 r=0.97).xlsx,train,.xlsx,1789542,29cfc9b72229e8d4406850ce2badac0559ac558f125e88dc846958c7973124b8
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-5 -t14 r=0.97).xlsx,train,.xlsx,1910318,4596b418079b54eae49f6725851bf5aa0118d50f8590ef7de8c08cc889016e49
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-6 -t15.5 r=0.97).xlsx,train,.xlsx,1848537,e2ad08d1a12dda40b199469e9d5322564951e6b2dcf501465da15052a3e500c0
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-8 -t18.5 r=0.97).xlsx,train,.xlsx,1850670,ef5085bbd45ece62c57d85422323ae218ecb3e7ab49671ad7b09c9783c8b51c5
+train/2024.10.28 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-9 -t20 r=0.97).xlsx,train,.xlsx,1759521,0e292161416813045cfc8d61ff32c3f1d785f68535c58f08426d033ed684ff00
+train/2024.11.10 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-21 -t37 r=0.97).xlsx,train,.xlsx,1863714,283fb6b70bca720d21aef60218ebb8fea62c02cc5a635d47d35394967da213bb
+train/2024.11.10 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-22 -t38.5 r=0.97).xlsx,train,.xlsx,1866574,62535745d9607336c524bc8bc3606a877d6bbad7116f0e74954e0042ee6499d8
+train/2024.11.10 S&U H=4.5 W=4.5 TH=0.2 G-S=0.1x0.1x0.1 (job-23 -t40 r=0.97).xlsx,train,.xlsx,1867126,cb070d1550bdd287e9c222415a0bc4ef1aa4afec93ff78ef4b493d2d794cc570
+train/2024.11.17 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-1 -n6 r=1.61).xlsx,train,.xlsx,1454491,e2774f2a584bbdabbac06a84484a9953c1c1f6b409354e8e9ae81a4cce7e21a6
+train/2024.11.17 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-2 -n8 r=1.61).xlsx,train,.xlsx,1295042,7f8ba788096aa4cad1ac688dc6dffcf09de97a1933221d167359e30a1d8664d0
+train/2024.11.17 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-3 -n10 r=1.61).xlsx,train,.xlsx,1433440,8f5b9ac2cc35538d584e96b35c268a1eb1ab8cc85358a296db82c57b6b49c65a
+train/2024.11.18 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-4 -n12 r=1.61).xlsx,train,.xlsx,1437303,272b3cc10d7ff68383e26ca3e7323dc946671238747e73b1c6bdc6b6b9efca6e
+train/2024.11.19 S&U H=4.5 W=4.5 TH=0.1 G-S=0.1x0.1x0.1 (job-6 -n16 r=1.61).xlsx,train,.xlsx,1431713,284cd3772824e139f6557fcc75d07a0f4a939f980ad36901a487df2007cdbd5b
+train/Huang Zien 2025.04.21-(Slab 05-Model-1-original)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5)-(Ratio=0.26%)-new.xlsx,train,.xlsx,182618,527b81152c027e7ac468db82c2c0ef0f98421c9968b5f745d45baa28c015cceb
+train/Huang Zien 2025.04.21-(Slab 05-Model-1-original)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5)-(Ratio=0.26%).xlsx,train,.xlsx,237803,5efa4484393541fe197428aacf49fca436e18de4b0c94f8a8fa5675ded6d9603
+train/Huang Zien 2025.04.21-(Slab 05-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%)-new.xlsx,train,.xlsx,154069,052ee25a6bc7df9460e0b5231d61ee356d03b4c1d1cb23e8a0696e70947efa27
+train/Huang Zien 2025.04.21-(Slab 05-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%).xlsx,train,.xlsx,224628,73a5fd49dad4de353091ddce0055ab4ac0052314a779621299d714dd2e1289db
+train/Huang Zien 2025.04.21-(Slab 05-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%)-new.xlsx,train,.xlsx,124863,8381b2ed1d3380d1fbe890c336e41319f7ee8c8d645949e646ebee2e78b8d244
+train/Huang Zien 2025.04.21-(Slab 05-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n19.5℃)-(Ratio=0.26%).xlsx,train,.xlsx,184635,fcc2ef73f192bc239bc3adbc75c82e44aaa9713387c1f8ed1037d72bd8408964
+train/Huang Zien 2025.04.21-(Slab 07-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%)-new.xlsx,train,.xlsx,892301,d81cd0506c084a14e2e54c456f136a86d56168004768d3e707ea2e8bf8f7976e
+train/Huang Zien 2025.04.21-(Slab 07-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%).xlsx,train,.xlsx,890114,58a259e9b012d0524df1fe564261f1b68900b64f8a16a836e1327869e59e69d9
+train/Huang Zien 2025.04.21-(Slab 07-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%)-new.xlsx,train,.xlsx,2236093,c4224c7ca03e935a53dc34196ac3c5e70cc41a640cc94c6970d50541c14b092e
+train/Huang Zien 2025.04.21-(Slab 07-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%).xlsx,train,.xlsx,2236362,f8414860d88032c55605f563005a659997a6dfe1dee9a9b95153d07071612618
+train/Huang Zien 2025.04.21-(Slab 07-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%)-new.xlsx,train,.xlsx,125897,092afea784f67471c130342e0196a22b2846c2691b573af3b164d0839140d1be
+train/Huang Zien 2025.04.21-(Slab 07-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n23.7)-(Ratio=0.57%).xlsx,train,.xlsx,185292,4d8db8ade8a38830a2dc1abe178b2ed636646a674da89e4876b6e55f7ca87cf2
+"train/Huang Zien 2025.04.21-(Slab 08-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0,28)-new.xlsx",train,.xlsx,153356,de9d171faed7b5590291feed712de678a35a67176d175df1fed0e9bac60cb4e9
+"train/Huang Zien 2025.04.21-(Slab 08-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0,28).xlsx",train,.xlsx,147739,ecb294e040b05b639ef89ab0fda32f8178e89dca3271fb0fcfea89e418b55dd3
+train/Huang Zien 2025.04.21-(Slab 08-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0.28%)-new.xlsx,train,.xlsx,138422,a397d5841934d82cba5952df60c3fbec1bd8cd8374547b882f1a6a4610352ff8
+train/Huang Zien 2025.04.21-(Slab 08-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0.28%).xlsx,train,.xlsx,138258,8e3949d495fb0a570ec08525e43e398146feb5fb1f9c46d461a13fa8150c80f5
+train/Huang Zien 2025.04.21-(Slab 08-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n25.7)-(Ratio=0%).xlsx,train,.xlsx,173945,96c7f554757bfba88423bc4e61be767d4844bdd5fcd4167f984241f8951ca332
+train/Huang Zien 2025.3.19-(Slab 10-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%)-new.xlsx,train,.xlsx,186676,38e886fcf31a22b3f97c0cb0271bccdde9b570b5e7c0b1aafdcbb1521fd4671a
+train/Huang Zien 2025.3.19-(Slab 10-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%).xlsx,train,.xlsx,174509,98f92c1d96fb0da04d383de7c69d48a1c7dee6a46b89acc268ecda21d1a1fe6e
+train/Huang Zien 2025.3.19-(Slab 10-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%).xlsx,train,.xlsx,152437,0aa4daa31d2aeb5da10f20b01b8f105de6ca5187c3a26012171e0fcc34f2cb42
+train/Huang Zien 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%)-new.xlsx,train,.xlsx,126121,27987104ba6b4ba7fec10ca790104ff187f32d20dde0d8b06b83f9a0f684165c
+train/Huang Zien 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n29)-(Ratio=0.25%).xlsx,train,.xlsx,185597,d306a7b3a43630abccff1a145bab5635b253dc45cfa00a3546b48a21d7faff40
+train/Huang Zien 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09)-new.xlsx,train,.xlsx,193535,b296f84db67e07887d039c64ca86bd051fcaad297e9652599835239a45ff3326
+train/Huang Zien 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09).xlsx,train,.xlsx,168541,45ca3e2c91cf5f2c77f756d9d4ed41505b1cb37d72805d8f6b2275a519c67d32
+train/Huang Zien 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09)-new.xlsx,train,.xlsx,155336,511e6969cbbe60b39a371c059d796f60f3799b7b6d3ff6c12bb82ea14c2c4d11
+train/Huang Zien 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09).xlsx,train,.xlsx,146036,6073eb49a45441b08474d7c28ad5112188c22e9c1a37edc54c5bfbbe19712da3
+train/Huang Zien 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09)-new.xlsx,train,.xlsx,126241,11267c73484860c92c27ca5be39e751a7c298b7316379df960f3cd129439111c
+train/Huang Zien 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n31.3)-(Ratio=0.09).xlsx,train,.xlsx,185659,e2cd50edf51365f26395f2f4718fc85248152698d41c18255ce1bfbd645ed3e9
+train/Huang Zien 2025.3.19-(Slab 12-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%)-new.xlsx,train,.xlsx,181910,471bba208f9f5237861375b21f57687e5e4fe9303549a1a23f2e16512c577cb0
+train/Huang Zien 2025.3.19-(Slab 12-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%).xlsx,train,.xlsx,159933,693af7d79cd1b1e9bce38f26138bf60055187233536b16b1dd50eecee2bbe601
+train/Huang Zien 2025.3.19-(Slab 12-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%)-new.xlsx,train,.xlsx,163895,629f3dc7b806ebbc49942f6c4976ce16f9f5989dd1502576f20fb2b2110fc92e
+train/Huang Zien 2025.3.19-(Slab 12-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%).xlsx,train,.xlsx,228914,94331c82a84c9819726b05d53c1762911acc5dc40893c1f6451814bab7ea29f7
+train/Huang Zien 2025.3.19-(Slab 12-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%)-new.xlsx,train,.xlsx,135708,9a6c02b4c3af43d205e903819235801ab43ae82a211263bd35020981999cd25f
+train/Huang Zien 2025.3.19-(Slab 12-Model-3-no-rebar)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n33.5)-(Ratio=0.28%).xlsx,train,.xlsx,113222,242e112de1dc3b6ea66125de5739a4586fef138dcddee44961e95bf5fe475d90
+train/Huang Zien-(Slab 06-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1x0.1x0.1 n21.7)-(Ratio=0.28%)-new.xlsx,train,.xlsx,171524,7c4e5502f171af6b46e6ef2446cebea2fe7cbeaddb1abd356ac25a8c7c1acdbb
+train/Huang Zien-(Slab 06-Model-1-original)-SU-(L=3 W=3 H=0.2 Grid of slab=0.1x0.1x0.1 n21.7)-(Ratio=0.28%).xlsx,train,.xlsx,329658,464d3cc8f293050c22320b35b018a63fa5e2c1da4558f71ead70adec4e85e07b
+train/Huang Zien-(Slab 06-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%).xlsx,train,.xlsx,320798,10ac0cdd34aa0b08329d35f03afbd08c7a8982656ab1c812b62431655b73f58f
+train/Huang Zien-(Slab 06-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%)-new.xlsx,train,.xlsx,125297,82970f2de43891ed1defffd0371165ce4a1f989a0efbff105b747104110579f0
+train/Huang Zien-(Slab 06-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%).xlsx,train,.xlsx,185022,95bb95e1eed5365adbbeee0030a9c6de5256972353c6fcf70d61c37bb570d8ce
+train/Mou Nan -(Slab 1-area1only-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0%).xlsx,train,.xlsx,107387,de14290b935922b6f6cb595797d750db01cc8549b9a643a434a69633aed67c91
+train/Mou Nan -(Slab 2-area1only-Model-3-norebarl)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0%).xlsx,train,.xlsx,107769,5c24fcd7b6d3f987585574b15a225f5507736a0b6fd282101b7d355cb37ec74a
+train/Mou Nan 2025.10.07-(Slab 7-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.402%)-new.xlsx,train,.xlsx,2250045,6f577377ba41fcdac46f5e511d2b2acaadd9c94d26a7b7918ceebf07b615607d
+train/Mou Nan 2025.3.19)-(Slab 8-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%).xlsx,train,.xlsx,75168,2dc147ee4786e297ec74fd4c53eea705da6e740a89427bf8e3d28eb6d994bd72
+train/Mou Nan 2025.3.19)-(Slab 8-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%).xlsx,train,.xlsx,74817,7b4b11a77a843fcfc641ccc879c13200a566167f31dae6dc4857be8b24e26565
+train/Mou Nan 2025.3.19)-(Slab 8-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0%).xlsx,train,.xlsx,36898,9c737e3cdfe04aabd33704ee25ebd12a5553612311ed7ed121f371983f8be48c
+train/Mou Nan 2025.3.19)-(Slab 9-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%).xlsx,train,.xlsx,50722,f1ca6565c9803e49d84cf02a13ffcbc5848547072a8be72ee41405867914b818
+train/Mou Nan 2025.3.19)-(Slab 9-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%).xlsx,train,.xlsx,53159,463b85427b888172b58ba1327bfe32f29efe2a71d4566ac6fdf0da294eaba7f0
+train/Mou Nan 2025.3.19)-(Slab 9-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0%).xlsx,train,.xlsx,35908,812080855f6a15404de04031bbb6361269a1ad912af3569474663bce98d42cf6
+train/Mou Nan 2025.3.19-(Slab 10-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%)-new.xlsx,train,.xlsx,79474,bee5fbf04918578a5ad6569ce0aa08d6897d5f3b409644d5be4e8d8bda4377cd
+train/Mou Nan 2025.3.19-(Slab 10-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%).xlsx,train,.xlsx,62273,9af0df2141138ec790c04f1331580c39fd67e773cdfbf8bba81ad6ce78c3c69e
+train/Mou Nan 2025.3.19-(Slab 10-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%)-new.xlsx,train,.xlsx,76884,0b1fad21bee9056c75c7ccb5c5dc2f3763aceca68865c576a2345be1cb11d953
+train/Mou Nan 2025.3.19-(Slab 10-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0.294%).xlsx,train,.xlsx,63288,0fc0cec54a9097107781de433bc8726401d1df876dfbe8015456049fad3d4e13
+train/Mou Nan 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0%)-new.xlsx,train,.xlsx,45366,c0ba93363d50592756c6b2b9a713417353f3d46bed0b6f1f2fce201eb4b09730
+train/Mou Nan 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29)-(Ratio=0%).xlsx,train,.xlsx,36438,7b2f54bd92bf6e8c3e8dda9cb07d563541132a6e78d78ce9941a8cf40a5cc553
+train/Mou Nan 2025.3.19-(Slab 11-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0.226%)-new.xlsx,train,.xlsx,65680,668abe409907e0e7bcb179b325c0bc673ef9167ce88c3d3d4a3b263868e24e28
+train/Mou Nan 2025.3.19-(Slab 11-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0.226%).xlsx,train,.xlsx,51545,87db47f608cd612cb508ab869f2d15ce6fa05735b3077800f789edc30f42e23f
+train/Mou Nan 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0)-new.xlsx,train,.xlsx,45223,4aa6ef5f21139d9052a2b5886bb14527ccebe8ddebab598b9c8d17e33f0b1130
+train/Mou Nan 2025.3.19-(Slab 11-Model-3-no-rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n33.5)-(Ratio=0).xlsx,train,.xlsx,36591,e200e73a773f6d817f5a2a910d9dabd33043f94f5047073d82f9eac78d32b70c
+train/Mou Nan 2025.3.19-(Slab 7-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%)-new.xlsx,train,.xlsx,510936,f06943c65c0713dc699a40eefe1ad90113dfc46929a5d07c8a14de57f3037abb
+train/Mou Nan 2025.3.19-(Slab 7-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%).xlsx,train,.xlsx,500734,d47bb58c6586f3d4d73f7534a881d6f09a127fbf646ca772a8ec595515bd4ce9
+train/Mou Nan 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%)-new.xlsx,train,.xlsx,504114,388db184a50323fc89bf8692b7799fe4dc10fc05fca84dc14e15c1c70b1409a9
+train/Mou Nan 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0.402%).xlsx,train,.xlsx,503926,63e77a647881d5b152e666f01e962f393219237e37b39cb06743e1cb70e9e037
+train/Mou Nan 2025.3.19-(Slab 7-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7)-(Ratio=0%).xlsx,train,.xlsx,116799,9a3d1e5a580cf6c2260510c6df546fc26fec73336620a902a1d11ee0643fae2b
+train/Mou Nan 2025.3.19-(Slab 8-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%)-new.xlsx,train,.xlsx,96272,bfd2ac72c5102aad8d9b1c017d07cbcca7e19845ad716d69833d27fc6d437e63
+train/Mou Nan 2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0.226%)-new.xlsx,train,.xlsx,89562,cc05461cd97c45f8679ba6c374eaab99ca6f53d22385d138b19a6e9c17abb7d9
+train/Mou Nan 2025.3.19-(Slab 8-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7)-(Ratio=0%)-new.xlsx,train,.xlsx,46352,e3f93e14aa4171c08da4d9a84285724fd7e640045ca6b1576e4cf618e705f116
+train/Mou Nan 2025.3.19-(Slab 9-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%)-new.xlsx,train,.xlsx,63632,c9c4a304e7e524026372f0da09f0e3487a50f24b8dd6947586b5145221dc009d
+train/Mou Nan 2025.3.19-(Slab 9-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0.308%)new.xlsx,train,.xlsx,64613,0b3650c3126fcc5e69df9139b628aa50b2594863236998c1c350961f99144855
+train/Mou Nan 2025.3.19-(Slab 9-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2)-(Ratio=0%)-new.xlsx,train,.xlsx,43817,ab777eeb93685a81a17dd6cbf2264944ac09423e6178bfdbedbe7b381a41835f
+train/Mou Nan 2025.5.17-(Slab 6-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%)-new.xlsx,train,.xlsx,526539,956f31df5f1f324acaedde08bbe244f70e1e3926a5017134be5e06ecae7b145f
+train/Mou Nan 2025.5.17-(Slab 6-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%).xlsx,train,.xlsx,518083,76ba6fb01b074101131a01c8b61139d65fb17a8a975473df7ca857baed3089b0
+train/Mou Nan 2025.5.17-(Slab 6-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%)-new.xlsx,train,.xlsx,559600,3eda73eae51a09367783dfef7cde1cacf43a5b4256fe4c0d0e1b3a3da0c9250b
+train/Mou Nan 2025.5.17-(Slab 6-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%).xlsx,train,.xlsx,559284,daeaeb90c0650f4ff1b75bbcfa54b13b051f944a6375e9322d338db5cfec3d4a
+train/Mou Nan 2025.5.17-(Slab 6-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%)-new.xlsx,train,.xlsx,135577,79376f6b6eb21a5e2880af391813d2e15fcbc98db60eb758e35a443b453e3496
+train/Mou Nan 2025.5.17-(Slab 6-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%).xlsx,train,.xlsx,108616,657122e98bad77f98720c92bb983b706f1b53c37770ca123a23c1537c6dedeac
+train/Mou Nan 2025.5.26-(Slab 5-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%)-new.xlsx,train,.xlsx,159400,d845fe769def3c9f4ce57cd1d18457c51a2277d198124eccc16cf05c7e5acce3
+train/Mou Nan 2025.5.26-(Slab 5-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0%)-new.xlsx,train,.xlsx,135383,37ea1efaffe07b7d83153d692b24a73156cbf341c0802bc0f4a7b32acd9546bb
+train/Mou Nan 2025.5.26-(Slab 5-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0%).xlsx,train,.xlsx,109698,6e2c88ee50155a6b8749887e253d2c5fd950f1d6f0753dd787bd552d9172a0d2
+train/Mou Nan 2025.6.09-(Slab 4-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.306%)-new.xlsx,train,.xlsx,512248,4279cbcbf5ebe614b4d1e35e7ff45bafc997e0a29f3ca0953e26fd8ddff26511
+train/Mou Nan 2025.6.09-(Slab 4-Model-2-k11=k22=0l)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.306%)-new.xlsx,train,.xlsx,572946,23ff1a2840acb49a1ee11e02c868513b70fa410271f02fd842205b2ddf046e62
+train/Mou Nan 2025.6.09-(Slab 4-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0%)-new.xlsx,train,.xlsx,135393,481130e74b1618da11833b273f7cd4861f6e9ec419a21ad5549ef0eb6ed82095
+train/Mou Nan 2025.6.09-(Slab 4-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0%).xlsx,train,.xlsx,109051,b376f387a64ff0b53a8123ca2d4bbfba4528bdd988319c7ffd97132b2a8d2525
+train/Mou Nan 2025.6.13-(Slab 3-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.294%)-new.xlsx,train,.xlsx,503953,81c504b9f01fd6d11dece54fc2fb47d072cc7a7bfe6a76d695929b1e474ca7b1
+train/Mou Nan 2025.6.13-(Slab 3-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.294%)-new.xlsx,train,.xlsx,540568,b2a919d3da6a292ccc7b5bf068b7a5742a8c182e8671ae6bdfc654fd84951897
+train/Mou Nan 2025.6.13-(Slab 3-Model-3-no rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0%)-new.xlsx,train,.xlsx,139528,85efa8618f0a105b582fb339d8fde92b3f6a22c30ed22af820f22e561c1c09fa
+train/Mou Nan 2025.6.13-(Slab 3-Model-3-no rebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0%).xlsx,train,.xlsx,111834,c692bb09e4461c159ec876e559e351190faeeb08cdab64827e1988f50ed8c2ee
+train/Mou Nan 2025.7.1-(Slab 2-area1only-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n13.2℃)-(Ratio=0.204%)-new.xlsx,train,.xlsx,500801,8851d79b4abf37a56a5e606f4ad7136511f8539f5f34d6dfc662c83360946e78
+train/Mou Nan 2025.7.8-(Slab 1-area1only-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,511994,e999e3ffbc4e36b9dfe384da16987640d4aa8778787bc9b1f1d5237efafb2785
+train/Mou Nan 2025.7.8-(Slab 1-area1only-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,542447,f6338a6827434e539ecff3fef524adb54f365ce47d75e9154cdfbf985d8339b1
+train/Mou Nan 2025.7.8-(Slab 1-area1only-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.1×0.1×0.1 n11.7℃)-(Ratio=0%)-new.xlsx,train,.xlsx,129687,0edf602c7003b6ad9229ae9d34a563ecd2abe399a93751e5a25954f78e1cf10d
+train/Mou Nan 2025.8.19-(Slab 11-Model-1-K11=K22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,803653,1b41218c5099b6fcade817485f6d7bdbdb9db0a3eed8dbc78bfadef62e1edc56
+train/Mou Nan 2025.8.19-(Slab 11-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,750835,26cf7427fa6ec33ad510934dad9c91757dd57c512600e641cfd957b5ee03c0e0
+train/Mou Nan 2025.8.19-(Slab 11-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n33.5℃)-(Ratio=0%)-new.xlsx,train,.xlsx,397700,6dcc9e7c085ebae9108072e83e75561945d894ed9ae392129dce0f1f94e28c12
+train/Mou Nan 2025.8.21-(Slab 9-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%)-new.xlsx,train,.xlsx,511704,edd762de18c344851c37a86a74edded6815694c78ce81fe71c92f7c6dc87754f
+train/Mou Nan 2025.8.21-(Slab 9-Model-2-K11=K22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0.308%)-new.xlsx,train,.xlsx,542861,c3fc9d9ada05ea1301ebde8f2a2d384ab029a819a1dc0326d1d84816e529bdd0
+train/Mou Nan 2025.8.21-(Slab 9-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n26.2℃)-(Ratio=0%)-new.xlsx,train,.xlsx,1728510,0c008bdc239bd9a95292281b7fdd0e715cdec4b4d9d584c8196a42952c91a620
+train/Mou Nan 2025.9.18-(Slab 10-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%)-new.xlsx,train,.xlsx,1892644,d648a113f89c3409ea632faf20a0756a79c5ea0f79fcaceabb5d0ad14535c8fa
+train/Mou Nan 2025.9.18-(Slab 10-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0.294%) - new.xlsx,train,.xlsx,2122288,24e3fab53fb7c2470f4a9add5875cc2306c39fb4ff69668a73a2684f2895dc25
+train/Mou Nan 2025.9.18-(Slab 10-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n29℃)-(Ratio=0%) - new.xlsx,train,.xlsx,1809991,71c360d5c127c69ec40e1a40d5d55e0e9b525261d11cad228ca84f4a4ce75c23
+train/Mou Nan 2025.9.23-(Slab 8-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,2341680,e1723c24a2ae20535aedc79e6c05f24d8104cf4c60a263b8f4e63b03911088e5
+train/Mou Nan 2025.9.23-(Slab 8-Model-2-k11=k22=0)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0.226%)-new.xlsx,train,.xlsx,2326607,f7144d225e3494a4e686d7ecfe9817d49a80e5bb0b73603e4ed14570f11d3efe
+train/Mou Nan 2025.9.23-(Slab 8-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.2×0.2×0.2 n25.7℃)-(Ratio=0%)-new.xlsx,train,.xlsx,1803706,93b4b919c8399a8959e8671c265cfb8db22fafbf51bbc50c722086b343a0d825
+train/Mou Nan 2025.9.27-(Slab 7-Model-1-original)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0.402%)-new.xlsx,train,.xlsx,1779601,430ef4e8dc34f30359f8164bc3854a2ff4538c06fbfa888fbc19ffcf9a25f1ed
+train/Mou Nan 2025.9.27-(Slab 7-Model-3-norebar)-S&U-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n23.7℃)-(Ratio=0%)-new.xlsx,train,.xlsx,2137627,eb1613317f33707401d3e6793dda7166b2f69e8bbc10821d7adfcf266d3ce287
+train/Mou Nan-(Slab 5-Model-1-original)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%).xlsx,train,.xlsx,133483,d4b46f7c41ba2bf77941f4deee2ff43478afae3380aba73215ed357a81a79134
+train/Mou Nan-(Slab 5-Model-2-k11=k22=0)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0.294%).xlsx,train,.xlsx,133798,58c0e237aa2a7bbdbf7939c27db5157a971e3d0fb2852401827c9e8e9ddf04d3
+train/Mou Nan-(Slab 5-Model-3-norebar)-SU-(L=4 W=4 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0%).xlsx,train,.xlsx,109698,2241ffa7f65ea1f7120608301cba84d446bc33d08497db3e4d6364548704ac15
+train/Ren  2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452)-new.xlsx,train,.xlsx,238051,125ee477aeb1a5c8829f779dc1f0d3bb54729eeb6dd0f91257dc1010b1494879
+train/Ren  2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452).xlsx,train,.xlsx,305988,30edbba58e7240f85c82db83be898df52894cfe9ab7389b8fec001009736c6d3
+train/Ren 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%)-new.xlsx,train,.xlsx,180808,d52f2f751b8832f56a7706166039c7fd92721dc7460fecc24a3ff73a5e7605cc
+train/Ren 2025.3.19-(Slab 11-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%).xlsx,train,.xlsx,186644,17e2b38a2470919b591edcbbcb0354b4f67a3f7aecb26f4d32c49e024b3c5a92
+train/Ren 2025.3.19-(Slab 4-1-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.23%).xlsx,train,.xlsx,210010,279099e1a87ca30b852a337f42522c67c05d6155683f977714b8c621f30950b7
+train/Ren Yuhang 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0%)-new.xlsx,train,.xlsx,101274,7e17de1b3cecc166d8085c289599bc8b27bfa24a7cda1a049898d38e3e98f912
+train/Ren Yuhang 2025.3.19-(Slab 10-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0%).xlsx,train,.xlsx,154362,ba4cffb17dd29ee7577eadf1a2d3a70baa6ace5df44d93d9034d6e906a5416fc
+train/Ren Yuhang 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%)-new.xlsx,train,.xlsx,169737,546dc9eb69e543235e11536a8a081c69c85f48fd08f6400ff97803cdd7a42951
+train/Ren Yuhang 2025.3.19-(Slab 11-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n29℃)-(Ratio=0.402%).xlsx,train,.xlsx,261022,c02e2a1f3237e0ffef32cda5a02006d298334588e4bcb313728a76693db371db
+train/Ren Yuhang 2025.3.19-(Slab 4-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0.23).xlsx,train,.xlsx,182862,aeb7cc36281941479b6841965c950804ad11c9bfc1323c350b332386c40b64c8
+train/Ren Yuhang 2025.3.19-(Slab 4-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)(Ratio=0.23)-new.xlsx,train,.xlsx,123057,66d4d361c9afe993dfde8cce88d559367bc83488533157e5e2261a50a823c29a
+train/Ren Yuhang 2025.3.19-(Slab 4-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)(Ratio=0.23).xlsx,train,.xlsx,177156,2c21e31994766bddb9501c0ca28c1e589bbcb154118f377c51f8c858db2a36fe
+train/Ren Yuhang 2025.3.19-(Slab 4-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n16.3)-(Ratio=0%).xlsx,train,.xlsx,147931,9b73b821643e58132837268e85d162b9c831dfb7ccfb8ef66667faa7f08acddb
+train/Ren Yuhang 2025.3.19-(Slab 5-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209%)-new.xlsx,train,.xlsx,160156,a71d6cf4c91248c9d17047e318c93ad143aa75ff08d282bc2d79a00f185673e7
+train/Ren Yuhang 2025.3.19-(Slab 5-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209%).xlsx,train,.xlsx,235607,d8d0f78bc9c1f13d26a80f67da6b4f70e0fa202da890ed668ce278d01b024dbd
+train/Ren Yuhang 2025.3.19-(Slab 5-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209)-new.xlsx,train,.xlsx,159978,546c2c13d990acced397caa08d8e505d9d394a1277bedfc8f83e5c6b2eb5eef6
+train/Ren Yuhang 2025.3.19-(Slab 5-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0.209).xlsx,train,.xlsx,161714,8c42781003ebfbb9b55714d3d947961824398f85efbe869754be59069bb53c72
+train/Ren Yuhang 2025.3.19-(Slab 5-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0)-new.xlsx,train,.xlsx,103404,75b7983e198f87032f5f56086c75a2b41bcfad7af5a1a0874e94416b5f3c1879
+train/Ren Yuhang 2025.3.19-(Slab 5-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n17.1)-(Ratio=0).xlsx,train,.xlsx,169067,8299ad446a29e40023851e2b23d668bc3af8397ceea3b7c49cd0cad0f8883e08
+train/Ren Yuhang 2025.3.19-(Slab 6-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.157)-new.xlsx,train,.xlsx,135927,d79dfcbc77aa68d26dd45d404369ccbb25c32c6430f7f91a7805d69622914fb7
+train/Ren Yuhang 2025.3.19-(Slab 6-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.157).xlsx,train,.xlsx,204262,74a3c879e95832317a39e060b18dfd5f19030a6d9a15c8628cac8aff81ffa41d
+train/Ren Yuhang 2025.3.19-(Slab 6-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.175)-new.xlsx,train,.xlsx,137015,290b75e7b3a094b18e67517652fbac208bf24b6b79bfded0f38815a99d201ba1
+train/Ren Yuhang 2025.3.19-(Slab 6-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n19.5)-(Ratio=0.175).xlsx,train,.xlsx,197944,87e051a4b59adc69fa5606445b0046b73feb2d8b5ce3a5c25508052a511b97bc
+train/Ren Yuhang 2025.3.19-(Slab 6-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0)-new.xlsx,train,.xlsx,100924,fbe30fdb9544fe765ed5c3f21c7224f0e9b0fd70ad0e942c217040438ac6fa89
+train/Ren Yuhang 2025.3.19-(Slab 6-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n19.5)-(Ratio=0).xlsx,train,.xlsx,154024,e9a6dec10449c59de32c47933ee2c2cb6bfb00977ebde5615a8880ac5f499577
+train/Ren Yuhang 2025.3.19-(Slab 7-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226%).xlsx,train,.xlsx,192251,d5490ff7be7f7096c1c9094d2b57343820d4741752acd53d15f48feddc767eb2
+train/Ren Yuhang 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226)-new.xlsx,train,.xlsx,136383,4090142a91e2c692182855c6cdc53b0efff42afa6ef693e41edd501cadfe7fa7
+train/Ren Yuhang 2025.3.19-(Slab 7-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0.226).xlsx,train,.xlsx,210189,d562dd5a0825759e02592a4b7d4fb9376acec77aa6b599fa6efc89ce7cfb792b
+train/Ren Yuhang 2025.3.19-(Slab 7-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%)-new.xlsx,train,.xlsx,103705,922bc493bc08eb327e6bffedc82f2e4d1483743968b6f0583b2aeaa1964ee00f
+train/Ren Yuhang 2025.3.19-(Slab 7-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n21.7)-(Ratio=0%).xlsx,train,.xlsx,157527,fbce52bf85341a1b0dc3c6d156371bda3d19ebc8b5e9ce234a92132766cf12fd
+train/Ren Yuhang 2025.3.19-(Slab 8-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n23.7)-(Ratio=0.452)-new.xlsx,train,.xlsx,230618,dc85e7bfeca608769f0d187dbc35599dc42a650f9b0650e32306a2b394f3d856
+train/Ren Yuhang 2025.3.19-(Slab 8-Model-1-original)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125灏.125灏.125 n23.7)-(Ratio=0.452).xlsx,train,.xlsx,298780,8baff2c421b85d5ffe335d31aee0197b9a43507a177825ee84e04260f5fc641b
+train/Ren Yuhang 2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452)-new.xlsx,train,.xlsx,231471,c2b3882954aacafdc4dea3636915bc54fcd8be6798d60071a198f2395ce25d99
+train/Ren Yuhang 2025.3.19-(Slab 8-Model-2-k11=k22=0)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125x0.125x0.125 n23.7)-(Ratio=0.452).xlsx,train,.xlsx,306035,1cd7a5efd4c2d6a1e082f5254b7de5fb8d9f7f9db5dfe4d2d2618a1eb5d9f7c9
+train/Ren Yuhang 2025.3.19-(Slab 8-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23)-(Ratio=0)-new.xlsx,train,.xlsx,101215,8d7b36d723b5e5d042dbdb62552ad3323d47fa9cea6ed3cd7113c2b6def8ceaa
+train/Ren Yuhang 2025.3.19-(Slab 8-Model-3-no-rebar)-SU-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n23)-(Ratio=0).xlsx,train,.xlsx,154217,73486937cf811d86b8f421a3e7e9ffc795594d021d0df61b802942f32b6c572f
+train/Ren Yuhang-(Slab 10-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0.2262%)-new.xlsx,train,.xlsx,165575,6f656525d39cec9a4744ce7f41a9fa1f45eb69575111ac35fb4e8fc010352392
+train/Ren Yuhang-(Slab 10-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n26.2℃)-(Ratio=0.2262%).xlsx,train,.xlsx,266933,e6922c25cfab7738a4ea6d99c392e0da36db05b3c20991360d38450474af345d
+train/Ren Yuhang-(Slab 9-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%)-new.xlsx,train,.xlsx,159737,ac6c063306d14ed930ade2e62d039fe0aafa4ec236668be1ae4f43ef236d67ba
+train/Ren Yuhang-(Slab 9-Model-1-original)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%).xlsx,train,.xlsx,260927,43d483631ca9281ca93077dfb1f5729b4ff0d9c7dd747d1f7dabf0c776b887f4
+train/Ren Yuhang-(Slab 9-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%)-new.xlsx,train,.xlsx,163343,59bf1e0806688e33c5aca3db8a849f0f65cf488e13e3ed8b4bed6bea6bf559b5
+train/Ren Yuhang-(Slab 9-Model-2-k11=k22=0)-S&U-(L=3 W=3 H=0.25 Grid of slab=0.125×0.125×0.125 n25.7℃)-(Ratio=0.2262%).xlsx,train,.xlsx,264254,93572e7242e54d1e7dba0249621e23def78c71a424cd0996a9fb67e31b5efc38
+train/~$Huang Zien-(Slab 06-Model-3-no-rebar)-S&U-(L=3 W=3 H=0.2 Grid of slab=0.1×0.1×0.1 n21.7℃)-(Ratio=0.28%).xlsx,train,.xlsx,165,2bc7e21cf0a22703cfec33c2515cf77bd94282d2f964a71b4a4e9195464f7040
+train.npy,train.npy,.npy,284557440,722fd9265287589d58aaadc396e092773cb966df5b5d945c6adcedc1bb5e35a5
+train_2d.npy,train_2d.npy,.npy,39190656,a4d5a7421c5c9c7435b299ed0bca313defd7b20fd61fa3a7579a24cd1ee8b186
+train_2d_without_areas.npy,train_2d_without_areas.npy,.npy,30146688,63afca61937805180bc597e079a328d70a49d1840c549e637754fb11d59b017e
+train_dense.npy,train_dense.npy,.npy,5472,7cbed8cdfc8d8ec35f0cd9e7e6195232b4cfe9cfce9e90aef26a0f53f95bbc61
+train_parameters.npy,train_parameters.npy,.npy,280624,1ec9078aab3cdba7527bf631dfb7fc53b40239a4e13efe83e619f133ead61d57
+train_prompts.txt,train_prompts.txt,.txt,89050,9edb7c53cb3e123594a1f2a09d074d006e55b661e28d4ecc554346b652ba63ed

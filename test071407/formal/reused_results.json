@@ -1,0 +1,13 @@
+{
+  "model": "U-Net",
+  "source": "/Users/pangtai/Desktop/Experiment/plates with holes/test071405/formal_five_seed",
+  "seeds": [
+    11,
+    23,
+    37,
+    51,
+    73
+  ],
+  "parameters": 87824,
+  "reason": "Identical locked data, input, loss, optimizer, epoch, and seed protocol."
+}

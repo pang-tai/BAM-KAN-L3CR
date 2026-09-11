@@ -1,0 +1,14 @@
+check,passed,detail
+ten_l3cr_runs,True,rows=10
+all_exactly_three_accepted,True,"P6-11:3, P6-23:3, P6-37:3, P6-51:3, P6-73:3, P5-11:3, P5-23:3, P5-37:3, P5-51:3, P5-73:3"
+all_l3cr_pass,True,PASS
+formal_method_coverage,True,"rows=30, expected=30"
+finite_terminal_metrics,True,"consumed_seconds,objective,gradient_norm"
+common_initial_hash,True,max_unique=1
+thirty_accepted_iterates,True,rows=30
+positive_prediction,True,min=6.006046e-04
+rho_acceptance,True,min=0.961397
+strict_objective_descent_each_step,True,largest_delta=-6.003471e-04
+fd_audit,True,max=5.440821e-09
+symmetry_audit,True,max=1.460720e-14
+baseline_budget_source_is_l3cr_time,True,allocation files match L3CR consumed time

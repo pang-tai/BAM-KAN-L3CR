@@ -1,0 +1,31 @@
+experiment,condition,metric,baseline,difference_scale,mean_difference,ci95_low,ci95_high,certified_lower_count,total_pairs
+bam_head,full_137_training_cases,gradient_norm,AdamW,log10(certified)-log10(baseline),-8.2008211413118,-9.684732080820677,-6.80299542713999,5,5
+bam_head,full_137_training_cases,balanced_score,AdamW,certified-baseline,-6.227882283438291e-07,-1.8687995740451769e-06,3.0363774383701527e-09,4,5
+bam_head,full_137_training_cases,gradient_norm,AdamW-0,log10(certified)-log10(baseline),-6.763763806457275,-9.202925558783829,-4.423655121821688,5,5
+bam_head,full_137_training_cases,balanced_score,AdamW-0,certified-baseline,-6.210295098174612e-07,-1.867530234367365e-06,4.436177980515765e-09,3,5
+bam_head,full_137_training_cases,gradient_norm,L-BFGS,log10(certified)-log10(baseline),-7.433690563767454,-7.836084427132637,-6.823678387454704,5,5
+bam_head,full_137_training_cases,balanced_score,L-BFGS,certified-baseline,2.824756450969801e-09,-2.552715350212509e-09,8.513450056035765e-09,2,5
+bam_head,full_137_training_cases,gradient_norm,Original fixed L3CR,log10(certified)-log10(baseline),0.48275670771383405,-0.22943144103112978,1.1949448564587979,2,5
+bam_head,full_137_training_cases,balanced_score,Original fixed L3CR,certified-baseline,9.103828801926283e-16,-1.7763568394002506e-16,2.7311486405778852e-15,2,5
+bam_head,full_137_training_cases,gradient_norm,User optimized L3CR,log10(certified)-log10(baseline),0.0,0.0,0.0,0,5
+bam_head,full_137_training_cases,balanced_score,User optimized L3CR,certified-baseline,0.0,0.0,0.0,0,5
+synthetic,far_negative_control,gradient_norm,AdamW,log10(certified)-log10(baseline),0.3562964984356418,-0.2566614562333902,0.8599304221899683,2,10
+synthetic,far_negative_control,test_mse,AdamW,certified-baseline,-5.761827201047313e-06,-1.7003639494452096e-05,3.4873038556095492e-06,8,10
+synthetic,far_negative_control,gradient_norm,AdamW-0,log10(certified)-log10(baseline),0.35632143994467214,-0.2567069502870956,0.8599287561472864,2,10
+synthetic,far_negative_control,test_mse,AdamW-0,certified-baseline,-5.762058823328507e-06,-1.7004706069635717e-05,3.48794025983343e-06,8,10
+synthetic,far_negative_control,gradient_norm,L-BFGS,log10(certified)-log10(baseline),2.03195074284205,1.4396106034813865,2.539889630468077,1,10
+synthetic,far_negative_control,test_mse,L-BFGS,certified-baseline,5.485117286335711e-06,3.1727152236330985e-07,1.5584410183822348e-05,0,10
+synthetic,far_negative_control,gradient_norm,Original fixed L3CR,log10(certified)-log10(baseline),-0.1556566539564732,-0.9691215640398927,0.5961049653122303,5,10
+synthetic,far_negative_control,test_mse,Original fixed L3CR,certified-baseline,-2.7918494602497616e-05,-9.652336256855702e-05,1.3521550266779218e-05,6,10
+synthetic,far_negative_control,gradient_norm,User optimized L3CR,log10(certified)-log10(baseline),-0.2027973487869979,-0.8548759426911555,0.45662361410282226,4,10
+synthetic,far_negative_control,test_mse,User optimized L3CR,certified-baseline,-2.701435904022708e-07,-1.3968770864258427e-05,1.4162541892142059e-05,5,10
+synthetic,near_local_solution,gradient_norm,AdamW,log10(certified)-log10(baseline),-0.0058335707296250485,-0.5156661787366406,0.45959921966011424,5,10
+synthetic,near_local_solution,test_mse,AdamW,certified-baseline,-7.017480611888052e-09,-1.1015051647502593e-08,-3.694649795810272e-09,10,10
+synthetic,near_local_solution,gradient_norm,AdamW-0,log10(certified)-log10(baseline),-0.006050328746607736,-0.5159829165113416,0.4593930388855585,5,10
+synthetic,near_local_solution,test_mse,AdamW-0,certified-baseline,-7.016448772709292e-09,-1.1013736790660053e-08,-3.6944860964573386e-09,10,10
+synthetic,near_local_solution,gradient_norm,L-BFGS,log10(certified)-log10(baseline),0.14583263937847574,-0.4613875353940506,0.7775493753914293,4,10
+synthetic,near_local_solution,test_mse,L-BFGS,certified-baseline,-1.156962697926438e-09,-1.733074500358687e-09,-5.764192696858045e-10,10,10
+synthetic,near_local_solution,gradient_norm,Original fixed L3CR,log10(certified)-log10(baseline),-0.06906365352908939,-0.9641080784086914,0.6625486806711293,4,10
+synthetic,near_local_solution,test_mse,Original fixed L3CR,certified-baseline,-1.3042921227606943e-10,-4.597732441047043e-10,7.575701261809794e-11,5,10
+synthetic,near_local_solution,gradient_norm,User optimized L3CR,log10(certified)-log10(baseline),-0.052109600464627356,-0.804523588977698,0.4553905739396711,3,10
+synthetic,near_local_solution,test_mse,User optimized L3CR,certified-baseline,-9.856015378180599e-11,-3.144054706585892e-10,6.296309801946268e-11,3,10
